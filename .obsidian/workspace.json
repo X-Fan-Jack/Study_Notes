@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "9701f7296f09ecea",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a4e2d0279a4e5bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaa7ca91c20bcc24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UCL_CASA11/Cellular Automata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29fc5c4c8d69031f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "451149d0aef9653a",
+    "type": "split",
+    "children": [
+      {
+        "id": "02e57d308903ec90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b07d5e92b6a4522",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a085041a8da0c74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dd3ac7e5db67a39",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ad3f6cb6ba4ea4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "302153b7411b7817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6665c3f813815e84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d07b7ec95947d08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb2a8d5595b9341b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0522ac5ce946f80c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "29fc5c4c8d69031f",
+  "lastOpenFiles": [
+    "UCL_CASA06/Machine Learning.md",
+    "UCL_CASA11/Cellular Automata.md",
+    "UCL_CASA11/Agent-Based Model.md",
+    "UCL_CASA02/Urban Simulation.md",
+    "UCL_CASA06/AI(Artificial Intelligence).md",
+    "UCL_CASA06/ANN(Artificial Neural Network).md",
+    "UCL_CASA06/Decision Tree Model.md",
+    "UCL_CASA06/Model Evaluation.md",
+    "img/Pasted image 20230211231338.png",
+    "img/Pasted image 20230211202429.png"
+  ]
+}
