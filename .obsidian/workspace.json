@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursework/ABM_Coursework 1.md",
+                "file": "Coursework/ABM_Coursework_1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursework/ABM_Coursework 1.md",
+                "file": "Coursework/ABM_Coursework_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursework/ABM_Coursework 1.md",
+                "file": "Coursework/ABM_Coursework_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursework/ABM_Coursework 1.md"
+                "file": "Coursework/ABM_Coursework_1.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "2a6d8c16e5765417",
   "lastOpenFiles": [
     "img/1676656047620.jpg",
-    "Coursework/ABM_Coursework 1.md",
+    "Coursework/ABM_Coursework_1.md",
     "img/model1_corr.png",
     "README.md",
     "UCL_CASA11/Agent-Based Model.md",
