@@ -39,16 +39,31 @@ $I_{increasable}$为财富可增长的人数的比例。因为在模型1中，�
 具体数值如下：
 ![[1676656047620.jpg]]
 
-### result analysis
+### Multiple Linear Regressive Analysis
+建立多元线性回归方程$$H\sim x_{initial\_population}+x_{initial\_mean\_sugar}+ x_{initial\_mean\_vision}+x_{initial\_mean\_metabolism}$$
+对各因子进行归一化后，建立多元线性回归方程，以比较各因子对于模型的影响程度大小。
+最终得到线性回归方程为
+$$H=-0.1313\times x_{initial\_population}-0.024\times x_{initial\_mean\_sugar}+ 0.1026\times x_{initial\_mean\_vision}-0.1513\times x_{initial\_mean\_metabolism}+0.7025$$
+回归方程的$R^2=0.909$，结果显著。
+各因子系数表如下：
+|Factor|coefficient|
+|--|--|
+|initial population|-0.1313|
+|initial mean sugar|-0.024|
+|initial mean vision|0.1026|
+|initial mean metabolism|-0.1513|
+
+### Result analysis
 在这种模式下，幸福指数与初始人口呈负相关关系，即人口越多，人们的幸福指数便会下降。
 同时，幸福指数的四个因子对于初始人口都呈现出了较强的负相关性。推测造成这种情况的原因为：在场地一定的情况下，更多的人口会造成更多的竞争进而导致更多的死亡出现，财富的积累和存活率的降低，进而影响幸福指数的增高。
-
-### Step 2: Random mode
+从回归方程的结果中可以看出初始视距对幸福指数的正面影响较大，平均消耗和初始人口数量对幸福指数的负面影响较大，而初始的糖分配对于幸福指数的影响较小。
 
 
 ## Discussion
 
 
 ## Conclusion
+
+## Appendix code
 
 
