@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9517909983a3f4e7",
+        "id": "2d2786556ed4647e",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6d8c16e5765417",
+            "id": "fac770a59f07f910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursework/ABM_Coursework_1.md",
+                "file": "Coursework/ABM_CW1/ABM_Coursework_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursework/ABM_Coursework_1.md",
+                "file": "Coursework/ABM_CW1/ABM_Coursework_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursework/ABM_Coursework_1.md",
+                "file": "Coursework/ABM_CW1/ABM_Coursework_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursework/ABM_Coursework_1.md"
+                "file": "Coursework/ABM_CW1/ABM_Coursework_1.md"
               }
             }
           }
@@ -138,25 +138,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2a6d8c16e5765417",
+  "active": "0b07d5e92b6a4522",
   "lastOpenFiles": [
-    "UCL_CASA11/Cellular Automata.md",
+    "Coursework/ABM_CW1/ABM_CW1_data_analysis.ipynb",
+    "Coursework/ABM_CW1/Sugarscape_2_FEM.nlogo",
+    "Coursework/ABM_CW1/Sugarscape_1_REM.nlogo",
+    "Coursework/ABM_CW1",
+    "Coursework/Sugarscape_1_REM.nlogo",
+    "Coursework/Sugarscape_2_FEM.nlogo",
+    "Code/ABM_CW1_data_analysis.ipynb",
+    "Code/data_analysis.ipynb",
     "UCL_CASA11/Agent-Based Model.md",
+    "UCL_CASA11/Game Theory.md",
+    "UCL_CASA11/Cellular Automata.md",
+    "note/CASA06_20230222_week6.md",
+    "Coursework/ABM_CW1/ABM_Coursework_1.md",
     "UCL_CASA06/Model Evaluation.md",
     "UCL_CASA06/Machine Learning.md",
     "UCL_CASA06/Decision Tree Model.md",
     "UCL_CASA06/ANN(Artificial Neural Network).md",
-    "UCL_CASA06/AI(Artificial Intelligence).md",
-    "UCL_CASA02/Gravity Model.md",
-    "UCL_CASA02/Urban Simulation.md",
-    "UCL_CASA02/Transformation Matrix or OD Matrix.md"
+    "UCL_CASA06/AI(Artificial Intelligence).md"
   ]
 }
