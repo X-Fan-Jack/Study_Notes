@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursework/ABM_CW1/ABM_Coursework_1.md",
+                "file": "Coursework/DataVis_CW1/project/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursework/ABM_CW1/ABM_Coursework_1.md",
+                "file": "Coursework/DataVis_CW1/project/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursework/ABM_CW1/ABM_Coursework_1.md",
+                "file": "Coursework/DataVis_CW1/project/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursework/ABM_CW1/ABM_Coursework_1.md"
+                "file": "Coursework/DataVis_CW1/project/readme.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0b07d5e92b6a4522",
+  "active": "fac770a59f07f910",
   "lastOpenFiles": [
+    "Coursework/ABM_CW1/ABM_Coursework_1.md",
     "Coursework/ABM_CW1/ABM_CW1_data_analysis.ipynb",
     "Coursework/ABM_CW1/Sugarscape_2_FEM.nlogo",
     "Coursework/ABM_CW1/Sugarscape_1_REM.nlogo",
@@ -160,7 +161,6 @@
     "UCL_CASA11/Game Theory.md",
     "UCL_CASA11/Cellular Automata.md",
     "note/CASA06_20230222_week6.md",
-    "Coursework/ABM_CW1/ABM_Coursework_1.md",
     "UCL_CASA06/Model Evaluation.md",
     "UCL_CASA06/Machine Learning.md",
     "UCL_CASA06/Decision Tree Model.md",
