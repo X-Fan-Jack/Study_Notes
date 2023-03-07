@@ -12,4 +12,4 @@ Function Details:
 	5. Info button will open/close the information subwindow. 
 	6. Reset button will rest the map if user change the scale or location of the map.
 The data source is London TFL(http://crowding.data.tfl.gov.uk/). 
-The project has been uploaded to GitHub: 
+The project has been uploaded to GitHub: https://github.com/X-Fan-Jack/Study_Notes/tree/master/Coursework/DataVis_CW1/project
