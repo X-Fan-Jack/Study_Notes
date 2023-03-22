@@ -45,6 +45,9 @@ Small scale:
 3. 展示范围内站点的使用人数变化（按时间发展
 4. 展示Stratford的区域变化：边界变化、人口变化、经济（收入？）变化、landuse changing...
 5. 人口就业类型变化？人口年龄结构？人口薪资结构？
+## Methods
+HTML, CSS, JS, Echart, webGL, Mapbox, 
+Python,
 
 
 ## Data requirement
