@@ -61,6 +61,18 @@ Small scale:
 
 
 ## Function Design
+### Module 1: Map exhibition
+This section will show some data visualization based on the map. For example, a timeline of London's subway development can be controlled.
+This module will contain at least four maps. The large scale map will contain one map, the medium scale will contain one map and the small scale will contain two maps.
+
+### Module 2: Chart display
+This module will display some statistical charts based on the data. For example, the population change in the last ten years for a particular Wards, the change in the age composition of the population in London, etc.
+
+### Module 3: Text display
+This section will show some explanatory text, such as an explanation of the history of the London Underground, an analysis of the impact of the line on the surrounding area, etc.
+
+### Module 4: 3D Scene
+This module is optional and will be tried to be implemented on the basis of the above-mentioned module. The module is planned to show the development of London subway through 3D scenes.
 
 ## Detail Design
 ### Frontside design
