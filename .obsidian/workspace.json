@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79daf65e7cdecb89",
+            "id": "7a9c20d45885a9d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursework/DataVis_CW2/System Design Guide.md",
+                "file": "Coursework/CASA11/ABM_CW2/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursework/DataVis_CW2/System Design Guide.md",
+                "file": "Coursework/CASA11/ABM_CW2/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursework/DataVis_CW2/System Design Guide.md",
+                "file": "Coursework/CASA11/ABM_CW2/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursework/DataVis_CW2/System Design Guide.md"
+                "file": "Coursework/CASA11/ABM_CW2/Readme.md"
               }
             }
           }
@@ -146,28 +146,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "79daf65e7cdecb89",
+  "active": "0b07d5e92b6a4522",
   "lastOpenFiles": [
-    "Coursework/DataVis_CW1/project/readme.md",
-    "Coursework/DataVis_CW2/System Design Guide.md",
-    "Coursework/DataVis_CW2",
-    "Coursework/ABM_CW1/ABM_Coursework_1.md",
-    "Coursework/ABM_CW1/ABM_CW1_data_analysis.ipynb",
-    "Coursework/ABM_CW1/Sugarscape_2_FEM.nlogo",
-    "Coursework/ABM_CW1/Sugarscape_1_REM.nlogo",
-    "Coursework/ABM_CW1",
-    "Coursework/Sugarscape_1_REM.nlogo",
-    "Coursework/Sugarscape_2_FEM.nlogo",
-    "Code/ABM_CW1_data_analysis.ipynb",
-    "Code/data_analysis.ipynb",
+    "Coursework/CASA11/ABM_CW2/Code.nlogo",
+    "UCL_CASA02/Gravity Model.md",
+    "UCL_CASA02/Theory, Model and Simualtion.md",
+    "UCL_CASA02/Network.md",
+    "UCL_CASA06/AI(Artificial Intelligence).md",
+    "UCL_CASA06/ANN(Artificial Neural Network).md",
+    "UCL_CASA06/Machine Learning.md",
+    "UCL_CASA06/Model Evaluation.md",
+    "UCL_CASA06/Decision Tree Model.md",
+    "Coursework/CASA11/ABM_CW2/Readme.md",
+    "Coursework/CASA02/Readme.md",
+    "Coursework/CASA11/ABM_CW2",
+    "Coursework/CASA11/ABM_CW1/ABM_Coursework_1.md",
+    "Coursework/CASA02/未命名",
+    "Coursework/CASA02",
+    "Coursework/CASA06/Readme.md",
+    "Coursework/CASA11",
+    "Coursework/CASA03/DataVis_CW1/project/readme.md",
+    "Coursework/CASA03",
+    "Coursework/CASA06",
+    "Coursework/CASA03/DataVis_CW2/System Design Guide.md",
+    "Coursework/CASA03/DataVis_CW2",
+    "Coursework/CASA11/ABM_CW1/ABM_CW1_data_analysis.ipynb",
+    "Coursework/CASA11/ABM_CW1/Sugarscape_2_FEM.nlogo",
+    "Coursework/CASA11/ABM_CW1/Sugarscape_1_REM.nlogo",
     "UCL_CASA11/Agent-Based Model.md",
     "UCL_CASA11/Game Theory.md",
     "UCL_CASA11/Cellular Automata.md",
-    "note/CASA06_20230222_week6.md",
-    "UCL_CASA06/Model Evaluation.md",
-    "UCL_CASA06/Machine Learning.md",
-    "UCL_CASA06/Decision Tree Model.md",
-    "UCL_CASA06/ANN(Artificial Neural Network).md",
-    "UCL_CASA06/AI(Artificial Intelligence).md"
+    "note/CASA06_20230222_week6.md"
   ]
 }
