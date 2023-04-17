@@ -29,8 +29,13 @@ how to reduce the traffic congestion by changing the pattern of traffic lights
 ## 总体思路
 基于Netlogo，建立交通路网ABM，探索红绿灯模式对于不同交通路网模型的影响，探索之间的关系。
 
-红灯时长
-绿灯时长
+**核心**：对单个路口进行建模。
+
+红灯时长red-time(不超过90s)
+绿灯时长green-time（不超过90s）
+
+模式 = 红灯时长+黄灯时长3s+绿灯时长
+
 
 场景设定：
 
@@ -42,6 +47,16 @@ how to reduce the traffic congestion by changing the pattern of traffic lights
 1. 所有车辆的平均速度（调和平均数）越大越好
 2. 所有车辆的平均等待时间（算数平均数）越小越好
 
+## 代理人类型
+
+### 车
+行为：加速、减速、停车（可能需要优化）
+
+### 红绿灯
+行为：红灯时长、黄灯时长、绿灯时长
+
+
+
 ## 数据
 车流量Annual Average Daily Flow —— 双向的车流量，一年中平均每一天的行驶过的数量
 $$Q=D \cdot V$$
@@ -50,7 +65,10 @@ $$Q=D \cdot V$$
 
 $$D=\frac{Q}{24\cdot V}$$
 
-车流生成？
+## 车流生成
+将所考虑的区域（十字路口/路网）视为一个整体，只考虑车辆输入该区域的车辆密度进而在输入道路上生成车辆，稳定运行一段时间后，即为模拟的车流量。
+车辆转向决策，由可选择的路线的车流密度的概率分布进行随机转向。
+
 
 
 ## 变量 ==数据输入==
