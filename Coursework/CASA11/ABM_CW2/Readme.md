@@ -29,6 +29,9 @@ how to reduce the traffic congestion by changing the pattern of traffic lights
 ## 总体思路
 基于Netlogo，建立交通路网ABM，探索红绿灯模式对于不同交通路网模型的影响，探索之间的关系。
 
+红灯时长
+绿灯时长
+
 场景设定：不同的
 
 路网模式：十字路口（仅直行、带转弯）、丁字路口、
