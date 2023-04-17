@@ -32,7 +32,7 @@ how to reduce the traffic congestion by changing the pattern of traffic lights
 红灯时长
 绿灯时长
 
-场景设定：不同的
+场景设定：
 
 路网模式：十字路口（仅直行、带转弯）、丁字路口、
 
