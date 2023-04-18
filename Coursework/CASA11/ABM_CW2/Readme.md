@@ -38,7 +38,10 @@ __________________________________________
 
 
 
+https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_AW3D30_V3_2
 
+
+https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30
 ## 技术路线
 
 读取DEM，手动数据着火点patch，基于燃烧方程进行模拟
