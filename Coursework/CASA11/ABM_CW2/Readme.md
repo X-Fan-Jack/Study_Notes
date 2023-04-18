@@ -25,9 +25,23 @@ how to reduce the traffic congestion by changing the pattern of traffic lights
 __________________________________________
 换题咯！ 
 
-新题目：
+## 新题目：
+森林火灾的模拟，基于DEM
+
+## 背景：
+2022年7月20日，意大利与斯洛文尼亚两国边境交界处森林火灾
+2022年7月27日，德国施米尔卡附近的萨克森瑞士国家公园发生森林大火
+2022年8月5日，西班牙加利西亚大区新一轮山火烧至附近的村庄
+
+[500 more wildfires this year than whole of 2021 - fire chief - BBC News](https://www.bbc.co.uk/news/uk-62542606)
+[https://www.bbc.co.uk/news/uk-england-dorset-62539847]
 
 
+
+
+## 技术路线
+
+读取DEM，手动数据着火点patch，基于燃烧方程进行模拟
 
 
 
