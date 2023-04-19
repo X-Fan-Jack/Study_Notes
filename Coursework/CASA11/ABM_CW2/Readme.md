@@ -11,7 +11,7 @@ Document: 1000 words
 
 # Document part
 ## 1. Research Question (approx. 50 words)
-how to reduce the traffic congestion by changing the pattern of traffic lights
+
 ## 2. ODD Description (approx. 750-850 words)
 ### 2.1 Purpose and patterns
 ### 2.2 Entities, state variables, and scales
