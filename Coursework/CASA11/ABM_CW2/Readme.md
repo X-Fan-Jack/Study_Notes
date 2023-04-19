@@ -46,35 +46,7 @@ https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30
 
 ## 技术路线
 
-读取DEM，手动数据着火点patch，基于燃烧方程进行模拟
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+读取DEM，手动输入着火点的patch XY，基于燃烧方程进行模拟燃烧过程。
 
 
 
