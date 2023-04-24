@@ -40,6 +40,11 @@ How does the elevation difference between neighboring patches affect the burning
 
 ## 3. Brief Methodology (approx. 100-200 words)
 
+
+## Bibliography
+
+Feifei Z. and Xinlu X. (2012). ‘An Improved Forest Fire Spread Model and Its Realization’. _GEOMATICS__＆_ _SPATIAL Information Technology_.
+
 __________________________________________
 换题咯！ 
 
