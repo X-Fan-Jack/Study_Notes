@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursework/CASA11/ABM_CW2/Readme.md",
+                "file": "Coursework/CASA02/Urban Simulation CW.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3ad3f6cb6ba4ea4a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursework/CASA11/ABM_CW2/Readme.md",
+                "file": "Coursework/CASA02/Urban Simulation CW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursework/CASA11/ABM_CW2/Readme.md",
+                "file": "Coursework/CASA02/Urban Simulation CW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursework/CASA11/ABM_CW2/Readme.md"
+                "file": "Coursework/CASA02/Urban Simulation CW.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "7a9c20d45885a9d9",
   "lastOpenFiles": [
-    "Coursework/CASA11/ABM_CW1/ABM_Coursework_1.md",
     "Coursework/CASA11/ABM_CW2/Readme.md",
+    "Coursework/CASA11/ABM_CW1/ABM_Coursework_1.md",
     "Coursework/CASA06/Readme.md",
     "UCL_CASA06/AI(Artificial Intelligence).md",
     "README.md",
