@@ -1,0 +1,4617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="line_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="name" attr.type="string" />
+  <key id="d4" for="edge" attr.name="length" attr.type="double" />
+  <key id="d3" for="node" attr.name="coords" attr.type="string" />
+  <key id="d2" for="node" attr.name="lines" attr.type="string" />
+  <key id="d1" for="node" attr.name="station_name" attr.type="string" />
+  <key id="d0" for="graph" attr.name="crs" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="910GCAMHTH">
+      <data key="d1">Cambridge Heath</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(534825.0140298002, 183290.813466997)</data>
+    </node>
+    <node id="910GBTHNLGR">
+      <data key="d1">Bethnal Green</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(534722.8128585197, 182339.4765229544)</data>
+    </node>
+    <node id="910GLONFLDS">
+      <data key="d1">London Fields</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(534781.0786478331, 184260.2898152636)</data>
+    </node>
+    <node id="910GHAKNYNM">
+      <data key="d1">Hackney Downs</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(534529.2014996386, 185134.37429861515)</data>
+    </node>
+    <node id="910GRCTRYRD">
+      <data key="d1">Rectory Road</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533995.4749951436, 186184.78663694445)</data>
+    </node>
+    <node id="910GSTKNWNG">
+      <data key="d1">Stoke Newington</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533680.6874587485, 186891.5182760557)</data>
+    </node>
+    <node id="910GSTMFDHL">
+      <data key="d1">Stamford Hill</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533378.3633285572, 187926.62420444167)</data>
+    </node>
+    <node id="910GSEVNSIS">
+      <data key="d1">Seven Sisters (Rail)</data>
+      <data key="d2">London Overground, Crossrail 2</data>
+      <data key="d3">(533463.6949954443, 188903.9427319296)</data>
+    </node>
+    <node id="910GBRUCGRV">
+      <data key="d1">Bruce Grove</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533779.1771136767, 190081.9139555982)</data>
+    </node>
+    <node id="910GWHHRTLA">
+      <data key="d1">White Hart Lane</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533687.4466417112, 191277.8989294959)</data>
+    </node>
+    <node id="910GSIVRST">
+      <data key="d1">Silver Street</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533916.2679660376, 192439.13672547904)</data>
+    </node>
+    <node id="910GEDMNGRN">
+      <data key="d1">Edmonton Green</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(534299.0841250733, 193574.51350624667)</data>
+    </node>
+    <node id="910GSBURY">
+      <data key="d1">Southbury</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(534831.8156815871, 196224.32478286716)</data>
+    </node>
+    <node id="910GTURKYST">
+      <data key="d1">Turkey Street</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(535127.4078949799, 198903.7469044801)</data>
+    </node>
+    <node id="910GTHBLDSG">
+      <data key="d1">Theobalds Grove</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(535869.8502102379, 201075.92656171933)</data>
+    </node>
+    <node id="910GCHESHNT">
+      <data key="d1">Cheshunt</data>
+      <data key="d2">London Overground, National Rail, Crossrail 2</data>
+      <data key="d3">(536644.1703333778, 202306.06434991065)</data>
+    </node>
+    <node id="910GLIVST">
+      <data key="d1">Liverpool Street (Rail)</data>
+      <data key="d2">London Overground, TfL Rail, Crossrail, National Rail</data>
+      <data key="d3">(533264.2396860702, 181654.40763581463)</data>
+    </node>
+    <node id="910GSTFD">
+      <data key="d1">Stratford (Rail)</data>
+      <data key="d2">London Overground, TfL Rail, Crossrail, National Rail</data>
+      <data key="d3">(538517.9947012321, 184495.75427277392)</data>
+    </node>
+    <node id="910GENFLDTN">
+      <data key="d1">Enfield Town</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(532964.278974908, 196543.62729637773)</data>
+    </node>
+    <node id="910GBHILLPK">
+      <data key="d1">Bush Hill Park</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533712.0330984651, 195365.41912289534)</data>
+    </node>
+    <node id="910GROMFORD">
+      <data key="d1">Romford</data>
+      <data key="d2">London Overground, TfL Rail, Crossrail, National Rail</data>
+      <data key="d3">(551399.3269196323, 188485.31309048145)</data>
+    </node>
+    <node id="910GEMRSPKH">
+      <data key="d1">Emerson Park</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(553974.0023072022, 187859.10551701044)</data>
+    </node>
+    <node id="910GUPMNSTR">
+      <data key="d1">Upminster (Rail)</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(556273.4228968221, 186918.03898344596)</data>
+    </node>
+    <node id="910GCLAPTON">
+      <data key="d1">Clapton</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(534791.47484047, 186542.4549154216)</data>
+    </node>
+    <node id="910GSTJMSST">
+      <data key="d1">St James Street</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(536398.6902447043, 188735.113587722)</data>
+    </node>
+    <node id="910GWLTWCEN">
+      <data key="d1">Walthamstow Central (Rail)</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(537279.5805030992, 188975.85360773915)</data>
+    </node>
+    <node id="910GWDST">
+      <data key="d1">Wood Street</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(538492.1088313882, 189420.8095076359)</data>
+    </node>
+    <node id="910GHGHMSPK">
+      <data key="d1">Highams Park</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(538573.1531785086, 191903.17800282396)</data>
+    </node>
+    <node id="910GCHINGFD">
+      <data key="d1">Chingford</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(539210.3342753451, 194625.41054786422)</data>
+    </node>
+    <node id="940GZZLUBXN">
+      <data key="d1">Brixton</data>
+      <data key="d2">Victoria</data>
+      <data key="d3">(531052.3734527166, 175421.81227501947)</data>
+    </node>
+    <node id="940GZZLUSKW">
+      <data key="d1">Stockwell</data>
+      <data key="d2">Northern, Victoria</data>
+      <data key="d3">(530495.1020293274, 176472.79380314104)</data>
+    </node>
+    <node id="940GZZLUVXL">
+      <data key="d1">Vauxhall</data>
+      <data key="d2">Victoria, National Rail</data>
+      <data key="d3">(530418.5429035056, 177894.23430052545)</data>
+    </node>
+    <node id="940GZZLUPCO">
+      <data key="d1">Pimlico</data>
+      <data key="d2">Victoria</data>
+      <data key="d3">(529721.8547497252, 178312.50395171426)</data>
+    </node>
+    <node id="940GZZLUVIC">
+      <data key="d1">Victoria</data>
+      <data key="d2">District, Circle, Victoria, National Rail, Crossrail 2</data>
+      <data key="d3">(528987.4520059645, 179124.79174505745)</data>
+    </node>
+    <node id="940GZZLUGPK">
+      <data key="d1">Green Park</data>
+      <data key="d2">Jubilee, Piccadilly, Victoria</data>
+      <data key="d3">(528966.3630700586, 180259.11959586246)</data>
+    </node>
+    <node id="940GZZLUOXC">
+      <data key="d1">Oxford Circus</data>
+      <data key="d2">Bakerloo, Central, Victoria</data>
+      <data key="d3">(529013.7072633647, 181234.00661363895)</data>
+    </node>
+    <node id="940GZZLUWRR">
+      <data key="d1">Warren Street</data>
+      <data key="d2">Northern, Victoria</data>
+      <data key="d3">(529263.4413757394, 182280.27012219332)</data>
+    </node>
+    <node id="940GZZLUEUS">
+      <data key="d1">Euston</data>
+      <data key="d2">Northern, Victoria</data>
+      <data key="d3">(529517.2829149835, 182707.22445799923)</data>
+    </node>
+    <node id="940GZZLUKSX">
+      <data key="d1">King's Cross St. Pancras</data>
+      <data key="d2">Hammersmith &amp; City, Circle, Metropolitan, Northern, Piccadilly, Victoria</data>
+      <data key="d3">(530297.7937314082, 182968.91621423292)</data>
+    </node>
+    <node id="940GZZLUHAI">
+      <data key="d1">Highbury &amp; Islington</data>
+      <data key="d2">Victoria</data>
+      <data key="d3">(531581.7602235575, 184826.4230491881)</data>
+    </node>
+    <node id="940GZZLUFPK">
+      <data key="d1">Finsbury Park</data>
+      <data key="d2">Piccadilly, Victoria, National Rail</data>
+      <data key="d3">(531351.5878606541, 186783.23173028592)</data>
+    </node>
+    <node id="940GZZLUSVS">
+      <data key="d1">Seven Sisters</data>
+      <data key="d2">Victoria</data>
+      <data key="d3">(533642.6511275761, 188953.1745724898)</data>
+    </node>
+    <node id="940GZZLUTMH">
+      <data key="d1">Tottenham Hale</data>
+      <data key="d2">Victoria, National Rail, Crossrail 2</data>
+      <data key="d3">(534502.0071970794, 189513.4188715004)</data>
+    </node>
+    <node id="940GZZLUBLR">
+      <data key="d1">Blackhorse Road</data>
+      <data key="d2">Victoria</data>
+      <data key="d3">(535834.1495402841, 189389.81770550716)</data>
+    </node>
+    <node id="940GZZLUWWL">
+      <data key="d1">Walthamstow Central</data>
+      <data key="d2">Victoria</data>
+      <data key="d3">(537270.4329271874, 189083.5165477444)</data>
+    </node>
+    <node id="940GZZLUECT">
+      <data key="d1">Earl's Court</data>
+      <data key="d2">District, Piccadilly</data>
+      <data key="d3">(525465.1251009426, 178494.03812961967)</data>
+    </node>
+    <node id="940GZZLUGTR">
+      <data key="d1">Gloucester Road</data>
+      <data key="d2">District, Circle, Piccadilly</data>
+      <data key="d3">(526199.4874778048, 178841.19374793547)</data>
+    </node>
+    <node id="940GZZLUBSC">
+      <data key="d1">Barons Court</data>
+      <data key="d2">District, Piccadilly</data>
+      <data key="d3">(524109.16882693506, 178324.8270520547)</data>
+    </node>
+    <node id="940GZZLUWKN">
+      <data key="d1">West Kensington</data>
+      <data key="d2">District</data>
+      <data key="d3">(524647.305562031, 178386.58262627549)</data>
+    </node>
+    <node id="940GZZLUHSD">
+      <data key="d1">Hammersmith</data>
+      <data key="d2">District, Piccadilly</data>
+      <data key="d3">(523438.9433058528, 178515.7678261642)</data>
+    </node>
+    <node id="940GZZLUTNG">
+      <data key="d1">Turnham Green</data>
+      <data key="d2">District, Piccadilly</data>
+      <data key="d3">(521265.1370007469, 178799.62803974905)</data>
+    </node>
+    <node id="940GZZLURVP">
+      <data key="d1">Ravenscourt Park</data>
+      <data key="d2">District</data>
+      <data key="d3">(522568.18788331596, 178716.60217416636)</data>
+    </node>
+    <node id="940GZZLUSFB">
+      <data key="d1">Stamford Brook</data>
+      <data key="d2">District</data>
+      <data key="d3">(521869.2642480329, 178791.2193092606)</data>
+    </node>
+    <node id="940GZZLUACT">
+      <data key="d1">Acton Town</data>
+      <data key="d2">District, Piccadilly</data>
+      <data key="d3">(519483.3465497507, 179591.96790664282)</data>
+    </node>
+    <node id="940GZZLUCWP">
+      <data key="d1">Chiswick Park</data>
+      <data key="d2">District</data>
+      <data key="d3">(520323.1892909091, 178714.50070193858)</data>
+    </node>
+    <node id="940GZZLUSEA">
+      <data key="d1">South Ealing</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(517600.83252029656, 179368.46943847637)</data>
+    </node>
+    <node id="940GZZLUECM">
+      <data key="d1">Ealing Common</data>
+      <data key="d2">District, Piccadilly</data>
+      <data key="d3">(518890.8698151328, 180386.20802209055)</data>
+    </node>
+    <node id="940GZZLUKNB">
+      <data key="d1">Knightsbridge</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(527767.6603142112, 179677.86503893702)</data>
+    </node>
+    <node id="940GZZLUSKS">
+      <data key="d1">South Kensington</data>
+      <data key="d2">District, Circle, Piccadilly</data>
+      <data key="d3">(526934.4279193364, 178814.8327666811)</data>
+    </node>
+    <node id="940GZZLUHPC">
+      <data key="d1">Hyde Park Corner</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(528321.4535036212, 179842.593619666)</data>
+    </node>
+    <node id="940GZZLUPCC">
+      <data key="d1">Piccadilly Circus</data>
+      <data key="d2">Bakerloo, Piccadilly</data>
+      <data key="d3">(529628.2313554676, 180654.4356862972)</data>
+    </node>
+    <node id="940GZZLULSQ">
+      <data key="d1">Leicester Square</data>
+      <data key="d2">Northern, Piccadilly</data>
+      <data key="d3">(529968.2765779551, 180803.7597120413)</data>
+    </node>
+    <node id="940GZZLUCGN">
+      <data key="d1">Covent Garden</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(530260.9565431919, 181015.69313231995)</data>
+    </node>
+    <node id="940GZZLUHBN">
+      <data key="d1">Holborn</data>
+      <data key="d2">Central, Piccadilly</data>
+      <data key="d3">(530526.7977331316, 181529.3713565431)</data>
+    </node>
+    <node id="940GZZLURSQ">
+      <data key="d1">Russell Square</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(530231.6897703552, 182137.17361508904)</data>
+    </node>
+    <node id="940GZZLUCAR">
+      <data key="d1">Caledonian Road</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(530564.3656445366, 184952.9671621761)</data>
+    </node>
+    <node id="940GZZLUHWY">
+      <data key="d1">Holloway Road</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(530923.3786884014, 185447.03167181637)</data>
+    </node>
+    <node id="940GZZLUASL">
+      <data key="d1">Arsenal</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(531249.072695187, 186022.28764368495)</data>
+    </node>
+    <node id="940GZZLUMRH">
+      <data key="d1">Manor House</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(532038.2669444978, 187452.30331676517)</data>
+    </node>
+    <node id="940GZZLUTPN">
+      <data key="d1">Turnpike Lane</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(531519.4121965428, 189648.51966249658)</data>
+    </node>
+    <node id="940GZZLUWOG">
+      <data key="d1">Wood Green</data>
+      <data key="d2">Piccadilly, Crossrail 2</data>
+      <data key="d3">(531020.522800753, 190422.4069740335)</data>
+    </node>
+    <node id="940GZZLUBDS">
+      <data key="d1">Bounds Green</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(529997.1199115596, 191469.52120611334)</data>
+    </node>
+    <node id="940GZZLUASG">
+      <data key="d1">Arnos Grove</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(529337.8839856935, 192499.74436641578)</data>
+    </node>
+    <node id="940GZZLUSGT">
+      <data key="d1">Southgate</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(529670.5146973751, 194272.90851630544)</data>
+    </node>
+    <node id="940GZZLUOAK">
+      <data key="d1">Oakwood</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(529373.4211799963, 195939.2669001441)</data>
+    </node>
+    <node id="940GZZLUCKS">
+      <data key="d1">Cockfosters</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(528125.5804367437, 196378.01591567666)</data>
+    </node>
+    <node id="940GZZLUSSQ">
+      <data key="d1">Sloane Square</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(528075.7493601079, 178655.5387158806)</data>
+    </node>
+    <node id="940GZZLUHSK">
+      <data key="d1">High Street Kensington</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(525543.8320435053, 179548.5231728672)</data>
+    </node>
+    <node id="940GZZLURYL">
+      <data key="d1">Rayners Lane</data>
+      <data key="d2">Metropolitan, Piccadilly</data>
+      <data key="d3">(512962.74657874956, 187514.3152906038)</data>
+    </node>
+    <node id="940GZZLUSHH">
+      <data key="d1">South Harrow</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(514310.66251987027, 186373.37438537658)</data>
+    </node>
+    <node id="940GZZLUSUH">
+      <data key="d1">Sudbury Hill</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(515406.2754642013, 185544.32476988016)</data>
+    </node>
+    <node id="940GZZLUSUT">
+      <data key="d1">Sudbury Town</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(516869.2589658375, 184894.60751543153)</data>
+    </node>
+    <node id="940GZZLUALP">
+      <data key="d1">Alperton</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(518029.3219051928, 183776.17966405995)</data>
+    </node>
+    <node id="940GZZLUPKR">
+      <data key="d1">Park Royal</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(519140.7663278008, 182240.8410084893)</data>
+    </node>
+    <node id="940GZZLUNEN">
+      <data key="d1">North Ealing</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(518846.01616138185, 181251.67519966746)</data>
+    </node>
+    <node id="940GZZLUEBY">
+      <data key="d1">Ealing Broadway</data>
+      <data key="d2">Central, District</data>
+      <data key="d3">(517949.97315498686, 180953.2532370509)</data>
+    </node>
+    <node id="940GZZLUUXB">
+      <data key="d1">Uxbridge</data>
+      <data key="d2">Metropolitan, Piccadilly</data>
+      <data key="d3">(505605.79164161877, 184156.71191985445)</data>
+    </node>
+    <node id="940GZZLUHGD">
+      <data key="d1">Hillingdon</data>
+      <data key="d2">Metropolitan, Piccadilly</data>
+      <data key="d3">(507544.8588852762, 185008.64550515497)</data>
+    </node>
+    <node id="940GZZLUICK">
+      <data key="d1">Ickenham</data>
+      <data key="d2">Metropolitan, Piccadilly</data>
+      <data key="d3">(508089.8084796285, 185937.75443791418)</data>
+    </node>
+    <node id="940GZZLURSP">
+      <data key="d1">Ruislip</data>
+      <data key="d2">Metropolitan, Piccadilly</data>
+      <data key="d3">(509483.21437480004, 187013.5122156188)</data>
+    </node>
+    <node id="940GZZLURSM">
+      <data key="d1">Ruislip Manor</data>
+      <data key="d2">Metropolitan, Piccadilly</data>
+      <data key="d3">(510118.87368717283, 187242.51348855183)</data>
+    </node>
+    <node id="940GZZLUEAE">
+      <data key="d1">Eastcote</data>
+      <data key="d2">Metropolitan, Piccadilly</data>
+      <data key="d3">(511171.9715447873, 187632.66808651615)</data>
+    </node>
+    <node id="940GZZLUWHW">
+      <data key="d1">West Harrow</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(514165.9648772987, 188008.84933260124)</data>
+    </node>
+    <node id="940GZZLURMD">
+      <data key="d1">Richmond</data>
+      <data key="d2">District, London Overground</data>
+      <data key="d3">(518108.7180014655, 175185.89053171175)</data>
+    </node>
+    <node id="940GZZLUKWG">
+      <data key="d1">Kew Gardens</data>
+      <data key="d2">District, London Overground</data>
+      <data key="d3">(519196.24209176505, 176740.64812721254)</data>
+    </node>
+    <node id="910GRICHMND">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(518110.0845509689, 175186.10219772742)</data>
+    </node>
+    <node id="910GKEWGRDN">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(519196.6968131239, 176742.71469955076)</data>
+    </node>
+    <node id="940GZZLUGBY">
+      <data key="d1">Gunnersbury</data>
+      <data key="d2">District, London Overground</data>
+      <data key="d3">(519827.1252751185, 178372.8840591922)</data>
+    </node>
+    <node id="910GGNRSBRY">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(519932.76356114936, 178481.2488746894)</data>
+    </node>
+    <node id="910GSACTON">
+      <data key="d1">South Acton</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(520172.96046033886, 179266.57414310466)</data>
+    </node>
+    <node id="940GZZLUHR4">
+      <data key="d1">Heathrow Terminal 4</data>
+      <data key="d2">Piccadilly, Crossrail, National Rail</data>
+      <data key="d3">(508099.6494075941, 174443.7205921469)</data>
+    </node>
+    <node id="940GZZLUHNX">
+      <data key="d1">Hatton Cross</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(509630.8264955319, 175373.37184036965)</data>
+    </node>
+    <node id="940GZZLUHRC">
+      <data key="d1">Heathrow Terminals 2 &amp; 3</data>
+      <data key="d2">Piccadilly, Crossrail, National Rail</data>
+      <data key="d3">(507402.59767863795, 175969.33403650438)</data>
+    </node>
+    <node id="940GZZLUWBN">
+      <data key="d1">West Brompton</data>
+      <data key="d2">District, London Overground, National Rail</data>
+      <data key="d3">(525385.7192433015, 177996.73531414918)</data>
+    </node>
+    <node id="940GZZLUWIM">
+      <data key="d1">Wimbledon</data>
+      <data key="d2">District, Crossrail 2, National Rail</data>
+      <data key="d3">(524822.5336498824, 170706.64226301998)</data>
+    </node>
+    <node id="940GZZLUWIP">
+      <data key="d1">Wimbledon Park</data>
+      <data key="d2">District</data>
+      <data key="d3">(525241.663028112, 172143.69825965376)</data>
+    </node>
+    <node id="940GZZLUSFS">
+      <data key="d1">Southfields</data>
+      <data key="d2">District</data>
+      <data key="d3">(524719.8951958922, 173362.23318128503)</data>
+    </node>
+    <node id="940GZZLUEPY">
+      <data key="d1">East Putney</data>
+      <data key="d2">District</data>
+      <data key="d3">(524380.4161567814, 174860.9494659286)</data>
+    </node>
+    <node id="940GZZLUPYB">
+      <data key="d1">Putney Bridge</data>
+      <data key="d2">District</data>
+      <data key="d3">(524511.1022870853, 175896.2112282014)</data>
+    </node>
+    <node id="940GZZLUPSG">
+      <data key="d1">Parsons Green</data>
+      <data key="d2">District</data>
+      <data key="d3">(525029.0004906653, 176683.04902458674)</data>
+    </node>
+    <node id="940GZZLUFBY">
+      <data key="d1">Fulham Broadway</data>
+      <data key="d2">District</data>
+      <data key="d3">(525418.8379861643, 177235.82589936227)</data>
+    </node>
+    <node id="940GZZLUNHG">
+      <data key="d1">Notting Hill Gate</data>
+      <data key="d2">Central, District, Circle</data>
+      <data key="d3">(525282.8028035113, 180461.02369587816)</data>
+    </node>
+    <node id="940GZZLUBWT">
+      <data key="d1">Bayswater</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(525847.1949364004, 180823.5982007308)</data>
+    </node>
+    <node id="940GZZLUPAC">
+      <data key="d1">Paddington (Praed St)</data>
+      <data key="d2">Bakerloo, District, Circle</data>
+      <data key="d3">(526763.1965941158, 181249.35651104513)</data>
+    </node>
+    <node id="940GZZLUERC">
+      <data key="d1">Edgware Road</data>
+      <data key="d2">District, Hammersmith &amp; City, Circle</data>
+      <data key="d3">(527196.919855032, 181680.43652666424)</data>
+    </node>
+    <node id="940GZZLUSJP">
+      <data key="d1">St. James's Park</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(529651.0784407676, 179503.69426951237)</data>
+    </node>
+    <node id="940GZZLUWSM">
+      <data key="d1">Westminster</data>
+      <data key="d2">District, Circle, Jubilee</data>
+      <data key="d3">(530173.5234837519, 179657.86227249075)</data>
+    </node>
+    <node id="940GZZLUEMB">
+      <data key="d1">Embankment</data>
+      <data key="d2">Bakerloo, District, Circle, Northern</data>
+      <data key="d3">(530390.5813147401, 180346.2540644615)</data>
+    </node>
+    <node id="940GZZLUTMP">
+      <data key="d1">Temple</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(530991.4940425674, 180812.1191387897)</data>
+    </node>
+    <node id="940GZZLUBKF">
+      <data key="d1">Blackfriars</data>
+      <data key="d2">District, Circle, National Rail</data>
+      <data key="d3">(531725.6525363664, 180910.3520100324)</data>
+    </node>
+    <node id="940GZZLUMSH">
+      <data key="d1">Mansion House</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(532376.5189147778, 180942.44320883323)</data>
+    </node>
+    <node id="940GZZLUCST">
+      <data key="d1">Cannon Street</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(532616.0858208768, 180890.9150777887)</data>
+    </node>
+    <node id="940GZZLUMMT">
+      <data key="d1">Monument</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(532911.2799856939, 180816.13800147013)</data>
+    </node>
+    <node id="940GZZLUTWH">
+      <data key="d1">Tower Hill</data>
+      <data key="d2">District, Circle</data>
+      <data key="d3">(533493.1152525776, 180737.92493299482)</data>
+    </node>
+    <node id="940GZZLUADE">
+      <data key="d1">Aldgate East</data>
+      <data key="d2">District, Hammersmith &amp; City</data>
+      <data key="d3">(533885.0377482547, 181342.15904776577)</data>
+    </node>
+    <node id="940GZZLUALD">
+      <data key="d1">Aldgate</data>
+      <data key="d2">Circle, Metropolitan</data>
+      <data key="d3">(533621.7562325703, 181218.2914789415)</data>
+    </node>
+    <node id="940GZZLULVT">
+      <data key="d1">Liverpool Street</data>
+      <data key="d2">Central, Hammersmith &amp; City, Circle, Metropolitan</data>
+      <data key="d3">(533092.2255220341, 181560.87604509137)</data>
+    </node>
+    <node id="940GZZLUWPL">
+      <data key="d1">Whitechapel</data>
+      <data key="d2">District, Hammersmith &amp; City, East London</data>
+      <data key="d3">(534626.5437838959, 181857.270521643)</data>
+    </node>
+    <node id="940GZZLUSGN">
+      <data key="d1">Stepney Green</data>
+      <data key="d2">District, Hammersmith &amp; City</data>
+      <data key="d3">(535610.364527914, 182118.76045795035)</data>
+    </node>
+    <node id="940GZZLUMED">
+      <data key="d1">Mile End</data>
+      <data key="d2">Central, District, Hammersmith &amp; City</data>
+      <data key="d3">(536520.9560262308, 182548.39611411007)</data>
+    </node>
+    <node id="940GZZLUBWR">
+      <data key="d1">Bow Road</data>
+      <data key="d2">District, Hammersmith &amp; City</data>
+      <data key="d3">(537113.1791199922, 182733.07263892534)</data>
+    </node>
+    <node id="940GZZLUBBB">
+      <data key="d1">Bromley-by-Bow</data>
+      <data key="d2">District, Hammersmith &amp; City</data>
+      <data key="d3">(538039.1584121988, 182520.43929505878)</data>
+    </node>
+    <node id="940GZZLUWHM">
+      <data key="d1">West Ham</data>
+      <data key="d2">District, Hammersmith &amp; City, Jubilee, National Rail</data>
+      <data key="d3">(539137.0298429725, 182951.39784563542)</data>
+    </node>
+    <node id="940GZZLUPLW">
+      <data key="d1">Plaistow</data>
+      <data key="d2">District, Hammersmith &amp; City</data>
+      <data key="d3">(539972.641421497, 183287.91358661128)</data>
+    </node>
+    <node id="940GZZLUUPK">
+      <data key="d1">Upton Park</data>
+      <data key="d2">District, Hammersmith &amp; City</data>
+      <data key="d3">(541197.6129822616, 183774.44668431144)</data>
+    </node>
+    <node id="940GZZLUEHM">
+      <data key="d1">East Ham</data>
+      <data key="d2">District, Hammersmith &amp; City</data>
+      <data key="d3">(542405.4868830008, 184255.4380976577)</data>
+    </node>
+    <node id="940GZZLUBKG">
+      <data key="d1">Barking</data>
+      <data key="d2">District, Hammersmith &amp; City</data>
+      <data key="d3">(544428.7492124874, 184341.19636654516)</data>
+    </node>
+    <node id="940GZZLUUPY">
+      <data key="d1">Upney</data>
+      <data key="d2">District</data>
+      <data key="d3">(545717.4744921671, 184240.75596977392)</data>
+    </node>
+    <node id="940GZZLUBEC">
+      <data key="d1">Becontree</data>
+      <data key="d2">District</data>
+      <data key="d3">(547620.6793998175, 184524.67979338963)</data>
+    </node>
+    <node id="940GZZLUDGY">
+      <data key="d1">Dagenham Heathway</data>
+      <data key="d2">District</data>
+      <data key="d3">(549032.9940879976, 184716.02976042556)</data>
+    </node>
+    <node id="940GZZLUDGE">
+      <data key="d1">Dagenham East</data>
+      <data key="d2">District</data>
+      <data key="d3">(550268.8695443436, 185029.33298001834)</data>
+    </node>
+    <node id="940GZZLUEPK">
+      <data key="d1">Elm Park</data>
+      <data key="d2">District</data>
+      <data key="d3">(552456.9833174036, 185704.7844419221)</data>
+    </node>
+    <node id="940GZZLUHCH">
+      <data key="d1">Hornchurch</data>
+      <data key="d2">District</data>
+      <data key="d3">(553903.5973270015, 186234.00113298418)</data>
+    </node>
+    <node id="940GZZLUUPB">
+      <data key="d1">Upminster Bridge</data>
+      <data key="d2">District</data>
+      <data key="d3">(555008.5763099504, 186749.4828183282)</data>
+    </node>
+    <node id="940GZZLUUPM">
+      <data key="d1">Upminster</data>
+      <data key="d2">District</data>
+      <data key="d3">(556276.7399949187, 186863.9700239267)</data>
+    </node>
+    <node id="940GZZLUBST">
+      <data key="d1">Baker Street</data>
+      <data key="d2">Bakerloo, Hammersmith &amp; City, Circle, Jubilee, Metropolitan</data>
+      <data key="d3">(528061.608007069, 182010.30083781155)</data>
+    </node>
+    <node id="940GZZLUGPS">
+      <data key="d1">Great Portland Street</data>
+      <data key="d2">Hammersmith &amp; City, Circle, Metropolitan</data>
+      <data key="d3">(528861.9287262575, 182179.18421714084)</data>
+    </node>
+    <node id="940GZZLUESQ">
+      <data key="d1">Euston Square</data>
+      <data key="d2">Hammersmith &amp; City, Circle, Metropolitan</data>
+      <data key="d3">(529438.4920540017, 182399.39466041088)</data>
+    </node>
+    <node id="940GZZLUFCN">
+      <data key="d1">Farringdon</data>
+      <data key="d2">Hammersmith &amp; City, Circle, Metropolitan</data>
+      <data key="d3">(531595.4907917251, 181845.35166908638)</data>
+    </node>
+    <node id="940GZZLUBBN">
+      <data key="d1">Barbican</data>
+      <data key="d2">Hammersmith &amp; City, Circle, Metropolitan</data>
+      <data key="d3">(532072.2987083032, 181858.6164657728)</data>
+    </node>
+    <node id="940GZZLUMGT">
+      <data key="d1">Moorgate</data>
+      <data key="d2">Hammersmith &amp; City, Circle, Metropolitan, Northern, National Rail</data>
+      <data key="d3">(532737.6014321152, 181642.81298841862)</data>
+    </node>
+    <node id="940GZZLUHSC">
+      <data key="d1">Hammersmith</data>
+      <data key="d2">Circle, Hammersmith &amp; City</data>
+      <data key="d3">(523311.99974826357, 178732.3093339117)</data>
+    </node>
+    <node id="940GZZLUGHK">
+      <data key="d1">Goldhawk Road</data>
+      <data key="d2">Circle, Hammersmith &amp; City</data>
+      <data key="d3">(523180.39223857725, 179602.61370929)</data>
+    </node>
+    <node id="940GZZLUSBM">
+      <data key="d1">Shepherd's Bush Market</data>
+      <data key="d2">Circle, Hammersmith &amp; City</data>
+      <data key="d3">(523190.20241207513, 180031.20957401313)</data>
+    </node>
+    <node id="940GZZLUWLA">
+      <data key="d1">Wood Lane</data>
+      <data key="d2">Circle, Hammersmith &amp; City</data>
+      <data key="d3">(523364.03971823124, 180511.36089213076)</data>
+    </node>
+    <node id="940GZZLULRD">
+      <data key="d1">Latimer Road</data>
+      <data key="d2">Circle, Hammersmith &amp; City</data>
+      <data key="d3">(523757.65508739813, 180890.64869805577)</data>
+    </node>
+    <node id="940GZZLULAD">
+      <data key="d1">Ladbroke Grove</data>
+      <data key="d2">Circle, Hammersmith &amp; City</data>
+      <data key="d3">(524230.5566487999, 181332.95118853077)</data>
+    </node>
+    <node id="940GZZLUWSP">
+      <data key="d1">Westbourne Park</data>
+      <data key="d2">Circle, Hammersmith &amp; City</data>
+      <data key="d3">(524875.0016329838, 181758.2837075325)</data>
+    </node>
+    <node id="940GZZLURYO">
+      <data key="d1">Royal Oak</data>
+      <data key="d2">Circle, Hammersmith &amp; City</data>
+      <data key="d3">(525818.0991091431, 181571.69820588594)</data>
+    </node>
+    <node id="940GZZLUPAH">
+      <data key="d1">Paddington</data>
+      <data key="d2">Hammersmith &amp; City, Circle</data>
+      <data key="d3">(526605.627731616, 181417.36919089372)</data>
+    </node>
+    <node id="940GZZLUHOH">
+      <data key="d1">Harrow-on-the-Hill</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(515376.12614558527, 188019.21011248045)</data>
+    </node>
+    <node id="940GZZLUAMS">
+      <data key="d1">Amersham</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(496317.13269369275, 198186.65940455825)</data>
+    </node>
+    <node id="940GZZLUCAL">
+      <data key="d1">Chalfont &amp; Latimer</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(499625.28463416884, 197564.91062971082)</data>
+    </node>
+    <node id="940GZZLUCYD">
+      <data key="d1">Chorleywood</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(502593.19298427517, 196082.17162426753)</data>
+    </node>
+    <node id="940GZZLURKW">
+      <data key="d1">Rickmansworth</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(505722.9335019006, 194589.0856434431)</data>
+    </node>
+    <node id="940GZZLUMPK">
+      <data key="d1">Moor Park</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(508608.86506445677, 193492.19364425214)</data>
+    </node>
+    <node id="940GZZLUNOW">
+      <data key="d1">Northwood</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(509243.0674817562, 191393.23843212536)</data>
+    </node>
+    <node id="940GZZLUNWH">
+      <data key="d1">Northwood Hills</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(510290.73239854537, 190256.56265003735)</data>
+    </node>
+    <node id="940GZZLUPNR">
+      <data key="d1">Pinner</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(512259.31592309655, 189448.53023709613)</data>
+    </node>
+    <node id="940GZZLUNHA">
+      <data key="d1">North Harrow</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(513526.1770168688, 188618.50933020213)</data>
+    </node>
+    <node id="940GZZLUNKP">
+      <data key="d1">Northwick Park</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(516661.76213726524, 187965.20847003744)</data>
+    </node>
+    <node id="940GZZLUPRD">
+      <data key="d1">Preston Road</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(518246.5461180042, 187288.22650045052)</data>
+    </node>
+    <node id="940GZZLUWYP">
+      <data key="d1">Wembley Park</data>
+      <data key="d2">Jubilee, Metropolitan</data>
+      <data key="d3">(519314.95501878276, 186389.06759733183)</data>
+    </node>
+    <node id="940GZZLUCXY">
+      <data key="d1">Croxley</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(507914.81055892917, 195410.44881205767)</data>
+    </node>
+    <node id="940GZZLUWAF">
+      <data key="d1">Watford</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(509570.9286349635, 196583.40961469797)</data>
+    </node>
+    <node id="940GZZLUCSM">
+      <data key="d1">Chesham</data>
+      <data key="d2">Metropolitan</data>
+      <data key="d3">(496080.9127428527, 201651.23831745883)</data>
+    </node>
+    <node id="940GZZLUWTA">
+      <data key="d1">West Acton</data>
+      <data key="d2">Central</data>
+      <data key="d3">(519394.92258799495, 181320.36831674213)</data>
+    </node>
+    <node id="940GZZLUNAN">
+      <data key="d1">North Acton</data>
+      <data key="d2">Central</data>
+      <data key="d3">(520830.0411689915, 181956.03996356978)</data>
+    </node>
+    <node id="940GZZLUWRP">
+      <data key="d1">West Ruislip</data>
+      <data key="d2">Central, National Rail</data>
+      <data key="d3">(508376.20308927295, 186796.04390207859)</data>
+    </node>
+    <node id="940GZZLURSG">
+      <data key="d1">Ruislip Gardens</data>
+      <data key="d2">Central</data>
+      <data key="d3">(510273.5344466546, 185847.75358847732)</data>
+    </node>
+    <node id="940GZZLUSRP">
+      <data key="d1">South Ruislip</data>
+      <data key="d2">Central, National Rail</data>
+      <data key="d3">(511066.26194364065, 185452.7040742032)</data>
+    </node>
+    <node id="940GZZLUNHT">
+      <data key="d1">Northolt</data>
+      <data key="d2">Central</data>
+      <data key="d3">(513182.3718088354, 184537.7449266644)</data>
+    </node>
+    <node id="940GZZLUGFD">
+      <data key="d1">Greenford</data>
+      <data key="d2">Central, National Rail</data>
+      <data key="d3">(514879.602716336, 183885.66456991597)</data>
+    </node>
+    <node id="940GZZLUPVL">
+      <data key="d1">Perivale</data>
+      <data key="d2">Central</data>
+      <data key="d3">(516366.0804247383, 183313.338187719)</data>
+    </node>
+    <node id="940GZZLUHGR">
+      <data key="d1">Hanger Lane</data>
+      <data key="d2">Central</data>
+      <data key="d3">(518483.6638651375, 182645.49753234902)</data>
+    </node>
+    <node id="940GZZLUEAN">
+      <data key="d1">East Acton</data>
+      <data key="d2">Central</data>
+      <data key="d3">(521690.2411804101, 181227.11996573972)</data>
+    </node>
+    <node id="940GZZLUWCY">
+      <data key="d1">White City</data>
+      <data key="d2">Central</data>
+      <data key="d3">(523311.8697738821, 180732.408390646)</data>
+    </node>
+    <node id="940GZZLUSBC">
+      <data key="d1">Shepherd's Bush</data>
+      <data key="d2">Central</data>
+      <data key="d3">(523775.6126568618, 179895.6031814178)</data>
+    </node>
+    <node id="940GZZLUHPK">
+      <data key="d1">Holland Park</data>
+      <data key="d2">Central</data>
+      <data key="d3">(524625.5340287163, 180230.87754092948)</data>
+    </node>
+    <node id="940GZZLUQWY">
+      <data key="d1">Queensway</data>
+      <data key="d2">Central</data>
+      <data key="d3">(525894.3703379938, 180620.85296781466)</data>
+    </node>
+    <node id="940GZZLULGT">
+      <data key="d1">Lancaster Gate</data>
+      <data key="d2">Central</data>
+      <data key="d3">(526729.1363104357, 180794.1370995961)</data>
+    </node>
+    <node id="940GZZLUMBA">
+      <data key="d1">Marble Arch</data>
+      <data key="d2">Central</data>
+      <data key="d3">(527925.5146505844, 181009.76349746372)</data>
+    </node>
+    <node id="940GZZLUBND">
+      <data key="d1">Bond Street</data>
+      <data key="d2">Central, Jubilee</data>
+      <data key="d3">(528537.3264173553, 181112.6149277278)</data>
+    </node>
+    <node id="940GZZLUTCR">
+      <data key="d1">Tottenham Court Road</data>
+      <data key="d2">Central, Northern</data>
+      <data key="d3">(529812.2275393715, 181383.37415670097)</data>
+    </node>
+    <node id="940GZZLUCHL">
+      <data key="d1">Chancery Lane</data>
+      <data key="d2">Central</data>
+      <data key="d3">(531084.2681506083, 181598.9739777285)</data>
+    </node>
+    <node id="940GZZLUSPU">
+      <data key="d1">St. Paul's</data>
+      <data key="d2">Central</data>
+      <data key="d3">(532109.1350862177, 181270.90619869542)</data>
+    </node>
+    <node id="940GZZLUBNK">
+      <data key="d1">Bank</data>
+      <data key="d2">Central, Northern, Waterloo &amp; City</data>
+      <data key="d3">(532702.6392167925, 181122.21437982575)</data>
+    </node>
+    <node id="940GZZLUBLG">
+      <data key="d1">Bethnal Green</data>
+      <data key="d2">Central</data>
+      <data key="d3">(534985.622073908, 182742.9460818313)</data>
+    </node>
+    <node id="940GZZLUSTD">
+      <data key="d1">Stratford</data>
+      <data key="d2">Central, Jubilee</data>
+      <data key="d3">(538522.483316851, 184398.425407472)</data>
+    </node>
+    <node id="940GZZLULYN">
+      <data key="d1">Leyton</data>
+      <data key="d2">Central</data>
+      <data key="d3">(538370.9929056336, 186078.83232475026)</data>
+    </node>
+    <node id="940GZZLULYS">
+      <data key="d1">Leytonstone</data>
+      <data key="d2">Central</data>
+      <data key="d3">(539291.8008595015, 187433.9227398974)</data>
+    </node>
+    <node id="940GZZLUSNB">
+      <data key="d1">Snaresbrook</data>
+      <data key="d2">Central</data>
+      <data key="d3">(540163.0986620644, 188809.9546339034)</data>
+    </node>
+    <node id="940GZZLUSWF">
+      <data key="d1">South Woodford</data>
+      <data key="d2">Central</data>
+      <data key="d3">(540535.7649263671, 190066.89574002678)</data>
+    </node>
+    <node id="940GZZLUWOF">
+      <data key="d1">Woodford</data>
+      <data key="d2">Central</data>
+      <data key="d3">(540938.26076193, 191716.58873114863)</data>
+    </node>
+    <node id="940GZZLUBKH">
+      <data key="d1">Buckhurst Hill</data>
+      <data key="d2">Central</data>
+      <data key="d3">(541773.9849191015, 193886.77099463163)</data>
+    </node>
+    <node id="940GZZLULGN">
+      <data key="d1">Loughton</data>
+      <data key="d2">Central</data>
+      <data key="d3">(542311.1674913545, 195617.3551092022)</data>
+    </node>
+    <node id="940GZZLUDBN">
+      <data key="d1">Debden</data>
+      <data key="d2">Central</data>
+      <data key="d3">(544258.0210149793, 196110.09778246726)</data>
+    </node>
+    <node id="940GZZLUTHB">
+      <data key="d1">Theydon Bois</data>
+      <data key="d2">Central</data>
+      <data key="d3">(545531.8976315045, 199089.68019687885)</data>
+    </node>
+    <node id="940GZZLUEPG">
+      <data key="d1">Epping</data>
+      <data key="d2">Central</data>
+      <data key="d3">(546242.1702441485, 201607.42776343314)</data>
+    </node>
+    <node id="940GZZLUWSD">
+      <data key="d1">Wanstead</data>
+      <data key="d2">Central</data>
+      <data key="d3">(540671.1368534825, 188260.45498430816)</data>
+    </node>
+    <node id="940GZZLURBG">
+      <data key="d1">Redbridge</data>
+      <data key="d2">Central</data>
+      <data key="d3">(541832.3623640501, 188370.38298190827)</data>
+    </node>
+    <node id="940GZZLUGTH">
+      <data key="d1">Gants Hill</data>
+      <data key="d2">Central</data>
+      <data key="d3">(543282.4618234278, 188438.55898739467)</data>
+    </node>
+    <node id="940GZZLUNBP">
+      <data key="d1">Newbury Park</data>
+      <data key="d2">Central</data>
+      <data key="d3">(544920.6522931542, 188372.63000575802)</data>
+    </node>
+    <node id="940GZZLUBKE">
+      <data key="d1">Barkingside</data>
+      <data key="d2">Central</data>
+      <data key="d3">(544793.9730565766, 189487.6654035551)</data>
+    </node>
+    <node id="940GZZLUFLP">
+      <data key="d1">Fairlop</data>
+      <data key="d2">Central</data>
+      <data key="d3">(544936.683388718, 190637.98496297217)</data>
+    </node>
+    <node id="940GZZLUHLT">
+      <data key="d1">Hainault</data>
+      <data key="d2">Central</data>
+      <data key="d3">(545075.3113743125, 191505.59507362917)</data>
+    </node>
+    <node id="940GZZLUGGH">
+      <data key="d1">Grange Hill</data>
+      <data key="d2">Central</data>
+      <data key="d3">(544979.1615036089, 192550.2561060062)</data>
+    </node>
+    <node id="940GZZLUCWL">
+      <data key="d1">Chigwell</data>
+      <data key="d2">Central</data>
+      <data key="d3">(543734.2034821874, 193038.4490604404)</data>
+    </node>
+    <node id="940GZZLURVY">
+      <data key="d1">Roding Valley</data>
+      <data key="d2">Central</data>
+      <data key="d3">(541599.5855817277, 192898.09202813305)</data>
+    </node>
+    <node id="940GZZLUKBY">
+      <data key="d1">Kingsbury</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(519358.3274921963, 188720.9439314074)</data>
+    </node>
+    <node id="940GZZLUQBY">
+      <data key="d1">Queensbury</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(518809.73245981015, 189760.23669133353)</data>
+    </node>
+    <node id="940GZZLUCPK">
+      <data key="d1">Canons Park</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(518181.6840128626, 191256.96378157078)</data>
+    </node>
+    <node id="940GZZLUSTM">
+      <data key="d1">Stanmore</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(517578.8302505781, 192537.6429467564)</data>
+    </node>
+    <node id="940GZZDLSTD">
+      <data key="d1">Stratford (DLR 1)</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(538458.5601295116, 184266.98851245263)</data>
+    </node>
+    <node id="940GZZDLSHS">
+      <data key="d1">Stratford High Street</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(538779.9508830806, 183983.0954373948)</data>
+    </node>
+    <node id="940GZZDLABR">
+      <data key="d1">Abbey Road</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(539064.3625331925, 183400.50735837873)</data>
+    </node>
+    <node id="940GZZDLWHM">
+      <data key="d1">West Ham (DLR)</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(539179.6836477239, 182914.73093745322)</data>
+    </node>
+    <node id="940GZZDLSTL">
+      <data key="d1">Star Lane</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(539145.1181709312, 182085.77000250004)</data>
+    </node>
+    <node id="940GZZLUCGT">
+      <data key="d1">Canning Town</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(539442.229949753, 181368.4027665333)</data>
+    </node>
+    <node id="940GZZDLCGT">
+      <data key="d1">Canning Town (DLR)</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(539432.0333773231, 181308.065274105)</data>
+    </node>
+    <node id="940GZZDLRVC">
+      <data key="d1">Royal Victoria</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(540134.3057144515, 180845.36942369613)</data>
+    </node>
+    <node id="940GZZLUHAW">
+      <data key="d1">Harrow &amp; Wealdstone</data>
+      <data key="d2">Bakerloo, London Overground, National Rail</data>
+      <data key="d3">(515405.746497471, 189475.58740790637)</data>
+    </node>
+    <node id="940GZZLUKEN">
+      <data key="d1">Kenton</data>
+      <data key="d2">Bakerloo, London Overground</data>
+      <data key="d3">(516734.1380239979, 188305.38117773557)</data>
+    </node>
+    <node id="910GHROW">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(515404.50821021554, 189476.5721174465)</data>
+    </node>
+    <node id="910GKTON">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(516735.02650823863, 188303.65720474406)</data>
+    </node>
+    <node id="940GZZLUSKT">
+      <data key="d1">South Kenton</data>
+      <data key="d2">Bakerloo, London Overground</data>
+      <data key="d3">(517332.68619936856, 187064.48893364146)</data>
+    </node>
+    <node id="910GSKENTON">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(517333.4236844347, 187062.60757172783)</data>
+    </node>
+    <node id="940GZZLUNWY">
+      <data key="d1">North Wembley</data>
+      <data key="d2">Bakerloo, London Overground</data>
+      <data key="d3">(517666.5018009157, 186198.9846782757)</data>
+    </node>
+    <node id="910GNWEMBLY">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(517667.2347598065, 186197.09938148892)</data>
+    </node>
+    <node id="940GZZLUWYC">
+      <data key="d1">Wembley Central</data>
+      <data key="d2">Bakerloo, London Overground, National Rail</data>
+      <data key="d3">(518248.95032305643, 184987.42493044905)</data>
+    </node>
+    <node id="910GWMBY">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(518249.96815834235, 184985.91836416442)</data>
+    </node>
+    <node id="940GZZLUSGP">
+      <data key="d1">Stonebridge Park</data>
+      <data key="d2">Bakerloo, London Overground</data>
+      <data key="d3">(519667.86455042503, 184184.61723388656)</data>
+    </node>
+    <node id="910GSTNBGPK">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(519669.1777126434, 184183.88875318645)</data>
+    </node>
+    <node id="940GZZLUHSN">
+      <data key="d1">Harlesden</data>
+      <data key="d2">Bakerloo, London Overground</data>
+      <data key="d3">(520918.31436484365, 183378.48052319087)</data>
+    </node>
+    <node id="910GHARLSDN">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(520919.65541410726, 183377.9096666638)</data>
+    </node>
+    <node id="940GZZLUWJN">
+      <data key="d1">Willesden Junction</data>
+      <data key="d2">Bakerloo, London Overground</data>
+      <data key="d3">(521953.9142548446, 182944.66421652888)</data>
+    </node>
+    <node id="910GWLSDJHL">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(521863.9899306182, 182749.82670452644)</data>
+    </node>
+    <node id="940GZZLUKSL">
+      <data key="d1">Kensal Green</data>
+      <data key="d2">Bakerloo, London Overground</data>
+      <data key="d3">(523247.34509939665, 182789.42276638467)</data>
+    </node>
+    <node id="910GKENSLG">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(523248.71775776474, 182789.56822432787)</data>
+    </node>
+    <node id="940GZZLUQPS">
+      <data key="d1">Queen's Park</data>
+      <data key="d2">Bakerloo, London Overground</data>
+      <data key="d3">(524562.1110017404, 183202.01161486038)</data>
+    </node>
+    <node id="910GQPRK">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(524928.3555125962, 183322.07035209157)</data>
+    </node>
+    <node id="940GZZLUKPK">
+      <data key="d1">Kilburn Park</data>
+      <data key="d2">Bakerloo</data>
+      <data key="d3">(525347.5987054592, 183350.59898963693)</data>
+    </node>
+    <node id="910GKLBRNHR">
+      <data key="d1">Kilburn High Road</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(525522.4399838152, 183633.53567502764)</data>
+    </node>
+    <node id="940GZZLUEGW">
+      <data key="d1">Edgware</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(519497.64608500665, 191981.34593468747)</data>
+    </node>
+    <node id="940GZZLUBTK">
+      <data key="d1">Burnt Oak</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(520326.775826646, 190760.91798523406)</data>
+    </node>
+    <node id="940GZZLUCND">
+      <data key="d1">Colindale</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(521327.8836300884, 189950.6891720646)</data>
+    </node>
+    <node id="940GZZLUHCL">
+      <data key="d1">Hendon Central</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(523001.2629928331, 188631.69297261414)</data>
+    </node>
+    <node id="940GZZLUBTX">
+      <data key="d1">Brent Cross</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(523887.93135630694, 187937.5251097739)</data>
+    </node>
+    <node id="940GZZLUGGN">
+      <data key="d1">Golders Green</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(525248.6487577885, 187492.18864661915)</data>
+    </node>
+    <node id="940GZZLUHTD">
+      <data key="d1">Hampstead</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(526394.1131680465, 185739.9094679561)</data>
+    </node>
+    <node id="940GZZLUBZP">
+      <data key="d1">Belsize Park</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(527346.4169240793, 185082.82316797448)</data>
+    </node>
+    <node id="940GZZLUCFM">
+      <data key="d1">Chalk Farm</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(528142.3309813407, 184427.05734719004)</data>
+    </node>
+    <node id="940GZZLUCTN">
+      <data key="d1">Camden Town</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(528913.9117544414, 183861.13596693694)</data>
+    </node>
+    <node id="940GZZLUAGL">
+      <data key="d1">Angel</data>
+      <data key="d2">Northern, Crossrail 2</data>
+      <data key="d3">(531460.4609216294, 183134.26577673753)</data>
+    </node>
+    <node id="940GZZLUODS">
+      <data key="d1">Old Street</data>
+      <data key="d2">Northern, National Rail</data>
+      <data key="d3">(532767.6836032576, 182479.13917396258)</data>
+    </node>
+    <node id="940GZZLULNB">
+      <data key="d1">London Bridge</data>
+      <data key="d2">Jubilee, Northern, National Rail</data>
+      <data key="d3">(532682.3400738342, 180183.6936447745)</data>
+    </node>
+    <node id="940GZZLUBOR">
+      <data key="d1">Borough</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(532431.7433620002, 179740.22012016928)</data>
+    </node>
+    <node id="940GZZLUEAC">
+      <data key="d1">Elephant &amp; Castle</data>
+      <data key="d2">Bakerloo, Northern, National Rail</data>
+      <data key="d3">(531953.0334725666, 179092.35915039905)</data>
+    </node>
+    <node id="940GZZLUKNG">
+      <data key="d1">Kennington</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(531624.3264249746, 178353.2842898363)</data>
+    </node>
+    <node id="940GZZLUOVL">
+      <data key="d1">Oval</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(531171.1993363015, 177563.89052925858)</data>
+    </node>
+    <node id="940GZZLUCPN">
+      <data key="d1">Clapham North</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(530001.4742996875, 175674.33408172114)</data>
+    </node>
+    <node id="940GZZLUCPC">
+      <data key="d1">Clapham Common</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(529476.1809996121, 175312.4720669465)</data>
+    </node>
+    <node id="940GZZLUCPS">
+      <data key="d1">Clapham South</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(528807.7648649262, 174269.23188670655)</data>
+    </node>
+    <node id="940GZZLUBLM">
+      <data key="d1">Balham</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(528459.2426190083, 173192.3943760491)</data>
+    </node>
+    <node id="940GZZLUTBC">
+      <data key="d1">Tooting Bec</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(528017.3829109068, 172339.40288227733)</data>
+    </node>
+    <node id="940GZZLUTBY">
+      <data key="d1">Tooting Broadway</data>
+      <data key="d2">Northern, Crossrail 2</data>
+      <data key="d3">(527446.0193952379, 171451.31006297033)</data>
+    </node>
+    <node id="940GZZLUCSD">
+      <data key="d1">Colliers Wood</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(526784.0833950734, 170363.2673962214)</data>
+    </node>
+    <node id="940GZZLUSWN">
+      <data key="d1">South Wimbledon</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(525814.9981753184, 170029.22734357615)</data>
+    </node>
+    <node id="940GZZLUMDN">
+      <data key="d1">Morden</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(525670.0746706653, 168581.04272190324)</data>
+    </node>
+    <node id="940GZZLUFYC">
+      <data key="d1">Finchley Central</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(525319.2547153608, 190641.36384163366)</data>
+    </node>
+    <node id="940GZZLUMHL">
+      <data key="d1">Mill Hill East</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(524037.7903827212, 191451.7882743216)</data>
+    </node>
+    <node id="940GZZLUWLO">
+      <data key="d1">Waterloo</data>
+      <data key="d2">Bakerloo, Jubilee, Northern, Waterloo &amp; City, National Rail</data>
+      <data key="d3">(530972.3413895653, 179920.90595453716)</data>
+    </node>
+    <node id="940GZZDLBNK">
+      <data key="d1">Bank (DLR)</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(532844.0316335816, 180997.98694449966)</data>
+    </node>
+    <node id="940GZZDLSHA">
+      <data key="d1">Shadwell</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(534982.7424142121, 180993.1765373884)</data>
+    </node>
+    <node id="940GZZDLLIM">
+      <data key="d1">Limehouse</data>
+      <data key="d2">DLR, National Rail</data>
+      <data key="d3">(536126.6571367761, 181092.9301472907)</data>
+    </node>
+    <node id="940GZZDLWFE">
+      <data key="d1">Westferry</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537034.0689954001, 180792.30120067345)</data>
+    </node>
+    <node id="940GZZDLWIQ">
+      <data key="d1">West India Quay</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537481.0872734304, 180520.90237337712)</data>
+    </node>
+    <node id="940GZZDLCAN">
+      <data key="d1">Canary Wharf</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537452.072004007, 180327.35505419108)</data>
+    </node>
+    <node id="940GZZDLHEQ">
+      <data key="d1">Heron Quays</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537420.3540662182, 180113.9248650542)</data>
+    </node>
+    <node id="940GZZDLSOQ">
+      <data key="d1">South Quay</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537794.0803895833, 179762.23331761232)</data>
+    </node>
+    <node id="940GZZDLCLA">
+      <data key="d1">Crossharbour</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537926.4251525556, 179301.35926873027)</data>
+    </node>
+    <node id="940GZZDLMUD">
+      <data key="d1">Mudchute</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537905.2153886626, 178840.22608885547)</data>
+    </node>
+    <node id="940GZZDLISL">
+      <data key="d1">Island Gardens</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(538240.1316619525, 178428.49776924902)</data>
+    </node>
+    <node id="940GZZDLCUT">
+      <data key="d1">Cutty Sark</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(538229.1605222421, 177741.07111744134)</data>
+    </node>
+    <node id="940GZZDLGRE">
+      <data key="d1">Greenwich</data>
+      <data key="d2">DLR, National Rail</data>
+      <data key="d3">(537909.3621188409, 177320.742884569)</data>
+    </node>
+    <node id="940GZZDLDEP">
+      <data key="d1">Deptford Bridge</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537441.5880163019, 176870.50638744992)</data>
+    </node>
+    <node id="940GZZDLELV">
+      <data key="d1">Elverson Road</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537846.1211571605, 176323.45752539794)</data>
+    </node>
+    <node id="940GZZDLLEW">
+      <data key="d1">Lewisham</data>
+      <data key="d2">DLR, National Rail</data>
+      <data key="d3">(538128.5808026146, 175843.52330956951)</data>
+    </node>
+    <node id="940GZZDLTWG">
+      <data key="d1">Tower Gateway</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(533722.2530604097, 180834.45638878702)</data>
+    </node>
+    <node id="940GZZDLPOP">
+      <data key="d1">Poplar</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537681.3210896059, 180630.4368470665)</data>
+    </node>
+    <node id="940GZZDLALL">
+      <data key="d1">All Saints</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537978.4245305299, 180958.56905152503)</data>
+    </node>
+    <node id="940GZZDLBLA">
+      <data key="d1">Blackwall</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(538392.4049700272, 180661.47494762723)</data>
+    </node>
+    <node id="940GZZDLEIN">
+      <data key="d1">East India</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(538732.7153661731, 180831.06564225658)</data>
+    </node>
+    <node id="940GZZDLCUS">
+      <data key="d1">Custom House</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(540718.3407670299, 180920.67830649106)</data>
+    </node>
+    <node id="940GZZDLPRE">
+      <data key="d1">Prince Regent</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(541222.2617393638, 180910.9159426699)</data>
+    </node>
+    <node id="940GZZDLRAL">
+      <data key="d1">Royal Albert</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(542060.922951825, 180807.12912050617)</data>
+    </node>
+    <node id="940GZZDLBPK">
+      <data key="d1">Beckton Park</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(542706.3403972671, 180867.71106491366)</data>
+    </node>
+    <node id="940GZZDLCYP">
+      <data key="d1">Cyprus</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(543331.4738878304, 180852.64899498672)</data>
+    </node>
+    <node id="940GZZDLGAL">
+      <data key="d1">Gallions Reach</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(543871.0563319806, 180927.0876675067)</data>
+    </node>
+    <node id="940GZZDLBEC">
+      <data key="d1">Beckton</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(543110.6395332961, 181497.0228891438)</data>
+    </node>
+    <node id="940GZZDLLDP">
+      <data key="d1">Langdon Park</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537892.7890173869, 181448.54228945146)</data>
+    </node>
+    <node id="940GZZDLDP">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(537892.3060784073, 181450.6472442071)</data>
+    </node>
+    <node id="940GZZDLDEV">
+      <data key="d1">Devons Road</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537635.5998756493, 182257.78337545332)</data>
+    </node>
+    <node id="940GZZDLBOW">
+      <data key="d1">Bow Church</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537383.256205467, 182835.7008121927)</data>
+    </node>
+    <node id="940GZZDLPUD">
+      <data key="d1">Pudding Mill Lane</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(537877.7647662559, 183529.59374230367)</data>
+    </node>
+    <node id="940GZZDLSIT">
+      <data key="d1">Stratford International</data>
+      <data key="d2">DLR, National Rail</data>
+      <data key="d3">(538164.4713900764, 184863.73657778924)</data>
+    </node>
+    <node id="940GZZLUNGW">
+      <data key="d1">North Greenwich</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(539187.3624362245, 179809.48149898998)</data>
+    </node>
+    <node id="940GZZLUCYF">
+      <data key="d1">Canary Wharf</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(537615.5821136414, 180150.2594707815)</data>
+    </node>
+    <node id="940GZZLUCWR">
+      <data key="d1">Canada Water</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(535502.2877854696, 179476.90603367286)</data>
+    </node>
+    <node id="940GZZLUBMY">
+      <data key="d1">Bermondsey</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(534500.9605937572, 179420.2312045379)</data>
+    </node>
+    <node id="940GZZLUSWK">
+      <data key="d1">Southwark</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(531608.4072144438, 180051.16577079834)</data>
+    </node>
+    <node id="940GZZLUSJW">
+      <data key="d1">St. John's Wood</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(526741.2122340943, 183349.189362154)</data>
+    </node>
+    <node id="940GZZLUSWC">
+      <data key="d1">Swiss Cottage</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(526675.2204985854, 184293.90586770844)</data>
+    </node>
+    <node id="940GZZLUFYR">
+      <data key="d1">Finchley Road</data>
+      <data key="d2">Jubilee, Metropolitan</data>
+      <data key="d3">(526232.7106511318, 184732.57647701463)</data>
+    </node>
+    <node id="940GZZDLWLA">
+      <data key="d1">Woolwich Arsenal</data>
+      <data key="d2">DLR, National Rail</data>
+      <data key="d3">(543764.1543748565, 178846.64554958534)</data>
+    </node>
+    <node id="940GZZDLKGV">
+      <data key="d1">King George V</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(543225.9657628306, 180128.44902715966)</data>
+    </node>
+    <node id="940GZZDLWSV">
+      <data key="d1">West Silvertown</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(540444.6296286187, 180159.56430154503)</data>
+    </node>
+    <node id="940GZZDLPDK">
+      <data key="d1">Pontoon Dock</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(541180.9937303651, 180100.4762809546)</data>
+    </node>
+    <node id="940GZZDLLCA">
+      <data key="d1">London City Airport</data>
+      <data key="d2">DLR</data>
+      <data key="d3">(542238.8326375814, 180292.58593325445)</data>
+    </node>
+    <node id="910GACTNCTL">
+      <data key="d1">Acton Central</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(521952.7093638786, 182943.65931646194)</data>
+    </node>
+    <node id="910GKENR">
+      <data key="d1">Kensal Rise</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(523540.08715068735, 183223.25879499828)</data>
+    </node>
+    <node id="910GBRBYPK">
+      <data key="d1">Brondesbury Park</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(524221.89102484076, 183939.57169453567)</data>
+    </node>
+    <node id="910GBRBY">
+      <data key="d1">Brondesbury</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(524752.3736704253, 184445.11273289396)</data>
+    </node>
+    <node id="910GWHMDSTD">
+      <data key="d1">West Hampstead</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(525460.112033004, 184704.81170520972)</data>
+    </node>
+    <node id="910GFNCHLYR">
+      <data key="d1">Finchley Road &amp; Frognal</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(526012.646098073, 185017.8160900934)</data>
+    </node>
+    <node id="910GHMPSTDH">
+      <data key="d1">Hampstead Heath</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(527288.8045457195, 185634.50724950258)</data>
+    </node>
+    <node id="910GGOSPLOK">
+      <data key="d1">Gospel Oak</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(528201.4111072391, 185705.47540072352)</data>
+    </node>
+    <node id="910GKNTSHTW">
+      <data key="d1">Kentish Town West</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(528600.1595102317, 184758.39692039776)</data>
+    </node>
+    <node id="910GCMDNRD">
+      <data key="d1">Camden Road</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(529119.8394064774, 184201.16601645527)</data>
+    </node>
+    <node id="910GCLDNNRB">
+      <data key="d1">Caledonian Road &amp; Barnsbury</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(530812.3012579568, 184428.9717227731)</data>
+    </node>
+    <node id="910GHGHI">
+      <data key="d1">Highbury &amp; Islington (Rail)</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(531498.0613788555, 184709.63666515617)</data>
+    </node>
+    <node id="910GCNNB">
+      <data key="d1">Canonbury</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(532344.1853447072, 185033.2195121437)</data>
+    </node>
+    <node id="910GDALSKLD">
+      <data key="d1">Dalston Kingsland</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533514.5836805031, 185007.47830195737)</data>
+    </node>
+    <node id="910GHACKNYC">
+      <data key="d1">Hackney Central</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(534800.9356142745, 184917.99418646435)</data>
+    </node>
+    <node id="910GHOMRTON">
+      <data key="d1">Homerton</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(535827.9696234212, 184946.1662667825)</data>
+    </node>
+    <node id="910GHACKNYW">
+      <data key="d1">Hackney Wick</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(537064.0090111453, 184572.40246172034)</data>
+    </node>
+    <node id="910GWCHAPEL">
+      <data key="d1">Whitechapel (Rail)</data>
+      <data key="d2">London Overground, Crossrail</data>
+      <data key="d3">(534604.4657230086, 181956.83736897213)</data>
+    </node>
+    <node id="910GSHADWEL">
+      <data key="d1">Shadwell (Rail)</data>
+      <data key="d2">London Overground, East London</data>
+      <data key="d3">(534937.5827663726, 180941.90074542363)</data>
+    </node>
+    <node id="910GWAPPING">
+      <data key="d1">Wapping</data>
+      <data key="d2">London Overground, East London</data>
+      <data key="d3">(535025.5341399807, 180167.7373453076)</data>
+    </node>
+    <node id="910GRTHERHI">
+      <data key="d1">Rotherhithe</data>
+      <data key="d2">London Overground, East London</data>
+      <data key="d3">(535297.4782830307, 179808.52517483756)</data>
+    </node>
+    <node id="910GCNDAW">
+      <data key="d1">Canada Water (Rail)</data>
+      <data key="d2">London Overground, East London</data>
+      <data key="d3">(535458.6549698899, 179420.10337117233)</data>
+    </node>
+    <node id="910GSURREYQ">
+      <data key="d1">Surrey Quays</data>
+      <data key="d2">London Overground, East London</data>
+      <data key="d3">(535632.7193484132, 178955.48169260367)</data>
+    </node>
+    <node id="910GNEWXGTE">
+      <data key="d1">New Cross Gate</data>
+      <data key="d2">London Overground, East London, National Rail</data>
+      <data key="d3">(536196.4684279487, 176984.21091609087)</data>
+    </node>
+    <node id="910GSHRDHST">
+      <data key="d1">Shoreditch High Street</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533570.2003812031, 182239.8614398369)</data>
+    </node>
+    <node id="910GNWCRELL">
+      <data key="d1">New Cross</data>
+      <data key="d2">London Overground, East London, National Rail</data>
+      <data key="d3">(536743.2711569902, 177132.22971003712)</data>
+    </node>
+    <node id="910GSYDENHM">
+      <data key="d1">Sydenham</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(535360.1015678702, 171603.28896307474)</data>
+    </node>
+    <node id="910GCRYSTLP">
+      <data key="d1">Crystal Palace</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(534146.8535032965, 170532.71135234635)</data>
+    </node>
+    <node id="910GPCKHMQD">
+      <data key="d1">Queens Road Peckham</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(535039.0948446536, 176800.72991849977)</data>
+    </node>
+    <node id="910GPCKHMRY">
+      <data key="d1">Peckham Rye</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(534122.4227376637, 176263.28754395066)</data>
+    </node>
+    <node id="910GDENMRKH">
+      <data key="d1">Denmark Hill</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(532833.0056990492, 176086.0463838923)</data>
+    </node>
+    <node id="910GCLPHHS">
+      <data key="d1">Clapham High Street</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(529827.1712844602, 175713.28366552707)</data>
+    </node>
+    <node id="910GWNDSWRD">
+      <data key="d1">Wandsworth Road</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(529413.3860681441, 176167.34036434686)</data>
+    </node>
+    <node id="910GCLPHMJ1">
+      <data key="d1">Clapham Junction</data>
+      <data key="d2">London Overground, National Rail, Crossrail 2</data>
+      <data key="d3">(527080.3062675718, 175565.25633273274)</data>
+    </node>
+    <node id="910GWBRMPTN">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(525384.491547082, 177997.7701581603)</data>
+    </node>
+    <node id="910GCSEAH">
+      <data key="d1">Imperial Wharf</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(526274.729648377, 176713.74995890725)</data>
+    </node>
+    <node id="910GSHMPSTD">
+      <data key="d1">South Hampstead</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(526392.207483578, 184064.92263507214)</data>
+    </node>
+    <node id="910GEUSTON">
+      <data key="d1">Euston (Rail)</data>
+      <data key="d2">London Overground, National Rail, Crossrail 2</data>
+      <data key="d3">(529479.995541993, 182769.43511592608)</data>
+    </node>
+    <node id="910GBUSHEY">
+      <data key="d1">Bushey</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(511824.99341285566, 195339.60803990567)</data>
+    </node>
+    <node id="910GWATFDHS">
+      <data key="d1">Watford High Street</data>
+      <data key="d2">London Overground, Metropolitan</data>
+      <data key="d3">(511327.26497200987, 196058.05881740525)</data>
+    </node>
+    <node id="910GCRPNDPK">
+      <data key="d1">Carpenders Park</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(511834.64627316635, 193410.32579482166)</data>
+    </node>
+    <node id="910GHTCHEND">
+      <data key="d1">Hatch End</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(513062.5277259101, 191330.02770956932)</data>
+    </node>
+    <node id="910GHEDSTNL">
+      <data key="d1">Headstone Lane</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(513911.02759949095, 190564.15434525372)</data>
+    </node>
+    <node id="910GWATFDJ">
+      <data key="d1">Watford Junction</data>
+      <data key="d2">London Overground, National Rail, Metropolitan</data>
+      <data key="d3">(511036.70433314075, 197292.57314434345)</data>
+    </node>
+    <node id="910GUPRHLWY">
+      <data key="d1">Upper Holloway</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(529750.1395976995, 186629.24835870432)</data>
+    </node>
+    <node id="910GCROUCHH">
+      <data key="d1">Crouch Hill</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(530580.0503291923, 187502.1657216953)</data>
+    </node>
+    <node id="910GHRGYGL">
+      <data key="d1">Harringay Green Lanes</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(531905.4232981383, 188200.14391085348)</data>
+    </node>
+    <node id="910GSTOTNHM">
+      <data key="d1">South Tottenham</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533707.0875045091, 188610.56285531726)</data>
+    </node>
+    <node id="910GBLCHSRD">
+      <data key="d1">Blackhorse Road (Rail)</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(535790.9657942278, 189348.11315047467)</data>
+    </node>
+    <node id="910GWLTHQRD">
+      <data key="d1">Walthamstow Queens Road</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(537028.4803142302, 188811.3981303419)</data>
+    </node>
+    <node id="910GLEYTNMR">
+      <data key="d1">Leyton Midland Road</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(538202.9084031451, 187509.92307671648)</data>
+    </node>
+    <node id="910GLYTNSHR">
+      <data key="d1">Leytonstone High Road</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(539258.2446180284, 186912.03583724285)</data>
+    </node>
+    <node id="910GWNSTDPK">
+      <data key="d1">Wanstead Park</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(540586.4808511415, 185590.9931511865)</data>
+    </node>
+    <node id="910GWDGRNPK">
+      <data key="d1">Woodgrange Park</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(541857.1140515816, 185346.3392216912)</data>
+    </node>
+    <node id="910GBARKING">
+      <data key="d1">Barking (Rail)</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(544408.8946336281, 184307.2446983179)</data>
+    </node>
+    <node id="940GZZLUNDN">
+      <data key="d1">Neasden</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(521425.0864366014, 185370.91341526917)</data>
+    </node>
+    <node id="940GZZLUDOH">
+      <data key="d1">Dollis Hill</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(522174.79534499504, 185156.5104925607)</data>
+    </node>
+    <node id="940GZZLUWIG">
+      <data key="d1">Willesden Green</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(523386.733775855, 184879.80115297006)</data>
+    </node>
+    <node id="940GZZLUKBN">
+      <data key="d1">Kilburn</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(524541.7553345083, 184651.56506894348)</data>
+    </node>
+    <node id="940GZZLUWHP">
+      <data key="d1">West Hampstead</data>
+      <data key="d2">Jubilee</data>
+      <data key="d3">(525546.6139979308, 184657.61261359812)</data>
+    </node>
+    <node id="940GZZLUHWT">
+      <data key="d1">Hounslow West</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(512161.1534276102, 176185.57210267615)</data>
+    </node>
+    <node id="940GZZLUHWC">
+      <data key="d1">Hounslow Central</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(513557.98477033817, 175969.64052852435)</data>
+    </node>
+    <node id="940GZZLUHWE">
+      <data key="d1">Hounslow East</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(514254.6444867008, 176199.1066717843)</data>
+    </node>
+    <node id="940GZZLUOSY">
+      <data key="d1">Osterley</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(514513.8365830806, 177083.4050488599)</data>
+    </node>
+    <node id="940GZZLUBOS">
+      <data key="d1">Boston Manor</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(516390.48997879185, 178753.07929474674)</data>
+    </node>
+    <node id="940GZZLUNFD">
+      <data key="d1">Northfields</data>
+      <data key="d2">Piccadilly</data>
+      <data key="d3">(517183.7936034941, 179200.23728514678)</data>
+    </node>
+    <node id="940GZZLUHR5">
+      <data key="d1">Heathrow Terminal 5</data>
+      <data key="d2">Piccadilly, Crossrail, National Rail</data>
+      <data key="d3">(504964.60493931966, 175923.2325984717)</data>
+    </node>
+    <node id="940GZZLUMVL">
+      <data key="d1">Maida Vale</data>
+      <data key="d2">Bakerloo</data>
+      <data key="d3">(525942.1028524475, 182769.78629221895)</data>
+    </node>
+    <node id="940GZZLUWKA">
+      <data key="d1">Warwick Avenue</data>
+      <data key="d2">Bakerloo</data>
+      <data key="d3">(526082.4645226033, 182049.7757571584)</data>
+    </node>
+    <node id="940GZZLUERB">
+      <data key="d1">Edgware Road</data>
+      <data key="d2">Bakerloo</data>
+      <data key="d3">(527038.6443115791, 181760.07528457232)</data>
+    </node>
+    <node id="940GZZLUMYB">
+      <data key="d1">Marylebone</data>
+      <data key="d2">Bakerloo, National Rail</data>
+      <data key="d3">(527527.4097518999, 181971.85102872178)</data>
+    </node>
+    <node id="940GZZLURGP">
+      <data key="d1">Regent's Park</data>
+      <data key="d2">Bakerloo</data>
+      <data key="d3">(528684.1436970608, 182131.33767739218)</data>
+    </node>
+    <node id="940GZZLUCHX">
+      <data key="d1">Charing Cross</data>
+      <data key="d2">Bakerloo, Northern</data>
+      <data key="d3">(530057.5990031266, 180373.48765524622)</data>
+    </node>
+    <node id="910GMRYLAND">
+      <data key="d1">Maryland</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(539209.3402427258, 184940.7934039483)</data>
+    </node>
+    <node id="910GFRSTGT">
+      <data key="d1">Forest Gate</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(540439.7349330481, 185347.6279572826)</data>
+    </node>
+    <node id="910GMANRPK">
+      <data key="d1">Manor Park</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(541932.418522409, 185711.7764183476)</data>
+    </node>
+    <node id="910GILFORD">
+      <data key="d1">Ilford</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(543584.8466341983, 186492.81704715086)</data>
+    </node>
+    <node id="910GSVNKNGS">
+      <data key="d1">Seven Kings</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(545453.7446403697, 187082.0808215266)</data>
+    </node>
+    <node id="910GGODMAYS">
+      <data key="d1">Goodmayes</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(546411.5469663051, 187291.8085739737)</data>
+    </node>
+    <node id="910GCHDWLHT">
+      <data key="d1">Chadwell Heath</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(547655.5145771204, 187599.14507857413)</data>
+    </node>
+    <node id="910GGIDEAPK">
+      <data key="d1">Gidea Park</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(552892.2959547776, 189276.43812273617)</data>
+    </node>
+    <node id="910GHRLDWOD">
+      <data key="d1">Harold Wood</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(554775.0468196799, 190565.2245064872)</data>
+    </node>
+    <node id="910GBRTWOOD">
+      <data key="d1">Brentwood</data>
+      <data key="d2">TfL Rail, Crossrail</data>
+      <data key="d3">(559330.5196485645, 193027.60914909525)</data>
+    </node>
+    <node id="910GSHENFLD">
+      <data key="d1">Shenfield</data>
+      <data key="d2">TfL Rail, Crossrail, National Rail</data>
+      <data key="d3">(561398.502318648, 195052.70811645617)</data>
+    </node>
+    <node id="910GBROCKLY">
+      <data key="d1">Brockley</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(536422.9653303904, 175789.07396386884)</data>
+    </node>
+    <node id="910GHONROPK">
+      <data key="d1">Honor Oak Park</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(535918.1585056034, 174148.12132375297)</data>
+    </node>
+    <node id="910GFORESTH">
+      <data key="d1">Forest Hill</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(535429.1939693335, 172995.7975534253)</data>
+    </node>
+    <node id="910GPENEW">
+      <data key="d1">Penge West</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(534952.5695713676, 170501.9718699052)</data>
+    </node>
+    <node id="910GANERLEY">
+      <data key="d1">Anerley</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(534608.9783422009, 169912.7416205227)</data>
+    </node>
+    <node id="910GNORWDJ">
+      <data key="d1">Norwood Junction</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(534039.3304579181, 168216.22548770625)</data>
+    </node>
+    <node id="910GWCROYDN">
+      <data key="d1">West Croydon</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(532168.1230969728, 166083.26039817667)</data>
+    </node>
+    <node id="910GDALS">
+      <data key="d1">Dalston Junction</data>
+      <data key="d2">London Overground, Crossrail 2</data>
+      <data key="d3">(533584.030261449, 184782.5867984229)</data>
+    </node>
+    <node id="910GHAGGERS">
+      <data key="d1">Haggerston</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533561.4258158444, 183980.09335681697)</data>
+    </node>
+    <node id="910GHOXTON">
+      <data key="d1">Hoxton</data>
+      <data key="d2">London Overground</data>
+      <data key="d3">(533577.1983726573, 183150.43381411146)</data>
+    </node>
+    <node id="940GZZLULBN">
+      <data key="d1">Lambeth North</data>
+      <data key="d2">Bakerloo</data>
+      <data key="d3">(531127.9108834664, 179460.82335468096)</data>
+    </node>
+    <node id="940GZZLUHBT">
+      <data key="d1">High Barnet</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(524982.3339716593, 196224.4890235737)</data>
+    </node>
+    <node id="940GZZLUTAW">
+      <data key="d1">Totteridge &amp; Whetstone</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(526122.8665081377, 193964.21616827295)</data>
+    </node>
+    <node id="940GZZLUWOP">
+      <data key="d1">Woodside Park</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(525710.0063221715, 192554.97593787085)</data>
+    </node>
+    <node id="940GZZLUWFN">
+      <data key="d1">West Finchley</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(525547.2706114125, 191626.80470655585)</data>
+    </node>
+    <node id="940GZZLUEFY">
+      <data key="d1">East Finchley</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(527206.7207577296, 189228.86470566737)</data>
+    </node>
+    <node id="940GZZLUHGT">
+      <data key="d1">Highgate</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(528581.1174172453, 188159.488157833)</data>
+    </node>
+    <node id="940GZZLUACY">
+      <data key="d1">Archway</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(529380.6295826468, 186814.05358742137)</data>
+    </node>
+    <node id="940GZZLUTFP">
+      <data key="d1">Tufnell Park</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(529149.2931651552, 185855.30825681757)</data>
+    </node>
+    <node id="940GZZLUKSH">
+      <data key="d1">Kentish Town</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(529007.7252191657, 185128.68759648694)</data>
+    </node>
+    <node id="940GZZLUMTC">
+      <data key="d1">Mornington Crescent</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(529205.4680375576, 183358.63614854985)</data>
+    </node>
+    <node id="940GZZLUGDG">
+      <data key="d1">Goodge Street</data>
+      <data key="d2">Northern</data>
+      <data key="d3">(529534.7088133277, 181826.6749738786)</data>
+    </node>
+    <node id="910GKENOLYM">
+      <data key="d1">none</data>
+      <data key="d2">lines</data>
+      <data key="d3">(524376.7900652585, 179142.10627439467)</data>
+    </node>
+    <node id="940GZZLUKOY">
+      <data key="d1">Kensington (Olympia)</data>
+      <data key="d2">District, London Overground, National Rail</data>
+      <data key="d3">(524377.8976288062, 179140.74439620128)</data>
+    </node>
+    <node id="910GSHPDSB">
+      <data key="d1">Shepherd's Bush (Rail)</data>
+      <data key="d2">London Overground, National Rail</data>
+      <data key="d3">(523834.87415670895, 179915.28385990497)</data>
+    </node>
+    <edge source="910GCAMHTH" target="910GBTHNLGR">
+      <data key="d4">1076.0822006959384</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine1</data>
+    </edge>
+    <edge source="910GCAMHTH" target="910GLONFLDS">
+      <data key="d4">970.949720005337</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine2</data>
+    </edge>
+    <edge source="910GBTHNLGR" target="910GLIVST">
+      <data key="d4">1813.3041429803197</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LivStBeth</data>
+    </edge>
+    <edge source="910GBTHNLGR" target="940GZZLUBLG">
+      <data key="d4">481.514660870568</data>
+    </edge>
+    <edge source="910GLONFLDS" target="910GHAKNYNM">
+      <data key="d4">917.5027977026755</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine3</data>
+    </edge>
+    <edge source="910GHAKNYNM" target="910GRCTRYRD">
+      <data key="d4">1178.2317522944745</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine4</data>
+    </edge>
+    <edge source="910GHAKNYNM" target="910GCLAPTON">
+      <data key="d4">1432.2982680771904</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">ChingfordSpur1</data>
+    </edge>
+    <edge source="910GRCTRYRD" target="910GSTKNWNG">
+      <data key="d4">775.4424073915816</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine5</data>
+    </edge>
+    <edge source="910GSTKNWNG" target="910GSTMFDHL">
+      <data key="d4">1200.7228847760057</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine6</data>
+    </edge>
+    <edge source="910GSTMFDHL" target="910GSEVNSIS">
+      <data key="d4">1001.2036736452209</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine7</data>
+    </edge>
+    <edge source="910GSEVNSIS" target="910GBRUCGRV">
+      <data key="d4">1276.837414087405</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine8</data>
+    </edge>
+    <edge source="910GBRUCGRV" target="910GWHHRTLA">
+      <data key="d4">1200.6280520822309</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLine9</data>
+    </edge>
+    <edge source="910GWHHRTLA" target="910GSIVRST">
+      <data key="d4">1191.7101879423162</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLineA</data>
+    </edge>
+    <edge source="910GSIVRST" target="910GEDMNGRN">
+      <data key="d4">1198.1772180796515</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLineB</data>
+    </edge>
+    <edge source="910GEDMNGRN" target="910GSBURY">
+      <data key="d4">2702.8323501487703</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLineC</data>
+    </edge>
+    <edge source="910GEDMNGRN" target="910GBHILLPK">
+      <data key="d4">1884.6675663324577</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EnfieldTownSpur2</data>
+    </edge>
+    <edge source="910GSBURY" target="910GTURKYST">
+      <data key="d4">2697.2642125462394</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLineD</data>
+    </edge>
+    <edge source="910GTURKYST" target="910GTHBLDSG">
+      <data key="d4">2328.6361202480502</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLineE</data>
+    </edge>
+    <edge source="910GTHBLDSG" target="910GCHESHNT">
+      <data key="d4">1536.076440060133</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">LeaValleyLineF</data>
+    </edge>
+    <edge source="910GLIVST" target="910GSTFD">
+      <data key="d4">5972.871375703469</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast1</data>
+    </edge>
+    <edge source="910GSTFD" target="910GHACKNYW">
+      <data key="d4">1622.8899307270558</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineK</data>
+    </edge>
+    <edge source="910GSTFD" target="910GMRYLAND">
+      <data key="d4">824.2760808152741</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast2</data>
+    </edge>
+    <edge source="910GENFLDTN" target="910GBHILLPK">
+      <data key="d4">1399.4973973174008</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EnfieldTownSpur1</data>
+    </edge>
+    <edge source="910GROMFORD" target="910GEMRSPKH">
+      <data key="d4">2917.3230969488964</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EmersonParkPMPM1</data>
+    </edge>
+    <edge source="910GROMFORD" target="910GCHDWLHT">
+      <data key="d4">3863.7716884090046</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast8</data>
+    </edge>
+    <edge source="910GROMFORD" target="910GGIDEAPK">
+      <data key="d4">1689.625803710074</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast9</data>
+    </edge>
+    <edge source="910GEMRSPKH" target="910GUPMNSTR">
+      <data key="d4">2595.21443960187</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EmersonParkPMPM2</data>
+    </edge>
+    <edge source="910GCLAPTON" target="910GSTJMSST">
+      <data key="d4">2766.4385499500036</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">ChingfordSpur2</data>
+    </edge>
+    <edge source="910GSTJMSST" target="910GWLTWCEN">
+      <data key="d4">914.9361289218176</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">ChingfordSpur3</data>
+    </edge>
+    <edge source="910GWLTWCEN" target="910GWDST">
+      <data key="d4">1311.902394437684</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">ChingfordSpur4</data>
+    </edge>
+    <edge source="910GWDST" target="910GHGHMSPK">
+      <data key="d4">2567.8986943239856</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">ChingfordSpur5</data>
+    </edge>
+    <edge source="910GHGHMSPK" target="910GCHINGFD">
+      <data key="d4">2855.8782029705</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">ChingfordSpur6</data>
+    </edge>
+    <edge source="940GZZLUBXN" target="940GZZLUSKW">
+      <data key="d4">1583.623873447891</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria1</data>
+    </edge>
+    <edge source="940GZZLUSKW" target="940GZZLUVXL">
+      <data key="d4">1496.765444867609</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria2</data>
+    </edge>
+    <edge source="940GZZLUSKW" target="940GZZLUOVL">
+      <data key="d4">1283.5885767028562</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenL</data>
+    </edge>
+    <edge source="940GZZLUSKW" target="940GZZLUCPN">
+      <data key="d4">941.6508911565711</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenM</data>
+    </edge>
+    <edge source="940GZZLUVXL" target="940GZZLUPCO">
+      <data key="d4">819.5921409659695</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria3</data>
+    </edge>
+    <edge source="940GZZLUPCO" target="940GZZLUVIC">
+      <data key="d4">1392.3820197692348</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria4</data>
+    </edge>
+    <edge source="940GZZLUVIC" target="940GZZLUGPK">
+      <data key="d4">1205.6300800125948</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria5</data>
+    </edge>
+    <edge source="940GZZLUVIC" target="940GZZLUSSQ">
+      <data key="d4">1162.869201808958</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth2</data>
+    </edge>
+    <edge source="940GZZLUVIC" target="940GZZLUSJP">
+      <data key="d4">768.8690156957056</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth3</data>
+    </edge>
+    <edge source="940GZZLUGPK" target="940GZZLUOXC">
+      <data key="d4">998.3127407886534</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria6</data>
+    </edge>
+    <edge source="940GZZLUGPK" target="940GZZLUHPC">
+      <data key="d4">776.8784761711427</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly East3</data>
+    </edge>
+    <edge source="940GZZLUGPK" target="940GZZLUPCC">
+      <data key="d4">771.3960820926635</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly East4</data>
+    </edge>
+    <edge source="940GZZLUGPK" target="940GZZLUWSM">
+      <data key="d4">1415.4507217651444</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast9</data>
+    </edge>
+    <edge source="940GZZLUGPK" target="940GZZLUBND">
+      <data key="d4">1127.2924570099194</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEastA</data>
+    </edge>
+    <edge source="940GZZLUOXC" target="940GZZLUWRR">
+      <data key="d4">1146.0148563390842</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria7</data>
+    </edge>
+    <edge source="940GZZLUOXC" target="940GZZLUBND">
+      <data key="d4">491.6041617530766</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainH</data>
+    </edge>
+    <edge source="940GZZLUOXC" target="940GZZLUTCR">
+      <data key="d4">812.3701706207113</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainI</data>
+    </edge>
+    <edge source="940GZZLUOXC" target="940GZZLURGP">
+      <data key="d4">969.6724588100415</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMain9</data>
+    </edge>
+    <edge source="940GZZLUOXC" target="940GZZLUPCC">
+      <data key="d4">960.3516725013432</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMainA</data>
+    </edge>
+    <edge source="940GZZLUWRR" target="940GZZLUEUS">
+      <data key="d4">504.8371361103776</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria8</data>
+    </edge>
+    <edge source="940GZZLUWRR" target="940GZZLUGDG">
+      <data key="d4">528.521126607424</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKennE</data>
+    </edge>
+    <edge source="940GZZLUEUS" target="940GZZLUKSX">
+      <data key="d4">823.2130403708875</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">Victoria9</data>
+    </edge>
+    <edge source="940GZZLUEUS" target="940GZZLUCTN">
+      <data key="d4">1302.1399801222324</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenAC</data>
+    </edge>
+    <edge source="940GZZLUEUS" target="940GZZLUMTC">
+      <data key="d4">758.1140669684902</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKennC</data>
+    </edge>
+    <edge source="940GZZLUKSX" target="940GZZLUHAI">
+      <data key="d4">2505.632358342324</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">VictoriaA</data>
+    </edge>
+    <edge source="940GZZLUKSX" target="940GZZLURSQ">
+      <data key="d4">866.2556799065453</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly East9</data>
+    </edge>
+    <edge source="940GZZLUKSX" target="940GZZLUCAR">
+      <data key="d4">2022.5477818495804</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastA</data>
+    </edge>
+    <edge source="940GZZLUKSX" target="940GZZLUESQ">
+      <data key="d4">1030.8996910764633</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineNorth3</data>
+    </edge>
+    <edge source="940GZZLUKSX" target="940GZZLUFCN">
+      <data key="d4">1776.9730102090298</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineNorth4</data>
+    </edge>
+    <edge source="940GZZLUKSX" target="940GZZLUAGL">
+      <data key="d4">1176.153724206801</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenC</data>
+    </edge>
+    <edge source="940GZZLUHAI" target="940GZZLUFPK">
+      <data key="d4">1983.3148528563838</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">VictoriaB</data>
+    </edge>
+    <edge source="940GZZLUFPK" target="940GZZLUSVS">
+      <data key="d4">3155.570127801204</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">VictoriaC</data>
+    </edge>
+    <edge source="940GZZLUFPK" target="940GZZLUASL">
+      <data key="d4">767.8185085576811</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastD</data>
+    </edge>
+    <edge source="940GZZLUFPK" target="940GZZLUMRH">
+      <data key="d4">1104.2296084288744</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastE</data>
+    </edge>
+    <edge source="940GZZLUSVS" target="940GZZLUTMH">
+      <data key="d4">1237.9699212962828</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">VictoriaD</data>
+    </edge>
+    <edge source="940GZZLUTMH" target="940GZZLUBLR">
+      <data key="d4">1398.7638457298356</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">VictoriaE</data>
+    </edge>
+    <edge source="940GZZLUBLR" target="940GZZLUWWL">
+      <data key="d4">1474.9459807236672</data>
+      <data key="d5">Victoria</data>
+      <data key="d6">VictoriaF</data>
+    </edge>
+    <edge source="940GZZLUECT" target="940GZZLUGTR">
+      <data key="d4">812.2838936473689</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistCirc3</data>
+    </edge>
+    <edge source="940GZZLUECT" target="940GZZLUBSC">
+      <data key="d4">1366.4734925314203</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccDistSAD</data>
+    </edge>
+    <edge source="940GZZLUECT" target="940GZZLUWKN">
+      <data key="d4">824.8487639710011</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistSAD</data>
+    </edge>
+    <edge source="940GZZLUECT" target="940GZZLUWBN">
+      <data key="d4">503.6024031938161</data>
+      <data key="d5">District</data>
+      <data key="d6">DistWimbledonA</data>
+    </edge>
+    <edge source="940GZZLUECT" target="940GZZLUHSK">
+      <data key="d4">1057.4183132707212</data>
+      <data key="d5">District</data>
+      <data key="d6">DistEdgware</data>
+    </edge>
+    <edge source="940GZZLUECT" target="940GZZLUKOY">
+      <data key="d4">1265.0267077828748</data>
+      <data key="d5">District</data>
+      <data key="d6">Olympia</data>
+    </edge>
+    <edge source="940GZZLUGTR" target="940GZZLUSKS">
+      <data key="d4">745.7638196359819</data>
+      <data key="d5">Circle</data>
+      <data key="d6">PiccDistCirc2</data>
+    </edge>
+    <edge source="940GZZLUGTR" target="940GZZLUHSK">
+      <data key="d4">964.4682285595018</data>
+      <data key="d5">Circle</data>
+      <data key="d6">CircleWest</data>
+    </edge>
+    <edge source="940GZZLUBSC" target="940GZZLUWKN">
+      <data key="d4">555.1013163390388</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistS3</data>
+    </edge>
+    <edge source="940GZZLUBSC" target="940GZZLUHSD">
+      <data key="d4">758.6550748805627</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistS4</data>
+    </edge>
+    <edge source="940GZZLUHSD" target="940GZZLUTNG">
+      <data key="d4">2192.261497398215</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccDistS7</data>
+    </edge>
+    <edge source="940GZZLUHSD" target="940GZZLURVP">
+      <data key="d4">932.8146197863565</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistS5</data>
+    </edge>
+    <edge source="940GZZLUHSD" target="940GZZLUHSC">
+      <data key="d4">251.00775165514943</data>
+    </edge>
+    <edge source="940GZZLUTNG" target="940GZZLUSFB">
+      <data key="d4">604.1857641998461</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistS7</data>
+    </edge>
+    <edge source="940GZZLUTNG" target="940GZZLUACT">
+      <data key="d4">1950.0204296187433</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccDistSAB</data>
+    </edge>
+    <edge source="940GZZLUTNG" target="940GZZLUCWP">
+      <data key="d4">945.78652544398</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistSAB</data>
+    </edge>
+    <edge source="940GZZLUTNG" target="940GZZLUGBY">
+      <data key="d4">1499.9960493235526</data>
+      <data key="d5">District</data>
+      <data key="d6">DistRichmond3</data>
+    </edge>
+    <edge source="940GZZLURVP" target="940GZZLUSFB">
+      <data key="d4">703.7515058561136</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistS6</data>
+    </edge>
+    <edge source="940GZZLUACT" target="940GZZLUCWP">
+      <data key="d4">1265.3750081717549</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistS9</data>
+    </edge>
+    <edge source="940GZZLUACT" target="940GZZLUSEA">
+      <data key="d4">1895.7348539193042</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccDistSA</data>
+    </edge>
+    <edge source="940GZZLUACT" target="940GZZLUECM">
+      <data key="d4">990.8814470207357</data>
+      <data key="d5">District</data>
+      <data key="d6">PiccDistN2</data>
+    </edge>
+    <edge source="940GZZLUSEA" target="940GZZLUNFD">
+      <data key="d4">449.6926901136647</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow9</data>
+    </edge>
+    <edge source="940GZZLUECM" target="940GZZLUNEN">
+      <data key="d4">866.6286896461211</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccNW7</data>
+    </edge>
+    <edge source="940GZZLUECM" target="940GZZLUEBY">
+      <data key="d4">1098.5566898814293</data>
+      <data key="d5">District</data>
+      <data key="d6">EalingBroadway</data>
+    </edge>
+    <edge source="940GZZLUKNB" target="940GZZLUSKS">
+      <data key="d4">1199.6253276852751</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccDistCirc1</data>
+    </edge>
+    <edge source="940GZZLUKNB" target="940GZZLUHPC">
+      <data key="d4">578.2452851560683</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly East2</data>
+    </edge>
+    <edge source="940GZZLUSKS" target="940GZZLUSSQ">
+      <data key="d4">1152.3841485309172</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth1</data>
+    </edge>
+    <edge source="940GZZLUPCC" target="940GZZLULSQ">
+      <data key="d4">371.3871537910577</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly East5</data>
+    </edge>
+    <edge source="940GZZLUPCC" target="940GZZLUCHX">
+      <data key="d4">563.446043897989</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMainB</data>
+    </edge>
+    <edge source="940GZZLULSQ" target="940GZZLUCGN">
+      <data key="d4">361.35486254100346</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly East6</data>
+    </edge>
+    <edge source="940GZZLULSQ" target="940GZZLUTCR">
+      <data key="d4">600.2534522191621</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKennG</data>
+    </edge>
+    <edge source="940GZZLULSQ" target="940GZZLUCHX">
+      <data key="d4">451.18489794482923</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKennH</data>
+    </edge>
+    <edge source="940GZZLUCGN" target="940GZZLUHBN">
+      <data key="d4">626.0243929850227</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly East7</data>
+    </edge>
+    <edge source="940GZZLUHBN" target="940GZZLURSQ">
+      <data key="d4">693.7081078919686</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly East8</data>
+    </edge>
+    <edge source="940GZZLUHBN" target="940GZZLUTCR">
+      <data key="d4">729.3323962173104</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainJ</data>
+    </edge>
+    <edge source="940GZZLUHBN" target="940GZZLUCHL">
+      <data key="d4">561.7987106051017</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainK</data>
+    </edge>
+    <edge source="940GZZLUCAR" target="940GZZLUHWY">
+      <data key="d4">611.6393058795117</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastB</data>
+    </edge>
+    <edge source="940GZZLUHWY" target="940GZZLUASL">
+      <data key="d4">661.0567443317328</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastC</data>
+    </edge>
+    <edge source="940GZZLUMRH" target="940GZZLUTPN">
+      <data key="d4">2313.635319370053</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastF</data>
+    </edge>
+    <edge source="940GZZLUTPN" target="940GZZLUWOG">
+      <data key="d4">923.4812457723323</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastG</data>
+    </edge>
+    <edge source="940GZZLUWOG" target="940GZZLUBDS">
+      <data key="d4">1499.1342465890712</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastH</data>
+    </edge>
+    <edge source="940GZZLUBDS" target="940GZZLUASG">
+      <data key="d4">1346.194344239029</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastI</data>
+    </edge>
+    <edge source="940GZZLUASG" target="940GZZLUSGT">
+      <data key="d4">1971.8438377355847</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastJ</data>
+    </edge>
+    <edge source="940GZZLUSGT" target="940GZZLUOAK">
+      <data key="d4">1859.3074508599334</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastK</data>
+    </edge>
+    <edge source="940GZZLUOAK" target="940GZZLUCKS">
+      <data key="d4">1340.9284274390125</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">Piccadilly EastL</data>
+    </edge>
+    <edge source="940GZZLUHSK" target="940GZZLUNHG">
+      <data key="d4">949.1014006032962</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DCKens2</data>
+    </edge>
+    <edge source="940GZZLURYL" target="940GZZLUSHH">
+      <data key="d4">1765.9624949437648</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccMet7</data>
+    </edge>
+    <edge source="940GZZLURYL" target="940GZZLUEAE">
+      <data key="d4">1816.5194407809015</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">PiccMet6</data>
+    </edge>
+    <edge source="940GZZLURYL" target="940GZZLUWHW">
+      <data key="d4">1300.883619951372</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">PiccMet7</data>
+    </edge>
+    <edge source="940GZZLUSHH" target="940GZZLUSUH">
+      <data key="d4">1476.0293095920767</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccNW2</data>
+    </edge>
+    <edge source="940GZZLUSUH" target="940GZZLUSUT">
+      <data key="d4">1614.0430564720648</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccNW3</data>
+    </edge>
+    <edge source="940GZZLUSUT" target="940GZZLUALP">
+      <data key="d4">1651.2258690728518</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccNW4</data>
+    </edge>
+    <edge source="940GZZLUALP" target="940GZZLUPKR">
+      <data key="d4">1918.809509092087</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccNW5</data>
+    </edge>
+    <edge source="940GZZLUPKR" target="940GZZLUNEN">
+      <data key="d4">1091.491644636346</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccNW6</data>
+    </edge>
+    <edge source="940GZZLUEBY" target="940GZZLUWTA">
+      <data key="d4">1490.8562458155054</data>
+      <data key="d5">Central</data>
+      <data key="d6">EalingBroadway</data>
+    </edge>
+    <edge source="940GZZLUUXB" target="940GZZLUHGD">
+      <data key="d4">2138.4345857436</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">PiccMet1</data>
+    </edge>
+    <edge source="940GZZLUHGD" target="940GZZLUICK">
+      <data key="d4">1121.0215248777904</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">PiccMet2</data>
+    </edge>
+    <edge source="940GZZLUICK" target="940GZZLURSP">
+      <data key="d4">1775.5703333240695</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">PiccMet3</data>
+    </edge>
+    <edge source="940GZZLURSP" target="940GZZLURSM">
+      <data key="d4">675.651052253457</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">PiccMet4</data>
+    </edge>
+    <edge source="940GZZLURSM" target="940GZZLUEAE">
+      <data key="d4">1123.0475092465365</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">PiccMet5</data>
+    </edge>
+    <edge source="940GZZLUWHW" target="940GZZLUHOH">
+      <data key="d4">1210.2056193146243</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetUxb2</data>
+    </edge>
+    <edge source="940GZZLURMD" target="940GZZLUKWG">
+      <data key="d4">2164.622174428351</data>
+      <data key="d5">District</data>
+      <data key="d6">DistRichmond1</data>
+    </edge>
+    <edge source="940GZZLUKWG" target="940GZZLUGBY">
+      <data key="d4">1772.1189142987128</data>
+      <data key="d5">District</data>
+      <data key="d6">DistRichmond2</data>
+    </edge>
+    <edge source="910GRICHMND" target="910GKEWGRDN">
+      <data key="d4">2164.622174428351</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">DistRichmond1</data>
+    </edge>
+    <edge source="910GKEWGRDN" target="910GGNRSBRY">
+      <data key="d4">1887.9341449515014</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">DistRichmond2</data>
+    </edge>
+    <edge source="910GGNRSBRY" target="910GSACTON">
+      <data key="d4">821.2370714913952</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">DistRichmond3</data>
+    </edge>
+    <edge source="910GSACTON" target="910GACTNCTL">
+      <data key="d4">4085.1513474747535</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLine2</data>
+    </edge>
+    <edge source="940GZZLUHR4" target="940GZZLUHNX">
+      <data key="d4">1791.2997286740424</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccT4Loop1</data>
+    </edge>
+    <edge source="940GZZLUHR4" target="940GZZLUHRC">
+      <data key="d4">1677.3125810191275</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow1</data>
+    </edge>
+    <edge source="940GZZLUHNX" target="940GZZLUHRC">
+      <data key="d4">2404.1227099881544</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow2</data>
+    </edge>
+    <edge source="940GZZLUHNX" target="940GZZLUHWT">
+      <data key="d4">2800.6578325309874</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow3</data>
+    </edge>
+    <edge source="940GZZLUHRC" target="940GZZLUHR5">
+      <data key="d4">2438.4285799582835</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">HeathrowT5</data>
+    </edge>
+    <edge source="940GZZLUWBN" target="940GZZLUFBY">
+      <data key="d4">761.629823890947</data>
+      <data key="d5">District</data>
+      <data key="d6">WestBrompton</data>
+    </edge>
+    <edge source="940GZZLUWIM" target="940GZZLUWIP">
+      <data key="d4">1626.538726193307</data>
+      <data key="d5">District</data>
+      <data key="d6">DistWimbledonB1</data>
+    </edge>
+    <edge source="940GZZLUWIP" target="940GZZLUSFS">
+      <data key="d4">1355.6078123633536</data>
+      <data key="d5">District</data>
+      <data key="d6">DistWimbledonB2</data>
+    </edge>
+    <edge source="940GZZLUSFS" target="940GZZLUEPY">
+      <data key="d4">1622.2548911060262</data>
+      <data key="d5">District</data>
+      <data key="d6">DistWimbledonB3</data>
+    </edge>
+    <edge source="940GZZLUEPY" target="940GZZLUPYB">
+      <data key="d4">1050.215901608764</data>
+      <data key="d5">District</data>
+      <data key="d6">DistWimbledonB4</data>
+    </edge>
+    <edge source="940GZZLUPYB" target="940GZZLUPSG">
+      <data key="d4">983.2107684575103</data>
+      <data key="d5">District</data>
+      <data key="d6">DistWimbledonB5</data>
+    </edge>
+    <edge source="940GZZLUPSG" target="940GZZLUFBY">
+      <data key="d4">695.3262781107948</data>
+      <data key="d5">District</data>
+      <data key="d6">DistWimbledonB6</data>
+    </edge>
+    <edge source="940GZZLUNHG" target="940GZZLUBWT">
+      <data key="d4">743.709292292038</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DCKens3</data>
+    </edge>
+    <edge source="940GZZLUNHG" target="940GZZLUHPK">
+      <data key="d4">696.8561217134713</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainC</data>
+    </edge>
+    <edge source="940GZZLUNHG" target="940GZZLUQWY">
+      <data key="d4">632.6932547720816</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainD</data>
+    </edge>
+    <edge source="940GZZLUBWT" target="940GZZLUPAC">
+      <data key="d4">1041.2170110082084</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DCKens4</data>
+    </edge>
+    <edge source="940GZZLUPAC" target="940GZZLUERC">
+      <data key="d4">611.511117581638</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineEdgware</data>
+    </edge>
+    <edge source="940GZZLUPAC" target="940GZZLUWKA">
+      <data key="d4">1078.0776598818536</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMain4</data>
+    </edge>
+    <edge source="940GZZLUPAC" target="940GZZLUERB">
+      <data key="d4">602.19803963052</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMain5</data>
+    </edge>
+    <edge source="940GZZLUERC" target="940GZZLUBST">
+      <data key="d4">926.5120326980218</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamEdgware</data>
+    </edge>
+    <edge source="940GZZLUERC" target="940GZZLUPAH">
+      <data key="d4">647.1713825279759</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest9</data>
+    </edge>
+    <edge source="940GZZLUERC" target="940GZZLUERB">
+      <data key="d4">177.18205162054198</data>
+    </edge>
+    <edge source="940GZZLUSJP" target="940GZZLUWSM">
+      <data key="d4">557.7940215097583</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth4</data>
+    </edge>
+    <edge source="940GZZLUWSM" target="940GZZLUEMB">
+      <data key="d4">743.1779229467916</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth5</data>
+    </edge>
+    <edge source="940GZZLUWSM" target="940GZZLUWLO">
+      <data key="d4">844.6550350846702</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast8</data>
+    </edge>
+    <edge source="940GZZLUEMB" target="940GZZLUTMP">
+      <data key="d4">788.4681194625447</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth6</data>
+    </edge>
+    <edge source="940GZZLUEMB" target="940GZZLUCHX">
+      <data key="d4">334.7871467951816</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">Embankment1</data>
+    </edge>
+    <edge source="940GZZLUEMB" target="940GZZLUWLO">
+      <data key="d4">765.9184865648466</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">Embankment2</data>
+    </edge>
+    <edge source="940GZZLUTMP" target="940GZZLUBKF">
+      <data key="d4">746.269606536056</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth7</data>
+    </edge>
+    <edge source="940GZZLUBKF" target="940GZZLUMSH">
+      <data key="d4">657.4162533336514</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth8</data>
+    </edge>
+    <edge source="940GZZLUMSH" target="940GZZLUCST">
+      <data key="d4">245.04581364874832</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouth9</data>
+    </edge>
+    <edge source="940GZZLUCST" target="940GZZLUMMT">
+      <data key="d4">304.51798975564856</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouthA</data>
+    </edge>
+    <edge source="940GZZLUMMT" target="940GZZLUTWH">
+      <data key="d4">637.5209525976481</data>
+      <data key="d5">Circle</data>
+      <data key="d6">DistCircSouthB</data>
+    </edge>
+    <edge source="940GZZLUTWH" target="940GZZLUADE">
+      <data key="d4">720.2097667144141</data>
+      <data key="d5">District</data>
+      <data key="d6">DistAldgate12</data>
+    </edge>
+    <edge source="940GZZLUTWH" target="940GZZLUALD">
+      <data key="d4">497.29319339623993</data>
+      <data key="d5">Circle</data>
+      <data key="d6">CircleAldgate</data>
+    </edge>
+    <edge source="940GZZLUADE" target="940GZZLULVT">
+      <data key="d4">822.4283257305854</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">HamAldgate</data>
+    </edge>
+    <edge source="940GZZLUADE" target="940GZZLUWPL">
+      <data key="d4">907.8131407835976</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast2</data>
+    </edge>
+    <edge source="940GZZLUALD" target="940GZZLULVT">
+      <data key="d4">630.6876868665116</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineNorth8</data>
+    </edge>
+    <edge source="940GZZLULVT" target="940GZZLUMGT">
+      <data key="d4">363.9669048589877</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineNorth7</data>
+    </edge>
+    <edge source="940GZZLULVT" target="940GZZLUBNK">
+      <data key="d4">623.0257581562101</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainN</data>
+    </edge>
+    <edge source="940GZZLULVT" target="940GZZLUBLG">
+      <data key="d4">2368.747583561885</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainO</data>
+    </edge>
+    <edge source="940GZZLUWPL" target="940GZZLUSGN">
+      <data key="d4">1027.7426779490297</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast3</data>
+    </edge>
+    <edge source="940GZZLUSGN" target="940GZZLUMED">
+      <data key="d4">1020.741316785057</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast4</data>
+    </edge>
+    <edge source="940GZZLUMED" target="940GZZLUBWR">
+      <data key="d4">622.1110671093877</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast5</data>
+    </edge>
+    <edge source="940GZZLUMED" target="940GZZLUBLG">
+      <data key="d4">1647.8416793299293</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainP</data>
+    </edge>
+    <edge source="940GZZLUMED" target="940GZZLUSTD">
+      <data key="d4">2776.6977122686576</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainQ</data>
+    </edge>
+    <edge source="940GZZLUBWR" target="940GZZLUBBB">
+      <data key="d4">1003.1942547023201</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast6</data>
+    </edge>
+    <edge source="940GZZLUBBB" target="940GZZLUWHM">
+      <data key="d4">1179.426534729625</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast7</data>
+    </edge>
+    <edge source="940GZZLUWHM" target="940GZZLUPLW">
+      <data key="d4">900.8271499509054</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast8</data>
+    </edge>
+    <edge source="940GZZLUWHM" target="940GZZLUSTD">
+      <data key="d4">1572.118378966039</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">Jub3B</data>
+    </edge>
+    <edge source="940GZZLUWHM" target="940GZZLUCGT">
+      <data key="d4">1612.1477989441084</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">Jub5B</data>
+    </edge>
+    <edge source="940GZZLUWHM" target="940GZZDLWHM">
+      <data key="d4">56.247748536346755</data>
+    </edge>
+    <edge source="940GZZLUPLW" target="940GZZLUUPK">
+      <data key="d4">1318.055302269124</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast9</data>
+    </edge>
+    <edge source="940GZZLUUPK" target="940GZZLUEHM">
+      <data key="d4">1300.1200328430707</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">DistHamEast10</data>
+    </edge>
+    <edge source="940GZZLUEHM" target="940GZZLUBKG">
+      <data key="d4">2025.0789946572227</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">BarkingShared</data>
+    </edge>
+    <edge source="940GZZLUBKG" target="940GZZLUUPY">
+      <data key="d4">1342.2520436416617</data>
+      <data key="d5">District</data>
+      <data key="d6">DistrictEast1</data>
+    </edge>
+    <edge source="940GZZLUUPY" target="940GZZLUBEC">
+      <data key="d4">1924.2665247103853</data>
+      <data key="d5">District</data>
+      <data key="d6">DistrictEast2</data>
+    </edge>
+    <edge source="940GZZLUBEC" target="940GZZLUDGY">
+      <data key="d4">1425.2184353052435</data>
+      <data key="d5">District</data>
+      <data key="d6">DistrictEast3</data>
+    </edge>
+    <edge source="940GZZLUDGY" target="940GZZLUDGE">
+      <data key="d4">1276.4369953415044</data>
+      <data key="d5">District</data>
+      <data key="d6">DistrictEast4</data>
+    </edge>
+    <edge source="940GZZLUDGE" target="940GZZLUEPK">
+      <data key="d4">2289.9948823617315</data>
+      <data key="d5">District</data>
+      <data key="d6">DistrictEast5</data>
+    </edge>
+    <edge source="940GZZLUEPK" target="940GZZLUHCH">
+      <data key="d4">1540.3773559954968</data>
+      <data key="d5">District</data>
+      <data key="d6">DistrictEast6</data>
+    </edge>
+    <edge source="940GZZLUHCH" target="940GZZLUUPB">
+      <data key="d4">1221.144671022602</data>
+      <data key="d5">District</data>
+      <data key="d6">DistrictEast7</data>
+    </edge>
+    <edge source="940GZZLUUPB" target="940GZZLUUPM">
+      <data key="d4">1282.1607700847862</data>
+      <data key="d5">District</data>
+      <data key="d6">DistrictEast8</data>
+    </edge>
+    <edge source="940GZZLUBST" target="940GZZLUGPS">
+      <data key="d4">821.2655270015941</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineNorth1</data>
+    </edge>
+    <edge source="940GZZLUBST" target="940GZZLUBND">
+      <data key="d4">1667.851258389804</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEastB</data>
+    </edge>
+    <edge source="940GZZLUBST" target="940GZZLUSJW">
+      <data key="d4">2135.320836057866</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEastC</data>
+    </edge>
+    <edge source="940GZZLUBST" target="940GZZLUFYR">
+      <data key="d4">3279.580795521362</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetJub8</data>
+    </edge>
+    <edge source="940GZZLUBST" target="940GZZLUMYB">
+      <data key="d4">535.580212148226</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMain7</data>
+    </edge>
+    <edge source="940GZZLUBST" target="940GZZLURGP">
+      <data key="d4">785.1811120031066</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMain8</data>
+    </edge>
+    <edge source="940GZZLUGPS" target="940GZZLUESQ">
+      <data key="d4">617.1854747355796</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineNorth2</data>
+    </edge>
+    <edge source="940GZZLUFCN" target="940GZZLUBBN">
+      <data key="d4">503.98481345905964</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineNorth5</data>
+    </edge>
+    <edge source="940GZZLUBBN" target="940GZZLUMGT">
+      <data key="d4">699.4275195827934</data>
+      <data key="d5">Circle</data>
+      <data key="d6">3LineNorth6</data>
+    </edge>
+    <edge source="940GZZLUMGT" target="940GZZLUODS">
+      <data key="d4">845.0720504377682</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenE</data>
+    </edge>
+    <edge source="940GZZLUMGT" target="940GZZLUBNK">
+      <data key="d4">542.6776658353085</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenF</data>
+    </edge>
+    <edge source="940GZZLUHSC" target="940GZZLUGHK">
+      <data key="d4">880.198978872644</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest1</data>
+    </edge>
+    <edge source="940GZZLUGHK" target="940GZZLUSBM">
+      <data key="d4">428.70812304158574</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest2</data>
+    </edge>
+    <edge source="940GZZLUSBM" target="940GZZLUWLA">
+      <data key="d4">519.1599304389474</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest3</data>
+    </edge>
+    <edge source="940GZZLUWLA" target="940GZZLULRD">
+      <data key="d4">547.0216316547202</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest4</data>
+    </edge>
+    <edge source="940GZZLULRD" target="940GZZLULAD">
+      <data key="d4">656.4119772707885</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest5</data>
+    </edge>
+    <edge source="940GZZLULAD" target="940GZZLUWSP">
+      <data key="d4">797.5061597996236</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest6</data>
+    </edge>
+    <edge source="940GZZLUWSP" target="940GZZLURYO">
+      <data key="d4">963.8615779719551</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest7</data>
+    </edge>
+    <edge source="940GZZLURYO" target="940GZZLUPAH">
+      <data key="d4">829.9280066654417</data>
+      <data key="d5">Hammersmith &amp; City</data>
+      <data key="d6">CircHamWest8</data>
+    </edge>
+    <edge source="940GZZLUHOH" target="940GZZLUNHA">
+      <data key="d4">1944.6005582640107</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMainAD</data>
+    </edge>
+    <edge source="940GZZLUHOH" target="940GZZLUNKP">
+      <data key="d4">1297.3689381199733</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMainA</data>
+    </edge>
+    <edge source="940GZZLUAMS" target="940GZZLUCAL">
+      <data key="d4">3366.0720135344695</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMainAC</data>
+    </edge>
+    <edge source="940GZZLUCAL" target="940GZZLUCYD">
+      <data key="d4">3506.6355275189685</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMain2</data>
+    </edge>
+    <edge source="940GZZLUCAL" target="940GZZLUCSM">
+      <data key="d4">5409.311053693248</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetChesham</data>
+    </edge>
+    <edge source="940GZZLUCYD" target="940GZZLURKW">
+      <data key="d4">3545.64596295007</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMain3</data>
+    </edge>
+    <edge source="940GZZLURKW" target="940GZZLUMPK">
+      <data key="d4">3087.356966994122</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMainAB</data>
+    </edge>
+    <edge source="940GZZLUMPK" target="940GZZLUNOW">
+      <data key="d4">2209.9503987767307</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMain5</data>
+    </edge>
+    <edge source="940GZZLUMPK" target="940GZZLUCXY">
+      <data key="d4">2039.9545449484388</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetWatford1</data>
+    </edge>
+    <edge source="940GZZLUNOW" target="940GZZLUNWH">
+      <data key="d4">1583.0172551612156</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMain6</data>
+    </edge>
+    <edge source="940GZZLUNWH" target="940GZZLUPNR">
+      <data key="d4">2149.3881337485086</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMain7</data>
+    </edge>
+    <edge source="940GZZLUPNR" target="940GZZLUNHA">
+      <data key="d4">1514.55331262881</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMain8</data>
+    </edge>
+    <edge source="940GZZLUNKP" target="940GZZLUPRD">
+      <data key="d4">1727.4822855806442</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMainB</data>
+    </edge>
+    <edge source="940GZZLUPRD" target="940GZZLUWYP">
+      <data key="d4">1396.4183872752703</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetMainC</data>
+    </edge>
+    <edge source="940GZZLUWYP" target="940GZZLUKBY">
+      <data key="d4">2332.279659232955</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">MetJub1</data>
+    </edge>
+    <edge source="940GZZLUWYP" target="940GZZLUFYR">
+      <data key="d4">7113.318903338077</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetJub7</data>
+    </edge>
+    <edge source="940GZZLUWYP" target="940GZZLUNDN">
+      <data key="d4">2350.181158660965</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">MetJub2</data>
+    </edge>
+    <edge source="940GZZLUCXY" target="940GZZLUWAF">
+      <data key="d4">2029.4245800961203</data>
+      <data key="d5">Metropolitan</data>
+      <data key="d6">MetWatford2</data>
+    </edge>
+    <edge source="940GZZLUWTA" target="940GZZLUNAN">
+      <data key="d4">1569.5998802567692</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralEaling2</data>
+    </edge>
+    <edge source="940GZZLUNAN" target="940GZZLUHGR">
+      <data key="d4">2445.5752270556004</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain7A</data>
+    </edge>
+    <edge source="940GZZLUNAN" target="940GZZLUEAN">
+      <data key="d4">1173.9819447119487</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain8</data>
+    </edge>
+    <edge source="940GZZLUWRP" target="940GZZLURSG">
+      <data key="d4">2121.1131036730917</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain1</data>
+    </edge>
+    <edge source="940GZZLURSG" target="940GZZLUSRP">
+      <data key="d4">885.7093220724122</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain2</data>
+    </edge>
+    <edge source="940GZZLUSRP" target="940GZZLUNHT">
+      <data key="d4">2315.174069124141</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain3</data>
+    </edge>
+    <edge source="940GZZLUNHT" target="940GZZLUGFD">
+      <data key="d4">1818.1863339692336</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain4</data>
+    </edge>
+    <edge source="940GZZLUGFD" target="940GZZLUPVL">
+      <data key="d4">1592.8507354223507</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain5</data>
+    </edge>
+    <edge source="940GZZLUPVL" target="940GZZLUHGR">
+      <data key="d4">2224.1763836787395</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain6</data>
+    </edge>
+    <edge source="940GZZLUEAN" target="940GZZLUWCY">
+      <data key="d4">1948.8096901638241</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMain9</data>
+    </edge>
+    <edge source="940GZZLUWCY" target="940GZZLUSBC">
+      <data key="d4">1279.1840177769398</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainA</data>
+    </edge>
+    <edge source="940GZZLUSBC" target="940GZZLUHPK">
+      <data key="d4">913.6603496272495</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainB</data>
+    </edge>
+    <edge source="940GZZLUQWY" target="940GZZLULGT">
+      <data key="d4">852.5617978035829</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainE</data>
+    </edge>
+    <edge source="940GZZLULGT" target="940GZZLUMBA">
+      <data key="d4">1215.6545052910249</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainF</data>
+    </edge>
+    <edge source="940GZZLUMBA" target="940GZZLUBND">
+      <data key="d4">620.3966913731053</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainG</data>
+    </edge>
+    <edge source="940GZZLUTCR" target="940GZZLUGDG">
+      <data key="d4">523.0031145369047</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKennF</data>
+    </edge>
+    <edge source="940GZZLUCHL" target="940GZZLUSPU">
+      <data key="d4">1089.3194482651256</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainL</data>
+    </edge>
+    <edge source="940GZZLUSPU" target="940GZZLUBNK">
+      <data key="d4">614.5391934667225</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainM</data>
+    </edge>
+    <edge source="940GZZLUBNK" target="940GZZLULNB">
+      <data key="d4">1037.5688540896672</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenG</data>
+    </edge>
+    <edge source="940GZZLUBNK" target="940GZZLUWLO">
+      <data key="d4">2355.4024826362997</data>
+      <data key="d5">Waterloo &amp; City</data>
+      <data key="d6">FullLine</data>
+    </edge>
+    <edge source="940GZZLUBNK" target="940GZZDLBNK">
+      <data key="d4">188.213366191549</data>
+    </edge>
+    <edge source="940GZZLUSTD" target="940GZZLULYN">
+      <data key="d4">2102.289333042699</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainR</data>
+    </edge>
+    <edge source="940GZZLULYN" target="940GZZLULYS">
+      <data key="d4">1653.2121801990875</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainS</data>
+    </edge>
+    <edge source="940GZZLULYS" target="940GZZLUSNB">
+      <data key="d4">1628.6877030519931</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainT</data>
+    </edge>
+    <edge source="940GZZLULYS" target="940GZZLUWSD">
+      <data key="d4">1608.0184499383809</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt1</data>
+    </edge>
+    <edge source="940GZZLUSNB" target="940GZZLUSWF">
+      <data key="d4">1311.7983003459506</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainU</data>
+    </edge>
+    <edge source="940GZZLUSWF" target="940GZZLUWOF">
+      <data key="d4">1699.3586901612614</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainV</data>
+    </edge>
+    <edge source="940GZZLUWOF" target="940GZZLUBKH">
+      <data key="d4">2325.5377708427186</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainW</data>
+    </edge>
+    <edge source="940GZZLUWOF" target="940GZZLURVY">
+      <data key="d4">1353.9942976487914</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualtB</data>
+    </edge>
+    <edge source="940GZZLUBKH" target="940GZZLULGN">
+      <data key="d4">1824.2266946662517</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainX</data>
+    </edge>
+    <edge source="940GZZLULGN" target="940GZZLUDBN">
+      <data key="d4">2049.008254634287</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainY</data>
+    </edge>
+    <edge source="940GZZLUDBN" target="940GZZLUTHB">
+      <data key="d4">3311.1504868707934</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainZ</data>
+    </edge>
+    <edge source="940GZZLUTHB" target="940GZZLUEPG">
+      <data key="d4">2621.547270861611</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralMainAA</data>
+    </edge>
+    <edge source="940GZZLUWSD" target="940GZZLURBG">
+      <data key="d4">1177.5951277776844</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt2</data>
+    </edge>
+    <edge source="940GZZLURBG" target="940GZZLUGTH">
+      <data key="d4">1451.701212306299</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt3</data>
+    </edge>
+    <edge source="940GZZLUGTH" target="940GZZLUNBP">
+      <data key="d4">2349.7618694542844</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt4</data>
+    </edge>
+    <edge source="940GZZLUNBP" target="940GZZLUBKE">
+      <data key="d4">1126.1857894544348</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt5</data>
+    </edge>
+    <edge source="940GZZLUBKE" target="940GZZLUFLP">
+      <data key="d4">1159.138183167756</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt6</data>
+    </edge>
+    <edge source="940GZZLUFLP" target="940GZZLUHLT">
+      <data key="d4">878.6154007893459</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt7</data>
+    </edge>
+    <edge source="940GZZLUHLT" target="940GZZLUGGH">
+      <data key="d4">1096.2417415488296</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt8</data>
+    </edge>
+    <edge source="940GZZLUGGH" target="940GZZLUCWL">
+      <data key="d4">1341.1115952128125</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualt9</data>
+    </edge>
+    <edge source="940GZZLUCWL" target="940GZZLURVY">
+      <data key="d4">2185.847212069725</data>
+      <data key="d5">Central</data>
+      <data key="d6">CentralHainualtA</data>
+    </edge>
+    <edge source="940GZZLUKBY" target="940GZZLUQBY">
+      <data key="d4">1242.2968258251715</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeNorth2</data>
+    </edge>
+    <edge source="940GZZLUQBY" target="940GZZLUCPK">
+      <data key="d4">1682.2074330725911</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeNorth3</data>
+    </edge>
+    <edge source="940GZZLUCPK" target="940GZZLUSTM">
+      <data key="d4">1415.5226257752602</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeNorth4</data>
+    </edge>
+    <edge source="940GZZDLSTD" target="940GZZDLSHS">
+      <data key="d4">428.82081869402924</data>
+      <data key="d5">DLR</data>
+      <data key="d6">JubDLR1</data>
+    </edge>
+    <edge source="940GZZDLSTD" target="940GZZDLPUD">
+      <data key="d4">941.1222085749844</data>
+      <data key="d5">DLR</data>
+      <data key="d6">PoplarStratford6</data>
+    </edge>
+    <edge source="940GZZDLSTD" target="940GZZDLSIT">
+      <data key="d4">1371.3088830510671</data>
+      <data key="d5">DLR</data>
+      <data key="d6">StratInt</data>
+    </edge>
+    <edge source="940GZZDLSHS" target="940GZZDLABR">
+      <data key="d4">648.304601658057</data>
+      <data key="d5">DLR</data>
+      <data key="d6">JubDLR2</data>
+    </edge>
+    <edge source="940GZZDLABR" target="940GZZDLWHM">
+      <data key="d4">499.27716809799784</data>
+      <data key="d5">DLR</data>
+      <data key="d6">JubDLR3A</data>
+    </edge>
+    <edge source="940GZZDLWHM" target="940GZZDLSTL">
+      <data key="d4">829.6812664296788</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WestHamDLR4A</data>
+    </edge>
+    <edge source="940GZZDLSTL" target="940GZZDLCGT">
+      <data key="d4">828.9420849654492</data>
+      <data key="d5">DLR</data>
+      <data key="d6">JubDLR5A</data>
+    </edge>
+    <edge source="940GZZLUCGT" target="940GZZLUNGW">
+      <data key="d4">1794.083786890113</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast1</data>
+    </edge>
+    <edge source="940GZZLUCGT" target="940GZZDLCGT">
+      <data key="d4">61.192998634290014</data>
+    </edge>
+    <edge source="940GZZDLCGT" target="940GZZDLRVC">
+      <data key="d4">840.9957701923256</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton5</data>
+    </edge>
+    <edge source="940GZZDLCGT" target="940GZZDLEIN">
+      <data key="d4">1123.184503102004</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton4</data>
+    </edge>
+    <edge source="940GZZDLCGT" target="940GZZDLWSV">
+      <data key="d4">1531.1452093479527</data>
+      <data key="d5">DLR</data>
+      <data key="d6">CanningToKGV1</data>
+    </edge>
+    <edge source="940GZZDLRVC" target="940GZZDLCUS">
+      <data key="d4">588.9846532981104</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton6</data>
+    </edge>
+    <edge source="940GZZLUHAW" target="940GZZLUKEN">
+      <data key="d4">1777.3860321946468</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC1</data>
+    </edge>
+    <edge source="940GZZLUKEN" target="940GZZLUSKT">
+      <data key="d4">1379.7138849070764</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC2</data>
+    </edge>
+    <edge source="910GHROW" target="910GKTON">
+      <data key="d4">1777.3860321946468</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC1</data>
+    </edge>
+    <edge source="910GHROW" target="910GHEDSTNL">
+      <data key="d4">1847.7398983460673</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WatfordJSpur5</data>
+    </edge>
+    <edge source="910GKTON" target="910GSKENTON">
+      <data key="d4">1379.7138849070764</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC2</data>
+    </edge>
+    <edge source="940GZZLUSKT" target="940GZZLUNWY">
+      <data key="d4">927.6478167346181</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC3</data>
+    </edge>
+    <edge source="910GSKENTON" target="910GNWEMBLY">
+      <data key="d4">927.6498592742355</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC3</data>
+    </edge>
+    <edge source="940GZZLUNWY" target="940GZZLUWYC">
+      <data key="d4">1344.292863738301</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC4</data>
+    </edge>
+    <edge source="910GNWEMBLY" target="910GWMBY">
+      <data key="d4">1344.2688976158026</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC4</data>
+    </edge>
+    <edge source="940GZZLUWYC" target="940GZZLUSGP">
+      <data key="d4">1711.145380167477</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC5</data>
+    </edge>
+    <edge source="910GWMBY" target="910GSTNBGPK">
+      <data key="d4">1711.145380167477</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC5</data>
+    </edge>
+    <edge source="940GZZLUSGP" target="940GZZLUHSN">
+      <data key="d4">1487.7772463345552</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC6</data>
+    </edge>
+    <edge source="910GSTNBGPK" target="910GHARLSDN">
+      <data key="d4">1487.715285184034</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC6</data>
+    </edge>
+    <edge source="940GZZLUHSN" target="940GZZLUWJN">
+      <data key="d4">1138.5413101782613</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC7</data>
+    </edge>
+    <edge source="910GHARLSDN" target="910GWLSDJHL">
+      <data key="d4">1138.5413101782613</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC7</data>
+    </edge>
+    <edge source="940GZZLUWJN" target="940GZZLUKSL">
+      <data key="d4">1346.6816258650638</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC8</data>
+    </edge>
+    <edge source="910GWLSDJHL" target="910GKENSLG">
+      <data key="d4">1385.2979981470003</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC8</data>
+    </edge>
+    <edge source="910GWLSDJHL" target="910GACTNCTL">
+      <data key="d4">221.17793216449</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLine3A</data>
+    </edge>
+    <edge source="910GWLSDJHL" target="910GKENR">
+      <data key="d4">1741.6773051894731</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLine4</data>
+    </edge>
+    <edge source="910GWLSDJHL" target="910GSHPDSB">
+      <data key="d4">3632.656459767143</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WestLonLineC2</data>
+    </edge>
+    <edge source="940GZZLUKSL" target="940GZZLUQPS">
+      <data key="d4">1379.0155723676082</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDC9</data>
+    </edge>
+    <edge source="910GKENSLG" target="910GQPRK">
+      <data key="d4">1762.0276682073254</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDC9</data>
+    </edge>
+    <edge source="940GZZLUQPS" target="940GZZLUKPK">
+      <data key="d4">799.418001196044</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooDCA</data>
+    </edge>
+    <edge source="910GQPRK" target="910GKLBRNHR">
+      <data key="d4">670.7808929413637</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">BakerlooDCA</data>
+    </edge>
+    <edge source="940GZZLUKPK" target="940GZZLUMVL">
+      <data key="d4">842.2191843272203</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMain2</data>
+    </edge>
+    <edge source="910GKLBRNHR" target="910GSHMPSTD">
+      <data key="d4">973.4311766657258</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EustonSpur2</data>
+    </edge>
+    <edge source="940GZZLUEGW" target="940GZZLUBTK">
+      <data key="d4">1515.0261243583193</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden1</data>
+    </edge>
+    <edge source="940GZZLUBTK" target="940GZZLUCND">
+      <data key="d4">1296.713948354376</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden2</data>
+    </edge>
+    <edge source="940GZZLUCND" target="940GZZLUHCL">
+      <data key="d4">2145.593280069144</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden3</data>
+    </edge>
+    <edge source="940GZZLUHCL" target="940GZZLUBTX">
+      <data key="d4">1130.3615043344405</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden4</data>
+    </edge>
+    <edge source="940GZZLUBTX" target="940GZZLUGGN">
+      <data key="d4">1509.0261494333365</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden5</data>
+    </edge>
+    <edge source="940GZZLUGGN" target="940GZZLUHTD">
+      <data key="d4">2376.5173468652997</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden6</data>
+    </edge>
+    <edge source="940GZZLUHTD" target="940GZZLUBZP">
+      <data key="d4">1171.4629615731192</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden7</data>
+    </edge>
+    <edge source="940GZZLUBZP" target="940GZZLUCFM">
+      <data key="d4">1031.8394908246794</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden8</data>
+    </edge>
+    <edge source="940GZZLUCFM" target="940GZZLUCTN">
+      <data key="d4">990.2144729229116</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMorden9</data>
+    </edge>
+    <edge source="940GZZLUCTN" target="940GZZLUKSH">
+      <data key="d4">1272.8412721229406</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKennA</data>
+    </edge>
+    <edge source="940GZZLUCTN" target="940GZZLUMTC">
+      <data key="d4">581.0547298345332</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKennB</data>
+    </edge>
+    <edge source="940GZZLUAGL" target="940GZZLUODS">
+      <data key="d4">1518.5073533955142</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenD</data>
+    </edge>
+    <edge source="940GZZLULNB" target="940GZZLUBOR">
+      <data key="d4">511.226766321944</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenH</data>
+    </edge>
+    <edge source="940GZZLULNB" target="940GZZLUBMY">
+      <data key="d4">2079.490925284445</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast5</data>
+    </edge>
+    <edge source="940GZZLULNB" target="940GZZLUSWK">
+      <data key="d4">1095.5624115983364</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast6</data>
+    </edge>
+    <edge source="940GZZLUBOR" target="940GZZLUEAC">
+      <data key="d4">814.068862797626</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenI</data>
+    </edge>
+    <edge source="940GZZLUEAC" target="940GZZLUKNG">
+      <data key="d4">831.6113879528234</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenJ</data>
+    </edge>
+    <edge source="940GZZLUEAC" target="940GZZLULBN">
+      <data key="d4">992.4050137170553</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooSouth2</data>
+    </edge>
+    <edge source="940GZZLUKNG" target="940GZZLUOVL">
+      <data key="d4">910.2014434883945</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenK</data>
+    </edge>
+    <edge source="940GZZLUKNG" target="940GZZLUWLO">
+      <data key="d4">1756.0393563345822</data>
+      <data key="d5">Northern</data>
+      <data key="d6">WaterlooKenn</data>
+    </edge>
+    <edge source="940GZZLUCPN" target="940GZZLUCPC">
+      <data key="d4">639.5768913756779</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenN</data>
+    </edge>
+    <edge source="940GZZLUCPC" target="940GZZLUCPS">
+      <data key="d4">1245.7617616751952</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenO</data>
+    </edge>
+    <edge source="940GZZLUCPS" target="940GZZLUBLM">
+      <data key="d4">1160.8216014038494</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenP</data>
+    </edge>
+    <edge source="940GZZLUBLM" target="940GZZLUTBC">
+      <data key="d4">968.4657175824127</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenQ</data>
+    </edge>
+    <edge source="940GZZLUTBC" target="940GZZLUTBY">
+      <data key="d4">1067.9819531289913</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenR</data>
+    </edge>
+    <edge source="940GZZLUTBY" target="940GZZLUCSD">
+      <data key="d4">1273.576111969701</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenS</data>
+    </edge>
+    <edge source="940GZZLUCSD" target="940GZZLUSWN">
+      <data key="d4">1072.161013712353</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenT</data>
+    </edge>
+    <edge source="940GZZLUSWN" target="940GZZLUMDN">
+      <data key="d4">1529.537777551415</data>
+      <data key="d5">Northern</data>
+      <data key="d6">EdgeMordenU</data>
+    </edge>
+    <edge source="940GZZLUFYC" target="940GZZLUMHL">
+      <data key="d4">1516.2251141980782</data>
+      <data key="d5">Northern</data>
+      <data key="d6">MillHill</data>
+    </edge>
+    <edge source="940GZZLUFYC" target="940GZZLUWFN">
+      <data key="d4">1230.1126605415077</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn4</data>
+    </edge>
+    <edge source="940GZZLUFYC" target="940GZZLUEFY">
+      <data key="d4">2367.4266380730355</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn5</data>
+    </edge>
+    <edge source="940GZZLUWLO" target="940GZZLUSWK">
+      <data key="d4">650.8332505394687</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast7</data>
+    </edge>
+    <edge source="940GZZLUWLO" target="940GZZLULBN">
+      <data key="d4">562.7420596979902</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooSouth1</data>
+    </edge>
+    <edge source="940GZZDLBNK" target="940GZZDLSHA">
+      <data key="d4">2138.7161904286345</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewishamAC</data>
+    </edge>
+    <edge source="940GZZDLSHA" target="940GZZDLLIM">
+      <data key="d4">1195.7210440529707</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewisham2</data>
+    </edge>
+    <edge source="940GZZDLSHA" target="940GZZDLTWG">
+      <data key="d4">1270.4430316315847</data>
+      <data key="d5">DLR</data>
+      <data key="d6">TowerGatewaySpur</data>
+    </edge>
+    <edge source="940GZZDLLIM" target="940GZZDLWFE">
+      <data key="d4">967.7033015856375</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewisham3</data>
+    </edge>
+    <edge source="940GZZDLWFE" target="940GZZDLWIQ">
+      <data key="d4">522.9557001802594</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewishamAD</data>
+    </edge>
+    <edge source="940GZZDLWFE" target="940GZZDLPOP">
+      <data key="d4">667.1846389286933</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton1</data>
+    </edge>
+    <edge source="940GZZDLWIQ" target="940GZZDLCAN">
+      <data key="d4">195.71011885903843</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewisham5</data>
+    </edge>
+    <edge source="940GZZDLWIQ" target="940GZZDLPOP">
+      <data key="d4">228.23536550370753</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WIQChord</data>
+    </edge>
+    <edge source="940GZZDLCAN" target="940GZZDLHEQ">
+      <data key="d4">215.77412544735844</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewisham6</data>
+    </edge>
+    <edge source="940GZZDLCAN" target="940GZZLUCYF">
+      <data key="d4">241.03610023369325</data>
+    </edge>
+    <edge source="940GZZDLHEQ" target="940GZZDLSOQ">
+      <data key="d4">640.9829971099454</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewisham7</data>
+    </edge>
+    <edge source="940GZZDLSOQ" target="940GZZDLCLA">
+      <data key="d4">588.7727359863138</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewisham8</data>
+    </edge>
+    <edge source="940GZZDLCLA" target="940GZZDLMUD">
+      <data key="d4">461.62069241514513</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewisham9</data>
+    </edge>
+    <edge source="940GZZDLMUD" target="940GZZDLISL">
+      <data key="d4">549.5967220503114</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewishamA</data>
+    </edge>
+    <edge source="940GZZDLISL" target="940GZZDLCUT">
+      <data key="d4">786.0377382197108</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewishamB</data>
+    </edge>
+    <edge source="940GZZDLCUT" target="940GZZDLGRE">
+      <data key="d4">630.0741891932881</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewishamC</data>
+    </edge>
+    <edge source="940GZZDLGRE" target="940GZZDLDEP">
+      <data key="d4">778.641943577388</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewishamD</data>
+    </edge>
+    <edge source="940GZZDLDEP" target="940GZZDLELV">
+      <data key="d4">719.5430023833901</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewishamE</data>
+    </edge>
+    <edge source="940GZZDLELV" target="940GZZDLLEW">
+      <data key="d4">556.8844609368159</data>
+      <data key="d5">DLR</data>
+      <data key="d6">BankLewishamF</data>
+    </edge>
+    <edge source="940GZZDLPOP" target="940GZZDLALL">
+      <data key="d4">442.6524575913608</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton2</data>
+    </edge>
+    <edge source="940GZZDLPOP" target="940GZZDLBLA">
+      <data key="d4">711.7609491123726</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBecktonAA</data>
+    </edge>
+    <edge source="940GZZDLALL" target="940GZZDLLDP">
+      <data key="d4">497.4004573735149</data>
+      <data key="d5">DLR</data>
+      <data key="d6">PoplarStratford2</data>
+    </edge>
+    <edge source="940GZZDLBLA" target="940GZZDLEIN">
+      <data key="d4">382.89696187238593</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton3</data>
+    </edge>
+    <edge source="940GZZDLCUS" target="940GZZDLPRE">
+      <data key="d4">504.3587089263606</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton7</data>
+    </edge>
+    <edge source="940GZZDLPRE" target="940GZZDLRAL">
+      <data key="d4">882.5364701483188</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton8</data>
+    </edge>
+    <edge source="940GZZDLRAL" target="940GZZDLBPK">
+      <data key="d4">660.5835776410557</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBeckton9</data>
+    </edge>
+    <edge source="940GZZDLBPK" target="940GZZDLCYP">
+      <data key="d4">625.3149182406268</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBecktonA</data>
+    </edge>
+    <edge source="940GZZDLCYP" target="940GZZDLGAL">
+      <data key="d4">738.1861113880769</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBecktonB</data>
+    </edge>
+    <edge source="940GZZDLGAL" target="940GZZDLBEC">
+      <data key="d4">1228.2509782448437</data>
+      <data key="d5">DLR</data>
+      <data key="d6">WfBecktonC</data>
+    </edge>
+    <edge source="940GZZDLDP" target="940GZZDLDEV">
+      <data key="d4">848.1782491512229</data>
+      <data key="d5">DLR</data>
+      <data key="d6">PoplarStratford3</data>
+    </edge>
+    <edge source="940GZZDLDEV" target="940GZZDLBOW">
+      <data key="d4">630.6075574939366</data>
+      <data key="d5">DLR</data>
+      <data key="d6">PoplarStratford4</data>
+    </edge>
+    <edge source="940GZZDLBOW" target="940GZZDLPUD">
+      <data key="d4">1004.7793198766074</data>
+      <data key="d5">DLR</data>
+      <data key="d6">PoplarStratford5</data>
+    </edge>
+    <edge source="940GZZLUNGW" target="940GZZLUCYF">
+      <data key="d4">1661.5885631078477</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast2</data>
+    </edge>
+    <edge source="940GZZLUCYF" target="940GZZLUCWR">
+      <data key="d4">2389.794364832395</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast3</data>
+    </edge>
+    <edge source="940GZZLUCWR" target="940GZZLUBMY">
+      <data key="d4">1002.9297986997827</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEast4</data>
+    </edge>
+    <edge source="940GZZLUSJW" target="940GZZLUSWC">
+      <data key="d4">961.4602031692841</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEastD</data>
+    </edge>
+    <edge source="940GZZLUSWC" target="940GZZLUFYR">
+      <data key="d4">623.0945903813027</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">JubileeEastE</data>
+    </edge>
+    <edge source="940GZZLUFYR" target="940GZZLUWHP">
+      <data key="d4">692.8245744144592</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">MetJub7</data>
+    </edge>
+    <edge source="940GZZDLWLA" target="940GZZDLKGV">
+      <data key="d4">2423.416028312047</data>
+      <data key="d5">DLR</data>
+      <data key="d6">KGVtoWoolwich</data>
+    </edge>
+    <edge source="940GZZDLKGV" target="940GZZDLLCA">
+      <data key="d4">1025.701579608404</data>
+      <data key="d5">DLR</data>
+      <data key="d6">CanningToKGV4</data>
+    </edge>
+    <edge source="940GZZDLWSV" target="940GZZDLPDK">
+      <data key="d4">747.5045518154516</data>
+      <data key="d5">DLR</data>
+      <data key="d6">CanningToKGV2</data>
+    </edge>
+    <edge source="940GZZDLPDK" target="940GZZDLLCA">
+      <data key="d4">1135.4740065693363</data>
+      <data key="d5">DLR</data>
+      <data key="d6">CanningToKGV3</data>
+    </edge>
+    <edge source="910GKENR" target="910GBRBYPK">
+      <data key="d4">992.7386646928518</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLine5</data>
+    </edge>
+    <edge source="910GBRBYPK" target="910GBRBY">
+      <data key="d4">735.9247185140309</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLine6</data>
+    </edge>
+    <edge source="910GBRBY" target="910GWHMDSTD">
+      <data key="d4">755.4345673880516</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLine7</data>
+    </edge>
+    <edge source="910GWHMDSTD" target="910GFNCHLYR">
+      <data key="d4">635.2197575448049</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLine8</data>
+    </edge>
+    <edge source="910GWHMDSTD" target="940GZZLUWHP">
+      <data key="d4">98.54107866846238</data>
+    </edge>
+    <edge source="910GFNCHLYR" target="910GHMPSTDH">
+      <data key="d4">1417.3525918391142</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLine9</data>
+    </edge>
+    <edge source="910GHMPSTDH" target="910GGOSPLOK">
+      <data key="d4">932.9377720353918</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineA</data>
+    </edge>
+    <edge source="910GGOSPLOK" target="910GKNTSHTW">
+      <data key="d4">1087.0674885626956</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineB</data>
+    </edge>
+    <edge source="910GGOSPLOK" target="910GUPRHLWY">
+      <data key="d4">1897.0769294315216</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin1</data>
+    </edge>
+    <edge source="910GKNTSHTW" target="910GCMDNRD">
+      <data key="d4">890.3278920124046</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineC</data>
+    </edge>
+    <edge source="910GCMDNRD" target="910GCLDNNRB">
+      <data key="d4">1756.1085848316088</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineD</data>
+    </edge>
+    <edge source="910GCLDNNRB" target="910GHGHI">
+      <data key="d4">740.9721676945195</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineE</data>
+    </edge>
+    <edge source="910GHGHI" target="910GCNNB">
+      <data key="d4">905.887202941521</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineF</data>
+    </edge>
+    <edge source="910GCNNB" target="910GDALSKLD">
+      <data key="d4">1170.6813718239268</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineG</data>
+    </edge>
+    <edge source="910GCNNB" target="910GDALS">
+      <data key="d4">1264.923782193061</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonNorthLonLink</data>
+    </edge>
+    <edge source="910GDALSKLD" target="910GHACKNYC">
+      <data key="d4">1289.4606253945778</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineH</data>
+    </edge>
+    <edge source="910GHACKNYC" target="910GHOMRTON">
+      <data key="d4">1027.4203239441354</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineI</data>
+    </edge>
+    <edge source="910GHOMRTON" target="910GHACKNYW">
+      <data key="d4">1337.8087912855349</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NorthLonLineJ</data>
+    </edge>
+    <edge source="910GWCHAPEL" target="910GSHADWEL">
+      <data key="d4">1083.9031982826034</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonOld1</data>
+    </edge>
+    <edge source="910GWCHAPEL" target="910GSHRDHST">
+      <data key="d4">1072.290735737735</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">ShoreditchRetained</data>
+    </edge>
+    <edge source="910GSHADWEL" target="910GWAPPING">
+      <data key="d4">823.6184834650965</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonOld2</data>
+    </edge>
+    <edge source="910GWAPPING" target="910GRTHERHI">
+      <data key="d4">450.54078655877174</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonOld3</data>
+    </edge>
+    <edge source="910GRTHERHI" target="910GCNDAW">
+      <data key="d4">420.53468578640167</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonOld4</data>
+    </edge>
+    <edge source="910GCNDAW" target="910GSURREYQ">
+      <data key="d4">552.6855970003843</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonOld5</data>
+    </edge>
+    <edge source="910GSURREYQ" target="910GNEWXGTE">
+      <data key="d4">2050.2979049422256</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonOldAB</data>
+    </edge>
+    <edge source="910GSURREYQ" target="910GNWCRELL">
+      <data key="d4">2134.847327437392</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">NewCrossSpur</data>
+    </edge>
+    <edge source="910GSURREYQ" target="910GPCKHMQD">
+      <data key="d4">2235.0269035221245</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">SouthLonLine1</data>
+    </edge>
+    <edge source="910GNEWXGTE" target="910GBROCKLY">
+      <data key="d4">1220.4017677293725</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonSouth1</data>
+    </edge>
+    <edge source="910GSHRDHST" target="910GHOXTON">
+      <data key="d4">1067.2008893121701</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonNorthB</data>
+    </edge>
+    <edge source="910GSYDENHM" target="910GCRYSTLP">
+      <data key="d4">1618.0566389298078</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">CrystalPSpur</data>
+    </edge>
+    <edge source="910GSYDENHM" target="910GFORESTH">
+      <data key="d4">1402.4441079264857</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonSouth4</data>
+    </edge>
+    <edge source="910GSYDENHM" target="910GPENEW">
+      <data key="d4">1174.3005015245749</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonSouthAB</data>
+    </edge>
+    <edge source="910GPCKHMQD" target="910GPCKHMRY">
+      <data key="d4">1124.1838633229388</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">SouthLonLine2</data>
+    </edge>
+    <edge source="910GPCKHMRY" target="910GDENMRKH">
+      <data key="d4">1332.661493686463</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">SouthLonLine3</data>
+    </edge>
+    <edge source="910GDENMRKH" target="910GCLPHHS">
+      <data key="d4">3235.9475841058993</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">SouthLonLine4</data>
+    </edge>
+    <edge source="910GCLPHHS" target="910GWNDSWRD">
+      <data key="d4">615.3320859975116</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">SouthLonLine5</data>
+    </edge>
+    <edge source="910GWNDSWRD" target="910GCLPHMJ1">
+      <data key="d4">2437.6208786000834</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">SouthLonLine6</data>
+    </edge>
+    <edge source="910GCLPHMJ1" target="910GCSEAH">
+      <data key="d4">1402.851132072345</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">ClaphamJunctionCombo</data>
+    </edge>
+    <edge source="910GWBRMPTN" target="910GCSEAH">
+      <data key="d4">1562.4441587100985</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WestBrompton</data>
+    </edge>
+    <edge source="910GWBRMPTN" target="910GKENOLYM">
+      <data key="d4">1524.7843858682272</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WestLonLineB</data>
+    </edge>
+    <edge source="910GSHMPSTD" target="910GEUSTON">
+      <data key="d4">3790.960040377275</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EustonSpur1</data>
+    </edge>
+    <edge source="910GBUSHEY" target="910GWATFDHS">
+      <data key="d4">874.016659175639</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WatfordJShared2</data>
+    </edge>
+    <edge source="910GBUSHEY" target="910GCRPNDPK">
+      <data key="d4">1950.2596858508011</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WatfordJSpur2</data>
+    </edge>
+    <edge source="910GWATFDHS" target="910GWATFDJ">
+      <data key="d4">1402.7269876034793</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WatfordJShared1</data>
+    </edge>
+    <edge source="910GCRPNDPK" target="910GHTCHEND">
+      <data key="d4">2436.0382125413594</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WatfordJSpur3</data>
+    </edge>
+    <edge source="910GHTCHEND" target="910GHEDSTNL">
+      <data key="d4">1143.0284535543121</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WatfordJSpur4</data>
+    </edge>
+    <edge source="910GUPRHLWY" target="910GCROUCHH">
+      <data key="d4">1208.118986051441</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin2</data>
+    </edge>
+    <edge source="910GCROUCHH" target="910GHRGYGL">
+      <data key="d4">1500.5062983849007</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin3</data>
+    </edge>
+    <edge source="910GHRGYGL" target="910GSTOTNHM">
+      <data key="d4">1853.0739928608407</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin4</data>
+    </edge>
+    <edge source="910GSTOTNHM" target="910GBLCHSRD">
+      <data key="d4">2257.9417994134765</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin5</data>
+    </edge>
+    <edge source="910GBLCHSRD" target="910GWLTHQRD">
+      <data key="d4">1388.8764065596044</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin6</data>
+    </edge>
+    <edge source="910GWLTHQRD" target="910GLEYTNMR">
+      <data key="d4">1775.8789295200556</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin7</data>
+    </edge>
+    <edge source="910GLEYTNMR" target="910GLYTNSHR">
+      <data key="d4">1212.9318519890226</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin8</data>
+    </edge>
+    <edge source="910GLYTNSHR" target="910GWNSTDPK">
+      <data key="d4">1910.546176177497</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">Goblin9</data>
+    </edge>
+    <edge source="910GWNSTDPK" target="910GWDGRNPK">
+      <data key="d4">1315.1309281860042</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">GoblinA</data>
+    </edge>
+    <edge source="910GWDGRNPK" target="910GBARKING">
+      <data key="d4">2787.5541126949433</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">GoblinB</data>
+    </edge>
+    <edge source="940GZZLUNDN" target="940GZZLUDOH">
+      <data key="d4">779.8340572091942</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">MetJub3</data>
+    </edge>
+    <edge source="940GZZLUDOH" target="940GZZLUWIG">
+      <data key="d4">1243.1262280283265</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">MetJub4</data>
+    </edge>
+    <edge source="940GZZLUWIG" target="940GZZLUKBN">
+      <data key="d4">1177.3557283190244</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">MetJub5</data>
+    </edge>
+    <edge source="940GZZLUKBN" target="940GZZLUWHP">
+      <data key="d4">1009.2921713960469</data>
+      <data key="d5">Jubilee</data>
+      <data key="d6">MetJub6</data>
+    </edge>
+    <edge source="940GZZLUHWT" target="940GZZLUHWC">
+      <data key="d4">1470.7705693979633</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow4</data>
+    </edge>
+    <edge source="940GZZLUHWC" target="940GZZLUHWE">
+      <data key="d4">742.7720700229975</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow5</data>
+    </edge>
+    <edge source="940GZZLUHWE" target="940GZZLUOSY">
+      <data key="d4">957.4965893968385</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow6</data>
+    </edge>
+    <edge source="940GZZLUOSY" target="940GZZLUBOS">
+      <data key="d4">2557.3140559173767</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow7</data>
+    </edge>
+    <edge source="940GZZLUBOS" target="940GZZLUNFD">
+      <data key="d4">924.3850924198524</data>
+      <data key="d5">Piccadilly</data>
+      <data key="d6">PiccToHeathrow8</data>
+    </edge>
+    <edge source="940GZZLUMVL" target="940GZZLUWKA">
+      <data key="d4">779.7289730282012</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMain3</data>
+    </edge>
+    <edge source="940GZZLUERB" target="940GZZLUMYB">
+      <data key="d4">538.6590116593541</data>
+      <data key="d5">Bakerloo</data>
+      <data key="d6">BakerlooMain6</data>
+    </edge>
+    <edge source="910GMRYLAND" target="910GFRSTGT">
+      <data key="d4">1295.911049324031</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast3</data>
+    </edge>
+    <edge source="910GFRSTGT" target="910GMANRPK">
+      <data key="d4">1537.301336985614</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEastAB</data>
+    </edge>
+    <edge source="910GMANRPK" target="910GILFORD">
+      <data key="d4">1828.6498291423384</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast4</data>
+    </edge>
+    <edge source="910GILFORD" target="910GSVNKNGS">
+      <data key="d4">1962.1595474986354</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast5</data>
+    </edge>
+    <edge source="910GSVNKNGS" target="910GGODMAYS">
+      <data key="d4">980.4952961202242</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast6</data>
+    </edge>
+    <edge source="910GGODMAYS" target="910GCHDWLHT">
+      <data key="d4">1281.3708065261774</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEast7</data>
+    </edge>
+    <edge source="910GGIDEAPK" target="910GHRLDWOD">
+      <data key="d4">2281.60495314862</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEastA</data>
+    </edge>
+    <edge source="910GHRLDWOD" target="910GBRTWOOD">
+      <data key="d4">5263.449469398489</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEastB</data>
+    </edge>
+    <edge source="910GBRTWOOD" target="910GSHENFLD">
+      <data key="d4">3345.815312145822</data>
+      <data key="d5">TfL Rail</data>
+      <data key="d6">CrossrailEastC</data>
+    </edge>
+    <edge source="910GBROCKLY" target="910GHONROPK">
+      <data key="d4">1730.2568582336191</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonSouth2</data>
+    </edge>
+    <edge source="910GHONROPK" target="910GFORESTH">
+      <data key="d4">1251.7732979225132</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonSouth3</data>
+    </edge>
+    <edge source="910GPENEW" target="910GANERLEY">
+      <data key="d4">682.0903309296041</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonSouth6</data>
+    </edge>
+    <edge source="910GANERLEY" target="910GNORWDJ">
+      <data key="d4">1789.5993129676428</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonSouth7</data>
+    </edge>
+    <edge source="910GNORWDJ" target="910GWCROYDN">
+      <data key="d4">2837.42084661542</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonSouth8</data>
+    </edge>
+    <edge source="910GDALS" target="910GHAGGERS">
+      <data key="d4">802.8117368235461</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonNorth9</data>
+    </edge>
+    <edge source="910GHAGGERS" target="910GHOXTON">
+      <data key="d4">829.8094542428026</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">EastLonNorthA</data>
+    </edge>
+    <edge source="940GZZLUHBT" target="940GZZLUTAW">
+      <data key="d4">2584.3737733958824</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn1</data>
+    </edge>
+    <edge source="940GZZLUTAW" target="940GZZLUWOP">
+      <data key="d4">1468.7671321624266</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn2</data>
+    </edge>
+    <edge source="940GZZLUWOP" target="940GZZLUWFN">
+      <data key="d4">942.3294255179935</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn3</data>
+    </edge>
+    <edge source="940GZZLUEFY" target="940GZZLUHGT">
+      <data key="d4">1742.7331076513724</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn6</data>
+    </edge>
+    <edge source="940GZZLUHGT" target="940GZZLUACY">
+      <data key="d4">1579.0318588521773</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn7</data>
+    </edge>
+    <edge source="940GZZLUACY" target="940GZZLUTFP">
+      <data key="d4">986.2601822097456</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn8</data>
+    </edge>
+    <edge source="940GZZLUTFP" target="940GZZLUKSH">
+      <data key="d4">755.9555906086484</data>
+      <data key="d5">Northern</data>
+      <data key="d6">HighBKenn9</data>
+    </edge>
+    <edge source="910GKENOLYM" target="910GSHPDSB">
+      <data key="d4">944.1802956398964</data>
+      <data key="d5">London Overground</data>
+      <data key="d6">WestLonLineC1</data>
+    </edge>
+    <data key="d0">EPSG:27700</data>
+  </graph>
+</graphml>
