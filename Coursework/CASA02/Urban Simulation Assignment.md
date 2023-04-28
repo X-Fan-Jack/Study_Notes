@@ -65,6 +65,15 @@ Based on the network G, the BC ranking of each station in the London tube networ
 
 ### 1.2 Impact measures:
 
+In order to measure the impact of station closure on the whole London tube network, this section will use two coefficients to evaluate the overall characteristics of the network. These two coefficients are: **_Average Clustering Coefficient_** and **_Degree Assortativity Coefficient_**.
+
+**_Average clustering coefficient_** (ACC) reflects the average of the clustering coefficients of all nodes in the network. The clustering coefficient is a measure of how tightly connected a node is to its neighbors, and it measures the connectivity between a node's neighbors. For the London tube network, the neighbors of a station are the other stations adjacent to it, so the clustering coefficient reflects the degree of connectivity between stations in the subway network. The higher the average clustering coefficient, the tighter the connectivity between stations in the tube network.  
+
+**_Degree assortativity coefficient_** (DAC) directly reflects the correlation between the degrees of nodes in the network, and indirectly reflects the structural characteristics of the network. For the London tube networks, if there is positive degree assortativity in the network, then neighboring stations are usually connected with similar number of other stations, forming a tightly connected community structure. On the contrary, if there is negative degree assortativity in the tube network, then adjacent stations are usually connected to other stations with widely varying numbers, forming a more dispersed structure.
+
+By removing the nodes and recalculating the two coefficients, the network's resilience can be evaluated by the change of the two coefficients. If it remains unchanged or increases, it means that the network is more resilient, which means that the network is able to retain the original characteristics as much as possible. If the coefficients decreases, then it means that the network is not resilient in the corresponding metric, or the node has a greater impact on a network.   
+
+These two measures can reflect the characteristics of the shape and clustering of the arbitrary network, which are not specific to the London tube network. For whether using these two metrics to evaluate the resilience of an arbitrary network will be significant, we need to consider factors such as the network's own characteristics. For example, if we are more concerned with the change in resilience of a network in terms of the degree of aggregation, then for an arbitrary network we would be more inclined to focus on the change in the average aggregation coefficient of that network as the nodes change.
 
 ### 1.3 Node removal:
 
