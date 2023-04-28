@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2786556ed4647e",
+        "id": "e5e00a647f0ab62e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a9c20d45885a9d9",
+            "id": "ae85120587c26531",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,12 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7a9c20d45885a9d9",
+  "active": "ae85120587c26531",
   "lastOpenFiles": [
+    "img/output1_3.png",
+    "Coursework/CASA02/Urban Simulation Assignment.md",
     "Coursework/CASA11/ABM_CW1/ABM_Coursework_1.md",
     "Coursework/CASA11/ABM_CW2/Readme.md",
     "Coursework/CASA06/Readme.md",
-    "Coursework/CASA02/Urban Simulation Assignment.md",
     "UCL_CASA06/AI(Artificial Intelligence).md",
     "README.md",
     "Coursework/CASA06/data/FHV_data/data_dictionary_trip_records_fhv.pdf",

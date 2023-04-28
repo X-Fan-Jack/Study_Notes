@@ -76,6 +76,9 @@ By removing the nodes and recalculating the two coefficients, the network's resi
 These two measures can reflect the characteristics of the shape and clustering of the arbitrary network, which are not specific to the London tube network. For whether using these two metrics to evaluate the resilience of an arbitrary network will be significant, we need to consider factors such as the network's own characteristics. For example, if we are more concerned with the change in resilience of a network in terms of the degree of aggregation, then for an arbitrary network we would be more inclined to focus on the change in the average aggregation coefficient of that network as the nodes change.
 
 ### 1.3 Node removal:
+The results of the metrics for the three centrality measures are obtained using two strategies of Sequential and Non-sequential node deletion as shown in the following figure: 
+![[output1_3.png]]
+
 
 <hr>
 
