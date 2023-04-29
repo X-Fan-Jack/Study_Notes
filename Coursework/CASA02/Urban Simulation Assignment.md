@@ -25,7 +25,7 @@ where $C_B(v)$ means the betweenness centrality of node $i$. $V$ is the set of n
 
 Based on the network G, the DC, CC and BC ranking of each station in the London tube network can be calculated, and the top 10 of them are shown in the following table:   
 
-|No.|station_name|degree_centrality|station_name|closeness_centrality|station_name|betweenness_centrality|
+|Rank|station_name|degree_centrality|station_name|closeness_centrality|station_name|betweenness_centrality|
 |--|--|--|--|--|--|--|
 |1|Stratford|0.922111|Stratford|0.927739|Stratford|0.098553|
 |2|Highbury & Islington|0.806533|Highbury & Islington|0.836134|Liverpool Street|0.034307|
@@ -57,20 +57,33 @@ Two strategies based on three central measure rankings, using sequential and non
 
 从结果图中可以看出，Non-sequential和Sequential两种删除策略对于DC和CC两种centrality measures在两类系数的变化上影响不大，但对于BC的影响较为显著。
 
-Non-sequential 删除策略对于研究网络的resilience更加有效。因为相较于Sequential 删除策略，Non-sequential 删除策略使得ACC和DAC两种指标系数下降的更快，更容易帮助我们得知关闭某个车站后对整个地铁网络结构特征的破坏程度的大小，进而更好的帮助我们研究网络的resilience。 
+~~Non-sequential 删除策略对于研究网络的resilience更加有效。因为相较于Sequential 删除策略，Non-sequential 删除策略使得ACC和DAC两种指标系数下降的更快，更容易帮助我们得知关闭某个车站后对整个地铁网络结构特征的破坏程度的大小，进而更好的帮助我们研究网络的resilience。~~ 
 
-对于哪种影响度量能更好地评估节点移除后的损害，我认为ACC相比于DAC能更好的评估节点移除后的网络损伤。尽管在结果图中，相较于ACC，DAC受节点移除的数值下降更显著。但DAC的取值范围是从-1到1。当DAC为正时，表示网络中度值高的节点更倾向于连接到其他度值高的节点，网络具有正相关性。当DAC为负时，表示网络中度值高的节点更倾向于连接到度值低的节点，网络具有负相关性，因此DAC的值在$[-1,-0.5)\cup (0.5,1]$内才会具有较强的实际意义。从结果图中可以看出，DAC作为影响度量其值在$(-0.5,0.25)$内，即网络中节点的度值与其他节点的度值没有明显的相关性，不能准确判断网络的状态。而ACC直接反映了网络的连接紧密程度，因此我认为ACC能更好的评估节点移除后的网络损伤。
+~~对于哪种影响度量能更好地评估节点移除后的损害，我认为ACC相比于DAC能更好的评估节点移除后的网络损伤。尽管在结果图中，相较于ACC，DAC受节点移除的数值下降更显著。但DAC的取值范围是从-1到1。当DAC为正时，表示网络中度值高的节点更倾向于连接到其他度值高的节点，网络具有正相关性。当DAC为负时，表示网络中度值高的节点更倾向于连接到度值低的节点，网络具有负相关性，因此DAC的值在$[-1,-0.5)\cup (0.5,1]$内才会具有较强的实际意义。从结果图中可以看出，DAC作为影响度量其值在$(-0.5,0.25)$内，即网络中节点的度值与其他节点的度值没有明显的相关性，不能准确判断网络的状态。而ACC直接反映了网络的连接紧密程度，因此我认为ACC能更好的评估节点移除后的网络损伤。~~
 
 <hr>
 
 ## II. Flows: weighted network:
-当我们将客流量纳入到London Tube 网络考虑时，网络的每一个edge都会增加一个edge的字段。这表明网络变成了一个加权网络。此时，在1.1中描述的三种Centrality measures将需要重新考虑。首先，DC是不变的，因为DC的计算方法只考虑了节点的度，并不考虑网络的权重，因此DC是不变的。其次，对于CC和BC，因为是将人流量作为权重加入到计算，因此将人流量的归一化结果作为权重。同时，因为CC和BC的节点重要性是根据距离成本来计算的，距离成本的意义与人流量的意义是相反的，因此最终需要取归一化结果与1的差值作为权重成本。
-
-
 ### II.1. Old vs new measure:
-经过计算，CC和BC的结果变化如下。
+当我们将客流量纳入到London Tube 网络考虑时，网络的每一个edge都会增加一个edge的字段。这表明网络变成了一个加权网络。此时，在1.1中描述的三种Centrality measures将需要重新考虑。首先，DC是不变的，因为DC的计算方法只考虑了节点的度，并不考虑网络的权重，因此DC是不变的。其次，对于CC和BC，因为是将人流量作为权重加入到计算，因此将人流量的归一化结果作为权重。同时，因为CC和BC的节点重要性是根据距离成本来计算的，距离成本的意义与人流量的意义是相反的，因此最终需要取归一化结果与1的差值作为权重成本。经过计算，CC和BC的结果变化如下：    
+
+|Rank|name|cc|name|cc_weight|name|bc|name|bc_weight|
+|--|--|--|--|--|--|--|--|--|
+| 1 | Stratford | 0.927739 | Stratford | 0.944876 | Stratford | 0.098553 | Stratford | 0.132384 |
+| 2 | Highbury & Islington | 0.836134 | Liverpool Street | 0.869680 | Liverpool Street | 0.034307 | Bank and Monument | 0.125460 |
+| 3 | Whitechapel | 0.820619 | Highbury & Islington | 0.851008 | Canary Wharf | 0.027956 | Canada Water | 0.063178 |
+| 4 | West Brompton | 0.817248 | Canary Wharf | 0.847229 | Bank and Monument | 0.027956 | Liverpool Street | 0.061327 |
+| 5 | Canada Water | 0.813906 | Bank and Monument | 0.838551 | Canning Town | 0.027757 | Waterloo | 0.046047 |
+| 6 | Richmond | 0.810591 | Waterloo | 0.838551 | West Ham | 0.024551 | Highbury & Islington | 0.028894 |
+| 7 | Canary Wharf | 0.810591 | Whitechapel | 0.827934 | Highbury & Islington | 0.023023 | Seven Sisters | 0.024588 |
+| 8 | Bank and Monument | 0.810591 | Canada Water | 0.826647 | Whitechapel | 0.019682 | Barking | 0.021002 |
+| 9 | Liverpool Street | 0.808943 | Canning Town | 0.823384 | Canada Water | 0.017898 | Canning Town | 0.019432 |
+| 10 | Canning Town | 0.808943 | West Brompton | 0.822428 | Shadwell | 0.017070 | Canary Wharf | 0.017379 |
+
+通过表格可以看出，若人流量作为权重加入到网络节点的重要性计算中时，网络节点的重要性排名出现了变化，比如在closeness centrality的变化中，Liverpool Street的站点重要性从第九名上升到了第二名。这说明了人流量的考虑将会改变站点的重要性排名。同时，Stratford站一直为第一名的状态，说明该站十分重要，不论是否考虑人流量。
 
 ### II.2. Impact measure with flows:
+对于加权网络，在1.2 中使用的两种imapct measures仍可以使用，因为ACC和DAC的计算都支持加权网络的计算，也就是说这两种参数的计算可以包含网络权重。除此之外，对于加权网络，我们还可以使用平均最短路径长度(Average Shortest Path Length)，来评价网络的紧密程度。ASPL表示了所有节点对之间的最短路径长度的平均值。一般来说，平均最短路径长度越小，说明节点之间的联系越紧密，信息传播的速度越快。对于London地铁网络，该值越小，说明旅客从出发站到目的站所需要经过的平均站点数量越少。 如果关闭某车站，ASPL值增加，说明该站点的关闭使得旅客所经过的平均站点数量增加，ASPL值变化的越大，说明该站点的去除对于网络整体的影响越大。
 
 ### III.3. Experiment with flows:
 
