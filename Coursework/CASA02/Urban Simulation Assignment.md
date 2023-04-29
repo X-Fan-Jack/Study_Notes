@@ -64,8 +64,12 @@ Non-sequential 删除策略对于研究网络的resilience更加有效。因为�
 <hr>
 
 ## II. Flows: weighted network:
+当我们将客流量纳入到London Tube 网络考虑时，网络的每一个edge都会增加一个edge的字段。这表明网络变成了一个加权网络。此时，在1.1中描述的三种Centrality measures将需要重新考虑。首先，DC是不变的，因为DC只考虑了节点的度，并不考虑网络的权重，因此DC的计算方法是不变的。其次，对于CC和BC，我们需要计算人流量的倒数，将其作为网络的权重。因为CC和BC的节点重要性是根据距离成本来计算的，距离成本的意义与人流量的意义是相反的，因此需要取人流量的倒数作为权重成本。
 ### II.1. Old vs new measure:
+经过计算，CC和BC的结果变化如下。
+
 ### II.2. Impact measure with flows:
+
 ### III.3. Experiment with flows:
 
 <hr>
