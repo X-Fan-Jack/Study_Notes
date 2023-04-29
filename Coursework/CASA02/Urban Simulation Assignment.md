@@ -114,7 +114,7 @@ The gravity model is the most basic spatial interaction model, which can represe
 In addition, the agent-based model(ABM) is introduced in the course as a spatial interaction model. It has good simulation effect for urban phenomena such as traffic congestion.Futhermore, the course also introduces the cellular automata model. Cellular automata models are a special class of ABMs that can well represent the self-similarity of urban sprawl based on fractal geometry.   
 
 ### III.2
-
+使用泊松分布对参数进行
 
 <hr>
 
