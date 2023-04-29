@@ -78,9 +78,10 @@ By removing the nodes and recalculating the two coefficients, the network's resi
 These two measures can reflect the characteristics of the shape and clustering of the arbitrary network, which are not specific to the London tube network. For whether using these two metrics to evaluate the resilience of an arbitrary network will be significant, we need to consider factors such as the network's own characteristics. For example, if we are more concerned with the change in resilience of a network in terms of the degree of aggregation, then for an arbitrary network we would be more inclined to focus on the change in the average aggregation coefficient of that network as the nodes change.
 
 ### 1.3 Node removal:
-Two strategies based on three central measure rankings, using sequential and non-sequential deletion of nodes, generated two results affecting the variation of the coefficients, as shown in the following figure: : 
+Two strategies based on three central measure rankings, using sequential and non-sequential deletion of nodes, generated two results affecting the variation of the coefficients, as shown in the following figure:    
 ![[output1_3.png]]
-从结果中可以看出度中心性能够更好的反映出车站对于地下运行的重要性。
+从结果图中可以看出，DC能够更好的反映出车站对于地下运行的重要性。因为在ACC和DAC两种测量尺度下，随着节点的删除，DC的变化情况是最显著的下降趋势。在现实生活中，这意味着一个车站如果能够到达更多的其他车站，那么这个车站对于运输起到的作用越大，车站重要性也越强。但是，由于该方法只考虑了拓扑网络，所以使用这种方法去计算真实车站的重要程度，还具有一定的限制。
+从结果图中可以看出，Non-sequential 删除策略对于研究网络的resilience更加有效。因为相较于Sequential 删除策略，Non-sequential 删除策略使得ACC和DAC两种指标系数下降的更快，更容易帮助我们得知关闭某个车站后对整个地铁网络结构特征的破坏程度的大小，进而更好的帮助我们研究网络的resilience。 但是，由于地铁网络的特殊性，即中心的车站更有可能具有更多的度，Non-sequential 删除策略可能会
 
 <hr>
 
