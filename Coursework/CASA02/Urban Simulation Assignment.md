@@ -53,8 +53,10 @@ These two measures can reflect the characteristics of the shape and clustering o
 ### 1.3 Node removal:
 Two strategies based on three central measure rankings, using sequential and non-sequential deletion of nodes, generated two results affecting the variation of the coefficients, as shown in the following figure:    
 ![[output1_3.png]]
-从结果图中可以看出，DC能够更好的反映出车站对于地下运行的重要性。因为在ACC和DAC两种测量尺度下，随着节点的删除，DC的变化情况是最显著的下降趋势。在现实生活中，这意味着一个车站如果能够到达更多的其他车站，那么这个车站对于运输起到的作用越大，车站重要性也越强。但是，由于该方法只考虑了拓扑网络，所以使用这种方法去计算真实车站的重要程度，还具有一定的限制。
-从结果图中可以看出，Non-sequential 删除策略对于研究网络的resilience更加有效。因为相较于Sequential 删除策略，Non-sequential 删除策略使得ACC和DAC两种指标系数下降的更快，更容易帮助我们得知关闭某个车站后对整个地铁网络结构特征的破坏程度的大小，进而更好的帮助我们研究网络的resilience。 
+从结果图中可以看出，BC能够更好的反映出车站对于地下运行的重要性。因为在ACC和DAC两种测量尺度下，随着节点的删除，BC的变化情况是较为离散的。与近似线性变化的DC和CC相比，BC变化的离散性更能体现出不同车站的关闭对于网络整体的影响大小不同。这在理论上与现实生活中车站的重要性差异具有非线性的特征相对应。同时，BC体现出了车站作为中转节点的重要性。因此，BC更好的反映出车站对于地下运行的重要性。但是，由于该方法只考虑了拓扑网络，所以使用这种方法去计算真实车站的重要程度仍具有一定的限制。
+从结果图中可以看出，Non-sequential和Sequential两种删除策略对于DC和CC两种centrality measures在两类系数的变化上影响不大，但对于BC的影响较为显著。
+
+Non-sequential 删除策略对于研究网络的resilience更加有效。因为相较于Sequential 删除策略，Non-sequential 删除策略使得ACC和DAC两种指标系数下降的更快，更容易帮助我们得知关闭某个车站后对整个地铁网络结构特征的破坏程度的大小，进而更好的帮助我们研究网络的resilience。 
 对于哪种影响度量能更好地评估节点移除后的损害，我认为ACC相比于DAC能更好的评估节点移除后的网络损伤。尽管在结果图中，相较于ACC，DAC受节点移除的数值下降更显著。但DAC的取值范围是从-1到1。当DAC为正时，表示网络中度值高的节点更倾向于连接到其他度值高的节点，网络具有正相关性。当DAC为负时，表示网络中度值高的节点更倾向于连接到度值低的节点，网络具有负相关性，因此DAC的值在$[-1,-0.5)\cup (0.5,1]$内才会具有较强的实际意义。从结果图中可以看出，DAC作为影响度量其值在$(-0.5,0.25)$内，即网络中节点的度值与其他节点的度值没有明显的相关性，不能准确判断网络的状态。而ACC直接反映了网络的连接紧密程度，因此我认为ACC能更好的评估节点移除后的网络损伤。
 
 <hr>
