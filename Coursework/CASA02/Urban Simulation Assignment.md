@@ -106,13 +106,15 @@ $$T_{ij}=K\frac{O_i^{\alpha}D_j^{\gamma}}{d_{ij}^\beta } = KO_i^{\alpha}D_j^{\ga
 
 This model shows that the flow between origin and destination is proportional to the product of the masses of origin and destination and inversely proportional to the distance between them. As the quality of the origin and destination increases, the flow increases, but as the distance increases, the flow decreases, and vice versa.    
 
+On this basis, constraining the parameters can lead to a constrained gravity model. For example, the Production (orign) Constrained Spatial Interaction Model, which is used in practical, is a single constrained model with constraints on $O_i^{\alpha}$. In addition, there are also Attraction (destination) Constrained Spatial Interaction Models that constrain the destination value.    
+
 The gravity model is the most basic spatial interaction model, which can represent the relationship between two locations. For example, the gravity model can represent the population attraction between two locations, A and B. This can explain the stronger population movement between large cities compared to that between small cities. 
 
 #### Agent Based Model
+In addition, the agent-based model(ABM) is introduced in the course as a spatial interaction model. It has good simulation effect for urban phenomena such as traffic congestion.Futhermore, the course also introduces the cellular automata model. Cellular automata models are a special class of ABMs that can well represent the self-similarity of urban sprawl based on fractal geometry.   
 
-#### Cellular Automata Models
-作为一种特殊的ABM，元胞自动机模型，
 ### III.2
+
 
 <hr>
 
