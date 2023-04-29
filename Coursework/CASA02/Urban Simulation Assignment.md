@@ -63,6 +63,8 @@ Based on the network G, the BC ranking of each station in the London tube networ
 |9|Bond Street|0.258599|
 |10|West Hampstead|0.236566|
 
+
+最后尝试把表格合并起来
 ### 1.2 Impact measures:
 
 In order to measure the impact of station closure on the whole London tube network, this section will use two coefficients to evaluate the overall characteristics of the network. These two coefficients are: **_Average Clustering Coefficient_** and **_Degree Assortativity Coefficient_**.
