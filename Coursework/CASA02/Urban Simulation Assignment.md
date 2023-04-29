@@ -94,7 +94,24 @@ Two strategies based on three central measure rankings, using sequential and non
 In this section, the data of the London tube OD matrix in csv format provided on Moodle will be used.  
 ## III. Models and calibration:
 ### III.1
-In the lectures, Gravity model 是被重点介绍的空间互动模型。
+#### Gravity Model
+Gravity model is the spatial interaction model that was highlighted in the lecture. The gravity model is commonly defined as:  
+
+$$T_{ij}=K\frac{O_i^{\alpha}D_j^{\gamma}}{d_{ij}^\beta } = KO_i^{\alpha}D_j^{\gamma}d_{ij}^{-\beta}$$
+- Where $T_{ij}$ is the transition or flow $T$, between origin $i$ and destination $j$. 
+- $O$ is a vector of origin attributes which relate to the emissiveness of all origins in the dataset, $i$ - means the index of the origin area. 
+- $D$ is a vector of desination attributes which relate to the attractivenss of all destinations in the dataset, $j$ - means the index of the desination area. 
+- $d$ is a matrix of costs relating to the flows between $i$ and $j$.
+- $K$, $\alpha$, $\gamma$ and $β$ are all the model parameters to be estimated
+
+This model shows that the flow between origin and destination is proportional to the product of the masses of origin and destination and inversely proportional to the distance between them. As the quality of the origin and destination increases, the flow increases, but as the distance increases, the flow decreases, and vice versa.    
+
+The gravity model is the most basic spatial interaction model, which can represent the relationship between two locations. For example, the gravity model can represent the population attraction between two locations, A and B. This can explain the stronger population movement between large cities compared to that between small cities. 
+
+#### Agent Based Model
+
+#### Cellular Automata Models
+作为一种特殊的ABM，元胞自动机模型，
 ### III.2
 
 <hr>
