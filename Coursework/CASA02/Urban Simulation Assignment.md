@@ -142,9 +142,10 @@ $$
 Where $\alpha_i$ is the equivalent of the vector of balancing factors $A_i$,  $D_j$ is the jobs count in the destination area and $d_{ij}$ is the distance between OD.
 
 Using Python, the Poisson regression model was built and the distance cost coefficient is calculated as: $\beta = 0.1555674653504901$ 
-By Verifing, the R2 of the result is: 0.26948467119657304.     
+By Verifing with the original flow data, the R2 of the result is: 0.26948467119657304.     
 And the RMSE of the reult is: 113.489.
 
+从理论上该模型的确定应该是合理的，但是结果的R2很低，并不理想。
 
 
 <hr>
