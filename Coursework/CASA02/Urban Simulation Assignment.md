@@ -117,7 +117,7 @@ In addition, the agent-based model(ABM) is introduced in the course as a spatial
 The target of spatial interaction model is to models and predicts the number of occurrences of events in a certain time period. Thus, Poisson regression is chosen to build the prediction model. Because Poisson regression models assume that the response variables are Poisson distributed and model and predict count data better. As a result, we can build a Production-constrained Model by using the formula:
 $$
 
-T_{ij} = A_i O_i D_j d_{ij}^{-\beta}
+T_{ij} = A_i O_i D_j^\gamma d_{ij}^{-\beta}
 
 $$
 
@@ -130,7 +130,7 @@ $$
 and  
 $$
 
-A_i = \frac{1}{\sum_j D_j d_{ij}^{-\beta}}
+A_i = \frac{1}{\sum_j D_j^\gamma d_{ij}^{-\beta}}
 
 $$
 Thus, we can get the formula as:    
@@ -141,12 +141,14 @@ $$  
 $$
 Where $\alpha_i$ is the equivalent of the vector of balancing factors $A_i$,  $D_j$ is the jobs count in the destination area and $d_{ij}$ is the distance between OD.
 
-Using Python, the Poisson regression model was built and the distance cost coefficient is calculated as: $\beta = 0.1555674653504901$ 
-By Verifing with the original flow data, the R2 of the result is: 0.26948467119657304.     
-And the RMSE of the reult is: 113.489.
+Using Python, the Poisson regression model was built and the distance cost coefficient is calculated as: $\beta = 0.12285035011456112$ 
+By verifing with the original flow data, the R2 of the result is 0.28991866504073127, which shows that the model need to be improved.    
+And the RMSE of the reult is 111.276, which seems good as as result.
 
-从理论上该模型的确定应该是合理的，但是结果的R2很低，并不理想。
-
+Futhermore, although the definition of the model is theoretically correct, the result of R2 is not very satisfactory and the result does not support the model well. Presumably, the reasons for this situation are:
+1. the existence of anomalies or noise points in the OD network. When there are anomalies or noise points, the gravity model is easily interfered, which leads to a bad model performance.
+2. The scale of data distribution in the OD network is too large. The gravity model relies on the physical distance between the OD, and if the data are not evenly distributed or there are discontinuous areas of density, the model will become less effective.
+3. The distribution of the data does not match the Poisson distribution. Because we assume the source data are Poisson distributed when the model is built, no Poisson test is performed. If the source data is not Poisson distributed, the regression result of the model will not be very good.
 
 <hr>
 
