@@ -85,7 +85,7 @@ Two strategies based on three central measure rankings, using sequential and non
 ### II.2. Impact measure with flows:
 对于加权网络，在1.2 中使用的两种imapct measures仍可以使用，因为ACC和DAC的计算都支持加权网络的计算，也就是说这两种参数的计算可以包含网络权重。除此之外，对于加权网络，我们还可以使用平均最短路径长度(Average Shortest Path Length)，来评价网络的紧密程度。ASPL表示了所有节点对之间的最短路径长度的平均值。一般来说，平均最短路径长度越小，说明节点之间的联系越紧密，信息传播的速度越快。对于London地铁网络，该值越小，说明旅客从出发站到目的站所需要经过的平均站点数量越少。 如果关闭某车站，ASPL值增加，说明该站点的关闭使得旅客所经过的平均站点数量增加，ASPL值变化的越大，说明该站点的去除对于旅客的地铁使用体验的影响越大。
 
-### III.3. Experiment with flows:
+### II.3. Experiment with flows:
 ？？？？？
 
 <hr>
@@ -155,6 +155,7 @@ Futhermore, although the definition of the model is theoretically correct, the r
 ## IV. Scenarios
 ## IV.1
 Scenario A可以基于III.2的Production-constrained Model，计算在Canary Wharf的工作岗位减少50%后的网络整体流量的变化。
+为了使得the number of commuters is conserved，需要对参数进行微调。即
 ## IV.2
 ## IV.3
 # Appendix
