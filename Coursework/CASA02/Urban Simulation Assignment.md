@@ -64,6 +64,7 @@ For which impact measure is better at assessing the damage after node removal, I
 ## II. Flows: weighted network: 
 ### II.1. Old vs new measure:
 The three Centrality measures described in 1.1 will need to be reconsidered when we consider passenger traffic into the London Tube network. First, DC is unchanged because the DC calculation method only considers the degree of the nodes and does not consider the weights of the network, so DC is unchanged. Secondly, for CC and BC, the normalized result of the foot traffic is used as the weight because it is added to the calculation as the weight. Meanwhile, because the node importance of CC and BC is calculated based on the distance cost, the meaning of distance cost is opposite to the meaning of pedestrian flow, so the difference between the normalized result and 1 needs to be taken as the weight cost in the end. After calculation, the results of CC and BC change as follows:       
+
 |Rank|name|cc|name|cc_w|name|bc|name|bc_w| 
 |--|--|--|--|--|--|--|--|--| 
 | 1 | <font size="2">Stratford</font> | 0.928 | <font size="2">Stratford</font> | 0.945 | <font size="2">Stratford</font> | 0.099 | <font size="2">Stratford</font> | 0.132 | 
@@ -82,7 +83,6 @@ The table shows that when flow is added as a weight to the importance calculatio
 ### II.2. Impact measure with flows:
 For weighted networks, the two imapct measures used in 1.2 can still be used, since both ACC and DAC calculations support the computation of weighted networks.    
 In addition, for weighted networks, we can also use Average Shortest Path Length (ASPL) to evaluate the closeness of the network.ASPL represents the average of the shortest path lengths between all node pairs. In general, the smaller the Average Shortest Path Length, the closer the nodes are to each other and the faster the information is disseminated. For the London Underground network, the smaller the value, the fewer the average number of stations a passenger needs to pass through to get from the departure station to the destination station. If a station is closed, the ASPL value increases, indicating that the closure of that station increases the average number of stations that passengers pass through. The larger the change in ASPL value, the greater the impact of the removal of that station on passengers' experience of using the subway.
-
 ### II.3. Experiment with flows:
 Using the best performing Betweenness Centrality found in I.3, the station importance of the weighted tube network can be evaluated and the results show as following: 
 ![[output2_3.png]]
@@ -152,7 +152,6 @@ _In this section, the code is hosted at at [Github](https://github.com/X-Fan-Jac
 ### IV.1 
 Scenario A can be based on the Production-constrained Model of III.2, which calculates the change in the overall network traffic after a 50% reduction in jobs at Canary Wharf.
 In order to make the number of commuters is conserved, the parameters need to be fine-tuned based on Equation $(7)$, i.e., the $A_i$ is recalculated based on the $A_i$ before the job reduction. Finally the flow is calculated using the same method as in III.2.
-
 ### IV.2 
 Define the distance cost function as
 $$
