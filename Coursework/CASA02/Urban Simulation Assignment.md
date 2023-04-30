@@ -133,7 +133,7 @@ $$Thus, we can get the formula as:$$
 
 $$Where $\alpha_i$ is the equivalent of the vector of balancing factors $A_i$, $P_i$ is the population of the origin area, $J_i$ is the jobs count in the origin area and $d_{ij}$ is the distance between OD. $\delta$ and $\epsilon$ are the constant coefficient, $\beta$ is the distance cost coefficient. 
 
-Using Python, the Poisson regression model was built and the distance cost coefficient is calculated as: $\beta = -0.1556$ 
+Using Python, the Poisson regression model was built and the distance cost coefficient is calculated as: $\beta = 0.1556$ 
 
 
 <hr>
