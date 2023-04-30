@@ -114,24 +114,32 @@ The gravity model is the most basic spatial interaction model, which can represe
 In addition, the agent-based model(ABM) is introduced in the course as a spatial interaction model. It has good simulation effect for urban phenomena such as traffic congestion.Futhermore, the course also introduces the cellular automata model. Cellular automata models are a special class of ABMs that can well represent the self-similarity of urban sprawl based on fractal geometry.   
 
 ### III.2
-The target of spatial interaction model is to models and predicts the number of occurrences of events in a certain time period. Thus, Poisson regression is chosen to build the prediction model. Because Poisson regression models assume that the response variables are Poisson distributed and model and predict count data better. Since, the number of people and the number of jobs at the origin are provided in the OD data. As a result, we can build an Attraction-Constrained Model by using the formula: 
+The target of spatial interaction model is to models and predicts the number of occurrences of events in a certain time period. Thus, Poisson regression is chosen to build the prediction model. Because Poisson regression models assume that the response variables are Poisson distributed and model and predict count data better. As a result, we can build a Production-constrained Model by using the formula:
 $$
 
-T_{ij} = D_j B_j O_i^\alpha d_{ij}^{-\beta}
+T_{ij} = A_i O_i D_j d_{ij}^{-\beta}
 
-$$Where$$
+$$
 
-D_j = \sum_i T_{ij}
+Where  
+$$
 
-$$and$$
+O_i = \sum_j T_{ij}
 
-B_j = \frac{1}{\sum_i O_i^\alpha d_{ij}^{-\beta}}
+$$
+and  
+$$
 
-$$Thus, we can get the formula as:$$
+A_i = \frac{1}{\sum_j D_j d_{ij}^{-\beta}}
 
-\lambda_{ij} = \exp (\alpha \ln O_i + \gamma_j - \beta \ln d_{ij})
+$$
+Thus, we can get the formula as:    
+$$  
 
-$$Where $\gamma_j$ is the equivalent of the vector of balancing factors $B_j$, $O_i$ is the attractive factor of origin $i$, which can be define as the number of jobs per person in $O_i=\frac {N_{Jobs}}{N_{Population}}$, and $d_{ij}$ is the distance between OD. 
+\lambda_{ij} = \exp (\alpha_i + \gamma \ln D_j - \beta \ln d_{ij})  
+
+$$
+Where $\alpha_i$ is the equivalent of the vector of balancing factors $A_i$,  $D_j$ is the jobs count in the destination area and $d_{ij}$ is the distance between OD.
 
 Using Python, the Poisson regression model was built and the distance cost coefficient is calculated as: $\beta = 0.1556$ 
 By Verifing, the R2 of the result is: 0.2695058980087207.     
