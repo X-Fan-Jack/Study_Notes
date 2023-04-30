@@ -154,7 +154,7 @@ Futhermore, although the definition of the model is theoretically correct, the r
 
 ## IV. Scenarios
 ## IV.1
-Scenario A可以基于III.2的Production-constrained Model，对工作机会减少的
+Scenario A可以基于III.2的Production-constrained Model，计算在Canary Wharf的工作岗位减少50%后的网络整体流量的变化。
 ## IV.2
 ## IV.3
 # Appendix
