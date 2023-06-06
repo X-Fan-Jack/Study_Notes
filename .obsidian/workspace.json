@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursework/CASA02/Urban Simulation Assignment.md",
+                "file": "Coursework/CASA04/Literature_Review/LiteratureReview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursework/CASA02/Urban Simulation Assignment.md",
+                "file": "Coursework/CASA04/Literature_Review/LiteratureReview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursework/CASA02/Urban Simulation Assignment.md",
+                "file": "Coursework/CASA04/Literature_Review/LiteratureReview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursework/CASA02/Urban Simulation Assignment.md"
+                "file": "Coursework/CASA04/Literature_Review/LiteratureReview.md"
               }
             }
           }
@@ -146,11 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0b07d5e92b6a4522",
+  "active": "2c6a4b032d2858a8",
   "lastOpenFiles": [
+    "Coursework/CASA04/Literature_Review/notes.md",
+    "Coursework/CASA04/Literature_Review/README.md",
+    "Coursework/CASA04/Literature_Review/LiteratureReview.md",
+    "Coursework/CASA04/Literature_Review/reference/Bibliography.md",
+    "Coursework/CASA04/Literature_Review/reference/Cools et al. - 2008 - Self-organizing traffic lights A realistic simula.pdf",
+    "Coursework/CASA02/Urban Simulation Assignment.md",
+    "Coursework/CASA04/README.md",
+    "Coursework/CASA04/Literature_Review/reference/Wei et al. - 2018 - IntelliLight A Reinforcement Learning Approach fo.pdf",
+    "Coursework/CASA04/Literature_Review/reference/Bibliography.rtf",
+    "Coursework/CASA04/Literature_Review/reference",
+    "Coursework/CASA04/Literature_Review",
+    "Coursework/CASA04",
     "Coursework/CASA02/Urban Simulation Assignment.pdf",
     "img/output2_3.png",
-    "Coursework/CASA02/Urban Simulation Assignment.md",
     "img/output2_3.png",
     "img/output1_3.png",
     "Coursework/CASA11/ABM_CW1/ABM_Coursework_1.md",
@@ -165,13 +176,6 @@
     "UCL_CASA06/Model Evaluation.md",
     "Coursework/CASA06/data/taxi_zones/taxi_zones.shx",
     "Coursework/CASA06/data/taxi_zones/taxi_zones.shp.xml",
-    "Coursework/CASA06/data/taxi_zones/taxi_zones.shp",
-    "Coursework/CASA06/data/taxi_zones/taxi_zones.sbx",
-    "Coursework/CASA06/data/taxi_zones/taxi_zones.sbn",
-    "Coursework/CASA06/data/taxi_zones/taxi_zones.prj",
-    "Coursework/CASA06/data/taxi_zones/taxi_zones.dbf",
-    "Coursework/CASA06/data/taxi_zones",
-    "Coursework/CASA06/data/taxi_zone_lookup.csv",
     "UCL_CASA11/Cellular Automata.md",
     "UCL_CASA11/Agent-Based Model.md",
     "UCL_CASA02/Network.md",
