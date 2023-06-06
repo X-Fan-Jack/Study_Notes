@@ -10,7 +10,9 @@ Control of traffic signals in the existing traffic network can effectively reduc
 
 There are many way to optimize the pattern of the traffic signal to achive the 11th UN Sustainable Development Goal and many researchers have made their contribution in this area. 
 
-These researches mainly have three parts. The first part is simulating the urban traffic system by using some methods, the second part is using different methods to investigate the best proper pattern of the traffic signal and the third part of is how to evaluate these methods and how extend it can intergrated to the current traffic system. For example, Wei, Hua and his partners using SUMO([Simulation of Urban MObility](https://www.eclipse.org/sumo/)), which is a open source lib developmed by German, to simulate the urban road network and using reforcement learning to train a model to optimize the signal pattern. They used the real time statistic data from camera to train their model, which can make a higher correlation between their work and reality.make their work more reality. They also using the memory palace and the phase gate in their reforcement learning algorithm to enhance the long term memory ablilty and sensitivity of their model.
+These researches mainly have three parts. The first part is simulating the urban traffic system by using some methods, the second part is using different methods to investigate the best proper pattern of the traffic signal and the third part of is how to evaluate these methods and how extend it can intergrated to the current traffic system. For example, Wei, Hua and his partners using SUMO([Simulation of Urban MObility](https://www.eclipse.org/sumo/)), which is a open source lib developmed by German, to simulate the urban road network and using reforcement learning to train a model to optimize the signal pattern. They used the real time statistic data from camera to train their model, which can make a higher correlation between their work and reality and make their work more practical. They also using the memory palace and the phase gate in their reforcement learning algorithm to enhance the long term memory ablilty and sensitivity of their model.  
+
+In the context of traffic simulation, ABM enables us to model the intricate interactions between different road users - motorists, pedestrians, cyclists, public transportation vehicles, etc., as well as the interaction of these users with traffic control measures such as traffic lights. The application of ABM in traffic simulations brings the promise of capturing the heterogeneity, interactions, and adaptive behaviors of individual agents, thereby offering more realistic traffic flow patterns and congestion scenarios.
 
 Traditional traffic signal control methods often adopt fixed-time intervals, which tend to be ineffective in the face of complex and ever-changing urban traffic flows. With the recent advancements in artificial intelligence and machine learning technologies, new tools have emerged to tackle traffic congestion, among which Reinforcement Learning (RL) shows immense potential. Reinforcement Learning is a method of machine learning that enables an agent to learn how to take actions in an environment to maximize some notion of cumulative reward. By employing RL algorithms, we can empower traffic signal control systems to self-learn how to make optimal decisions under various traffic situations, with the goal to minimize traffic congestion and enhance road traffic efficiency to the greatest extent. 
 
@@ -18,13 +20,15 @@ Traditional traffic signal control methods often adopt fixed-time intervals, whi
 
 (Discuss the key concepts in reinforcement learning and ABM.)
 
+ABM is a bottom-up modeling approach in which a system is modeled as a collection of autonomous decision-making entities called 'agents'. Each agent individually assesses its situation and makes decisions based on a set of rules.
+
 ## 3. Application in Traffic Signal Control:
 
 (Provide a detailed account of the applications of reinforcement learning and abm in traffic signal control.)
 
-### RL
+### ABM   
 
-### ABM
+### RL
 
 ### Integrated Application
 
