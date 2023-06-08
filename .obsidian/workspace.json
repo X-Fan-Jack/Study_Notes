@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3f6d6e7e98e6675",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2faff84321d7ae1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0b07d5e92b6a4522",
+  "active": "b3f6d6e7e98e6675",
   "lastOpenFiles": [
     "Coursework/CASA04/Literature_Review/~WRL3926.tmp",
     "Coursework/CASA04/Literature_Review/~WRD3918.tmp",
