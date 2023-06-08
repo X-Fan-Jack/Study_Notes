@@ -1,5 +1,5 @@
 _This is the assignment for the UCL CASA module Urban Simulation (CASA0002)_
-_Code & data is hosted and availble at [Github](https://github.com/X-Fan-Jack/Study_Notes/tree/master/Coursework/CASA02)_
+_Code & data is hosted and available at [Github](https://github.com/X-Fan-Jack/Study_Notes/tree/master/Coursework/CASA02)_
 **Word count: 2968**
 
 # Part 1: London’s underground resilience:
