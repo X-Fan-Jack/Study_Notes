@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursework/CASA02/Urban Simulation Assignment.md",
+                "file": "Coursework/CASA04/Model_Design/ODD.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursework/CASA02/Urban Simulation Assignment.md",
+                "file": "Coursework/CASA04/Model_Design/ODD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursework/CASA02/Urban Simulation Assignment.md",
+                "file": "Coursework/CASA04/Model_Design/ODD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursework/CASA02/Urban Simulation Assignment.md"
+                "file": "Coursework/CASA04/Model_Design/ODD.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   "active": "55c8172073e98962",
   "lastOpenFiles": [
     "Coursework/CASA02/Urban Simulation Assignment.md",
+    "Coursework/CASA04/Model_Design/ODD.md",
+    "Coursework/CASA04/Model_Design",
     "Coursework/CASA02/Urban Simulation Assignment.pdf",
     "img/1676656047620.jpg",
     "Coursework/CASA04/Literature_Review/~WRL3926.tmp",
@@ -172,7 +174,6 @@
     "Coursework/CASA04/Literature_Review/reference/Bibliography.md",
     "Coursework/CASA04/Literature_Review/reference/Cools et al. - 2008 - Self-organizing traffic lights A realistic simula.pdf",
     "Coursework/CASA04/README.md",
-    "Coursework/CASA04/Literature_Review/reference/Wei et al. - 2018 - IntelliLight A Reinforcement Learning Approach fo.pdf",
     "img/output2_3.png",
     "img/output2_3.png",
     "img/output1_3.png",
