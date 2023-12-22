@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef61ac9e44244040",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55c8172073e98962",
+  "active": "ef61ac9e44244040",
   "lastOpenFiles": [
     "Coursework/CASA02/Urban Simulation Assignment.md",
     "Coursework/CASA04/Model_Design/ODD.md",
